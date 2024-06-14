@@ -1,0 +1,12 @@
+subject;predicate;object
+Ancient Egypt;divided into;distinct time periods
+Ancient Egypt;characterized by;different dynasties
+Ancient Egypt;characterized by;powerful rulers
+Early Dynastic Period;with;ruler Menes
+Early Dynastic Period;with;ruler Djoser
+New Kingdom;with;ruler Hatshepsut
+New Kingdom;with;ruler Tutankhamun
+Intermediate Periods;marked by;challenges in central government control
+Greco-Roman Period;saw;Egypt under foreign rule
+Greco-Roman Period;under rule of;Alexander the Great
+Greco-Roman Period;under rule of;Cleopatra

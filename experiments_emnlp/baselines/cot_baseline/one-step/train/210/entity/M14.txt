@@ -1,0 +1,8 @@
+entity;surface
+Ptolemy I Soter;Ptolemy I Soter, Ptolemy
+Macedonian;Macedonian
+Alexander the Great;Alexander the Great
+Egypt;Egypt
+pharaoh;pharaoh
+Great Library of Alexandria;Great Library of Alexandria
+Euclid;Euclid

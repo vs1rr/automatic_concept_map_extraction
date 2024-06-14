@@ -1,0 +1,8 @@
+entity;surface
+Bruce Castle Park;Bruce Castle Park
+Tottenham Cemetery;Tottenham Cemetery
+Harringey Council;Harringey Council
+Sir Rowland Hill;Sir Rowland Hill
+Royal Mail;Royal Mail
+Wood Green Empire;Wood Green Empire
+High Street;High Street

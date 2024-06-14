@@ -1,0 +1,10 @@
+subject;predicate;object
+Bruce Castle Museum;is a;Grade I listed 16th-century manor house
+William Compton;built;Bruce Castle Museum
+Bruce Castle Museum;has;rich history
+Coleraine family;owned;Bruce Castle Museum
+Sir Rowland Hill;ran;progressive school for boys
+Sir Rowland Hill;known for;reforming British postal system
+museum;showcases;local history collections and archives
+Visitors;can explore;museum
+Visitors;are advised to book;in advance for archives Search Room

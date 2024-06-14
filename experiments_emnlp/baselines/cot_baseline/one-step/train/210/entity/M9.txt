@@ -1,0 +1,37 @@
+entity;surface
+Ancient Egypt;Ancient Egypt, Egypt
+30 centuries;almost 30 centuries
+historians;historians
+archaeologists;archaeologists
+pyramids;pyramids
+religious traditions;religious traditions
+art;art
+Predynastic Period;Predynastic Period
+Egyptian civilization;Egyptian civilization
+Archaic Period;Archaic Period
+society;society
+kingship;kingship
+Old Kingdom;Old Kingdom
+pyramid builders;pyramid builders
+prosperity;prosperity
+First Intermediate Period;First Intermediate Period
+Middle Kingdom;Middle Kingdom
+foreign policy;foreign policy
+Second Intermediate Period;Second Intermediate Period
+division;division
+foreign rule;foreign rule
+New Kingdom;New Kingdom
+Hatshepsut;Hatshepsut
+Akhenaton;Akhenaton
+Third Intermediate Period;Third Intermediate Period
+politics;politics
+local rulers;local rulers
+Late Period;Late Period
+Persian rule;Persian rule
+rebellions;rebellions
+independence;independence
+Alexander the Great;Alexander the Great
+conquest;conquest
+Roman rule;Roman rule
+Christianity;Christianity
+Islam;Islam

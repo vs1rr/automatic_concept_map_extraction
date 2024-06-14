@@ -1,0 +1,25 @@
+entity;surface
+Late Antiquity;Late Antiquity
+350 to 600;350, 600
+Byzantine Empire;Byzantine Empire
+empire;empire
+Byzantine strength;Byzantine strength
+intellectual life;intellectual life
+science;science
+medicine;medicine
+Christian church;Christian church
+leadership;leadership
+church;church
+Christian monasticism;Christian monasticism
+Christian ideas;Christian ideas
+practices;practices
+missionaries;missionaries
+conversion;conversion
+migrating peoples;migrating peoples
+Germanic kingdoms;Germanic kingdoms
+Anglo-Saxon England;Anglo-Saxon England
+barbarian society;barbarian society
+Christianity;Christianity
+monasticism;monasticism
+societal structures;societal structures
+Germanic tribes;Germanic tribes

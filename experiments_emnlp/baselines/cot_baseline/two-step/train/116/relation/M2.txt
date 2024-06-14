@@ -1,0 +1,12 @@
+subject;predicate;object
+Bramshill House;located_in;Hampshire
+Bramshill House;has_history_in;Saxon times
+Bramshill House;rebuilt_by;Thomas Foxley
+Bramshill House;completed_by;Edward Zouche
+Bramshill House;has_owner;Cope family
+Bramshill House;has_owner;Lord Brocket
+Bramshill House;was_home_to;King Michael
+Bramshill House;was_home_to;Queen Ana
+Bramshill House;has_feature;cricket ground
+cricket ground;located_in;Bramshill House
+cricket ground;hosted;first-class matches

@@ -1,0 +1,10 @@
+subject;predicate;object
+Napoleon;led to;transfer of the Portuguese royal family to Brazil in 1807
+Portuguese Empire;decline during;Napoleonic Wars
+Portuguese royal family;transferred to;Brazil in 1807
+Portugal;decline of;Portuguese Empire
+Dom Pedro;played a role in;declaring Brazil's independence from Portugal in 1822
+Brazil;declared independence from;Portugal in 1822
+Brazil;had movements for independence in;late 18th century
+Brazil;was colonized in;early colonization
+Dom Pedro;declared;Brazil's independence from Portugal in 1822

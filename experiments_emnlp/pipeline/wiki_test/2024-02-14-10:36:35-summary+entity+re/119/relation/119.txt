@@ -1,0 +1,62 @@
+rail, accessible by, road
+maritime painting, owned by, Lord Caldecote
+Clifton, located in the administrative territorial entity, Bristol
+two universities, located in the administrative territorial entity, Bristol
+Isambard Kingdom Brunel, notable work, Great Western Railway
+Inside Out West, distributed by, BBC
+South East, located in the administrative territorial entity, London
+Inside Out West, original broadcaster, BBC
+Bristol, instance of, city
+Bristol, instance of, county
+Windsor Bridge, designed by, Brunel
+Trustees, item, compensation
+Clifton Suspension Bridge, location, Bristol
+economy <subj><triplet><triplet> economy <subj><triplet><triplet> economy, has evolved over the years, creative-media
+Inside Out West, production company, BBC
+Clifton Suspension Bridge, located in the administrative territorial, Bristol
+South East, different from, London
+Bristol, heritage, maritime heritage
+Granary in Bristol, architectural style, Bristol Byzantine
+British Empire and Commonwealth Museum, location, Bristol
+maritime painting, depicts, Lord Caldecote
+Windsor Bridge, designed by, Brunel's designs for bridges
+Brunel, date of birth, 1806
+road, connects with, rail
+Floating Harbour, located in the administrative territorial, Bristol
+Granary in Bristol, inception, 1869
+Banksy, field of work, street art
+universities, located in the administrative territorial entity, Bristol
+British Empire and Commonwealth Museum, headquarters location, Bristol
+Gareth Griffiths, position held, director of the museum
+South West, instance of, region of England
+Bristol, located in the administrative territorial entity, county
+economy <subj><triplet><triplet> economy <subj><triplet><triplet> economy, has evolved over the years, electronics
+Brunel, notable work, Thames Tunnel
+Venetian, influenced by, Byzantine
+Clifton Suspension Bridge, instance of, roadside landmarks
+Isambard Kingdom Brunel, occupation, civil
+green space, offers access to, park
+Wharncliffe Viaduct, operator, Great Western Railway
+South East, located in the administrative, London
+green space, access to, parks
+Clifton, located in the administrative territorial, Bristol
+Clifton Suspension Bridge, country, UK
+restaurant, converted into, flats
+Clifton Suspension Bridge, located in the administrative territorial entity, Bristol
+Isambard Kingdom Brunel, notable, Great Western Railway
+Gareth Griffiths, position, director of the museum
+green space, are access to, park
+economy, industry, electronics
+Banksy, genre, street art
+British Empire and Commonwealth Museum, located in the administrative territorial entity, Bristol
+Trustees, item, item
+economy <subj><triplet><triplet> economy <subj><triplet><triplet> economy, has evolved over the years, industry
+rail, connects with, road
+South West, located in the administrative territorial entity, England
+rock music, subclass of, restaurant
+Floating Harbour, located in the administrative territorial entity, Bristol
+Bristol's Floating Harbour, inception, 1809
+fortifications, time period, medieval
+Wharncliffe Viaduct, carries, Great Western Railway
+police, has investigated, loss of objects
+Banksy, field of, street art

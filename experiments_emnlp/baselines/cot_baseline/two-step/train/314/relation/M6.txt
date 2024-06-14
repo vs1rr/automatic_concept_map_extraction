@@ -1,0 +1,12 @@
+subject;predicate;object
+CSI effect;is a phenomenon;where law enforcement and prosecutors believe that forensic science TV shows like CSI influence jurors to expect more forensic evidence in trials
+law enforcement and prosecutors;believe;that forensic science TV shows like CSI influence jurors to expect more forensic evidence in trials
+professionals;worry about;unrealistic expectations
+empirical research;has not conclusively proven;the CSI Effect's impact on jury decisions
+Some studies;suggest;that viewers of such shows have higher expectations for scientific evidence
+viewers;have;higher expectations for scientific evidence
+viewers;are influenced by;technological advancements in their own lives
+jurors;are influenced by;technological advancements in their own lives
+popularity of these TV dramas;has led to;an increase in universities offering forensic science degrees
+universities;are offering;forensic science degrees
+students;are pursuing;forensic science degrees

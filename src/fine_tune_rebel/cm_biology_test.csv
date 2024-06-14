@@ -1,0 +1,32 @@
+,context,triplets
+198,"Steroid – Examples of steroid hormones include the sex hormones estradiol and testosterone as well as the stress hormone cortisol.
+",<triplet> hormone <subj> testosterone <obj> include
+199,"Instead, hydrogen tends to combine with other atoms in compounds, or with itself to form ordinary (diatomic) hydrogen gas, H2.",<triplet> hydrogen <subj> hydrogen gas <obj> form
+200,"The most abundant isotope, hydrogen-1, protium, or light hydrogen, contains no neutrons and is just a proton and an electron.",<triplet> hydrogen <subj> no neutron <obj> contains
+201,"For example, a water molecule contains two hydrogen atoms, but does not contain atomic hydrogen (which would refer to isolated hydrogen atoms).
+",<triplet> molecule <subj> hydrogen <obj> contains
+202,An unusual property of ice frozen at atmospheric pressure is that the solid is approximately 8.3% less dense than liquid water.,<triplet> ice <subj> less dense than liquid water <obj> is
+203,"The transition from ice to water is melting and from ice directly to water vapor is sublimation.
+",<triplet> ice <subj> sublimation <obj> transition directly to water vapor
+204,"Some insects damage crops by feeding on sap, leaves or fruits.",<triplet> insect <subj> fruit <obj> feeding on
+205,"However, interphase does not describe a cell that is merely resting; rather, the cell is actively living, and preparing for later cell division, so the name was changed.",<triplet> interphase <subj> cell division <obj> preparing
+206,"Ionic bonding is a type of chemical bond that involves the electrostatic attraction between oppositely charged ions, and is the primary interaction occurring in ionic compounds.",<triplet> ionic bond <subj> attraction between oppositely <obj> involves
+207,"Ionic bonding is a type of chemical bond that involves the electrostatic attraction between oppositely charged ions, and is the primary interaction occurring in ionic compounds.",<triplet> ionic bond <subj> charged ions <obj> involves
+208,"A liquid is made up of tiny vibrating particles of matter, such as atoms, held together by intermolecular bonds.",<triplet> liquid <subj> matter <obj> is made up of
+209,"The heat can be removed by channeling the liquid through a heat exchanger, such as a radiator, or the heat can be removed with the liquid during evaporation.",<triplet> liquid <subj> evaporation <obj> will
+210,"A lysosome (derived from the Greek words lysis, meaning ""to loosen"", and soma, ""body"") is a membrane-bound cell organelle found in most animal cells (they are absent in red blood cells).",<triplet> lysosome <subj> animal cell <obj> found in
+211,"Carnivorous mammals have a simple digestive tract, because the proteins, lipids, and minerals found in meat require little in the way of specialized digestion.",<triplet> mammals <subj> digestion <obj> have
+212,"In meiosis, DNA replication is followed by two rounds of cell division to produce four potential daughter cells, each with half the number of chromosomes as the original parent cell.",<triplet> meiosis <subj> two rounds of cell division <obj> is followed by
+213,Meiosis produces haploid gametes (ova or sperm) that contain one set of 23 chromosomes.,<triplet> meiosis <subj> sperm <obj> produces
+214,"While the process of meiosis is related to the more general cell division process of mitosis, it differs in two important respects:
+Meiosis begins with a diploid cell, which contains two copies of each chromosome, termed homologs.",<triplet> meiosis <subj> mitosis <obj> is related to
+215,"Meiosis II is an equational division analogous to mitosis, in which the sister chromatids are segregated, creating four haploid daughter cells (1n, 1c).
+
+
+",<triplet> meiosis <subj> four haploid daughter cells <obj> creating
+216,"Preceded by events in prometaphase and followed by anaphase, microtubules formed in prophase have already found and attached themselves to kinetochores in metaphase.
+",<triplet> metaphase <subj> anaphase <obj> followed by
+217,"Preceded by events in prometaphase and followed by anaphase, microtubules formed in prophase have already found and attached themselves to kinetochores in metaphase.
+",<triplet> metaphase <subj> prometaphase <obj> preceded by
+218,"Metaphase (from the Greek μετά, ""adjacent"" and φάσις, ""stage"") is a stage of mitosis in the eukaryotic cell cycle in which chromosomes are at their second-most condensed and coiled stage (they are at their most condensed in anaphase).",<triplet> metaphase <subj> mitosis <obj> is stage of
+219,The mitochondrion (plural mitochondria) is a double membrane-bound organelle found in most eukaryotic cells.,<triplet> mitochondria <subj> eukaryotic cell <obj> found in

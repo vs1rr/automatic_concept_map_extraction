@@ -1,0 +1,17 @@
+entity;predicate;surface
+Book of Kells;contains;678 illustrated pages
+Book of Kells;made of;calf-skin
+Book of Kells;created in;Columban Monastery
+Book of Kells;features;intricate illustrations and symbols
+Book of Kells;references;four tribal standards
+Book of Kells;symbolizes;tribes
+Book of Kells;reflects;Irish connection to Israelites
+Columban Monastery;located in;Iona
+Four symbols;represent;Twelve Tribes of Israel
+Irish people;believed to be descendants of;Tribe of Dan
+Tribe of Dan;migrated to;Ireland
+Book of Kells;references;four tribal standards
+Four tribal standards;mentioned in;Apocalypse/Revelation
+Four tribal standards;linked to;tribes of Israel
+Emblems;symbolize;tribes
+Emblems;reflect;Irish connection to Israelites

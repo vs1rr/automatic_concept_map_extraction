@@ -1,0 +1,17 @@
+subject;predicate;object
+Capon Bridge, WV;offer;Baptist
+Capon Bridge, WV;offer;Methodist
+Capon Bridge, WV;offer;Christian and Missionary Alliance
+Capon Bridge, WV;offer;Foursquare
+Capon Bridge, WV;offer;Assemblies of God
+Amazing Grace Baptist Church;is part of;Baptist
+Bethel United Methodist Church;is part of;Methodist
+Capon Bible Fellowship;is part of;Christian and Missionary Alliance
+Capon Bridge Foursquare Church;is part of;Foursquare
+Capon Bridge United Methodist Church;is part of;Methodist
+Capon Chapel United Methodist Church;is part of;Methodist
+Central United Methodist Church;is part of;Methodist
+Mountain View Assembly of God;is part of;Assemblies of God
+North River Mills United Methodist Church;is part of;Methodist
+Shiloh United Methodist Church;is part of;Methodist
+Willow Chapel United Methodist Church;is part of;Methodist

@@ -1,0 +1,12 @@
+entity;surface
+Skiddle;Skiddle
+Bruce Castle Park;Bruce Castle Park
+Lordship Lane London N17;Lordship Lane London N17
+London;London
+budget hotels;budget hotels
+luxury options;luxury options
+walk-in rates;walk-in rates
+booking fees;booking fees
+serviced apartments;serviced apartments
+guests;guests
+online;online

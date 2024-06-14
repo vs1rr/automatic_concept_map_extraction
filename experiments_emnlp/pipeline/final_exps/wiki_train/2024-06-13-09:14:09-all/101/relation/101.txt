@@ -1,0 +1,11 @@
+7 World Trade Center, located in the administrative territorial entity, New York City
+September 11 attacks, point in time, September 11, 2001
+controlled demolition, facet of, WTC 7
+controlled demolition, instance of, conspiracy theories
+September 11, 2001, location, New York City
+September 11 attacks, point in time, 1987
+collapse of World Trade Center Building 7, point in time, September 11, 2001
+7 World Trade Center, instance of, controlled demolition
+WTC 7, significant event, controlled demolition
+controlled demolition, subclass of, conspiracy theories
+Account 2, main subject, controlled demolition of WTC 7

@@ -1,0 +1,7 @@
+entity;surface
+California;California
+gold rush;California gold rush
+1848;1848
+James W. Marshall;James W. Marshall
+Sutter's Mill;Sutter's Mill
+Coloma;Coloma

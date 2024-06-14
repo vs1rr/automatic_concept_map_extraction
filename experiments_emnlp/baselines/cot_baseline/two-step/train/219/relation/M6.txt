@@ -1,0 +1,18 @@
+subject;predicate;object
+Manhattan Project;was a groundbreaking success in;nuclear science
+Albert Einstein;warned;President Roosevelt
+Albert Einstein;warned;potential of atomic bombs
+Albert Einstein;warned;threat of Germany's nuclear project
+project;was top-secret due to;fears of enemy nations obtaining nuclear technology
+Safety measures;included;radiation detectors
+Safety measures;included;nose swabs for plutonium dust
+bombs;devastated;Hiroshima
+bombs;devastated;Nagasaki
+bombs;caused;significant loss of life
+project's cost;was equivalent to;less than nine days of wartime spending
+Security measures;included;lie detector tests
+Security measures;included;strict punishments for disclosing secrets
+British;played;a crucial role in the project's development
+Construction and testing sites;were spread across;U.S.
+project's success;led to;atomic bombings
+project's success;led to;establishment of the Manhattan Project

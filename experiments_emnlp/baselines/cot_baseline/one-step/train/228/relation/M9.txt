@@ -1,0 +1,12 @@
+subject;predicate;object
+James "Jim" Bowie;was a prominent figure in;Texas Revolution
+James "Jim" Bowie;known for;his role in the Battle of the Alamo
+James "Jim" Bowie;known for;the famous "Bowie knife"
+James "Jim" Bowie;Born in;Kentucky
+James "Jim" Bowie;gained fame for;his frontier spirit and fighting skills
+James "Jim" Bowie;becoming;a colorful folk hero in Texas history
+James "Jim" Bowie;death at;the Alamo
+James "Jim" Bowie;solidified;his hero status
+James "Jim" Bowie;reflects;the American dream
+James "Jim" Bowie;pursued;success at any cost
+James "Jim" Bowie;embodies;the push to the West

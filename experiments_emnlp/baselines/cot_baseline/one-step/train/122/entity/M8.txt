@@ -1,0 +1,15 @@
+entity;surface
+English castles;various English castles
+manor houses;manor houses
+Alnwick Castle;Alnwick Castle
+Northumberland;Northumberland
+Tamworth Castle;Tamworth Castle
+Staffordshire;Staffordshire
+construction;construction
+ownership;ownership
+notable events;notable events
+preservation efforts;preservation efforts
+historical sites;historical sites
+heritage;rich heritage
+architectural styles;diverse architectural styles
+England;England

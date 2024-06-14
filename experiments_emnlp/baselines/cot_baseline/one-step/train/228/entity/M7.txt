@@ -1,0 +1,15 @@
+entity;surface
+Jim Bowie;Jim Bowie
+Heritage Auctions;Heritage Auctions
+Texana Grand Format Auction;Texana Grand Format Auction
+Dallas;Dallas
+$62,500;$62,500
+Texas;Texas
+Sam Houston;Sam Houston
+Davy Crockett;Davy Crockett
+William Barret Travis;William Barret Travis
+$587,701;$587,701
+Sam Houston;Sam Houston
+Texas;Texas
+1867;1867
+Texas;Texas

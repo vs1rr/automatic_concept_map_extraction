@@ -1,0 +1,46 @@
+Sir Arthur Conan Doyle, instance of, fairy
+son, sibling, brother
+fairies, creator, Arthur Conan Doyle
+Doyle and Edward Gardner, field of work, spiritualism
+tragedy, has effect, grief
+The Strand Magazine, editor, Arthur Conan Doyle
+Doyle, student, Edward Gardner
+Cottingley, located in the administrative territorial entity, England
+grief, subclass of, tragedy
+Cottingley Fairies, depicts, fairies
+fairy, instance of, belief
+Frances, sibling, Elsie
+Arthur Conan Doyle, field of work, spiritualism
+Sir Arthur Conan Doyle, field of work, spiritualists
+Cottingley Fairies, instance of, hoax
+Cottingley Fairies Camera, collection, National Media Museum
+fairies, instance of, spiritualism
+Cottingley Fairies, point in time, 1917
+Sherlock Holmes, creator, Sir Arthur Conan Doyle
+Cottingley fairy photos, instance of, fraud
+Arthur Conan Doyle, religion, spiritualism
+Edward Gardner, student of, Doyle
+Cottingley Fairies, inception, 1917
+Cottingley Fairies, instance of, nature spirits
+Elsie, sibling, Frances
+fairies, named after, Cottingley
+Arthur Conan Doyle, member of, Theosophical Society
+fairies, instance of, belief
+fairies, located in the administrative territorial entity, England
+film, instance of, hoax
+Arthur Conan Doyle, instance of, fairy
+Lord Uxbridge's wooden leg, conflict, Battle of Waterloo
+Sherlock Holmes, creator, Arthur Conan Doyle
+film, main subject, hoax
+fairy, instance of, belief in
+Edward Gardner, field of work, spiritualism
+brother, sibling, son
+Sir Arthur Conan Doyle, field of work, spiritualist
+Sir Arthur Conan Doyle, member of, Theosophical Society
+film, based on, hoax
+fairy photos, location, Cottingley
+Lord Uxbridge, conflict, Battle of Waterloo
+Cottingley Fairies, subclass of, hoax
+fairies, facet of, spiritualism
+fairy photos, named after, Cottingley
+loss, has effect, grief

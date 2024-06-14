@@ -1,0 +1,18 @@
+subject;predicate;object
+Byzantine Empire;centered on;Constantinople
+Byzantine Empire;reached its height under;Macedonian emperors
+Byzantine Empire;fell to;Ottoman Empire
+Byzantine Empire;achievements include;codification of Roman law under Justinian
+Byzantine Empire;achievements include;construction of Hagia Sophia
+Byzantine Empire;culture influenced by;Hellenization
+Byzantine Empire;played a key role in passing on classical culture to;Renaissance Italy and early modern Europe
+Roman Empire;centered on;Constantinople
+Roman Empire;continued as;Byzantine Empire
+Roman Empire;codification of law under;Justinian
+Constantinople;was the center of;Byzantine Empire
+Constantinople;fell to;Ottoman Empire in 1453
+Macedonian emperors;ruled the;Byzantine Empire
+Justinian I;codified Roman law under;Justinian
+Hagia Sophia;was constructed in;Byzantine Empire
+Hellenization;influenced;Byzantine Empire
+classical culture;passed on to;Renaissance Italy and early modern Europe

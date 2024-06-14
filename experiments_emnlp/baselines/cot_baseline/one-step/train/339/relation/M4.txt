@@ -1,0 +1,11 @@
+subject;predicate;object
+Alien and Sedition Acts;passed in;1798
+Alien and Sedition Acts;aimed to restrict;immigration
+Alien and Sedition Acts;aimed to deport;non-citizens
+Alien and Sedition Acts;aimed to criminalize;criticism of the government
+Alien and Sedition Acts;repealed after;Thomas Jefferson's party came to power
+Sedition Act;led to the prosecution of;individuals critical of the government
+Alien Enemies Act;was used in;World War II
+Alien Enemies Act;continues to be relevant in;the 21st century
+opposition;led to;Virginia and Kentucky Resolutions
+Virginia and Kentucky Resolutions;denouncing;the federal legislation

@@ -1,0 +1,10 @@
+subject;predicate;object
+Book of Kells;created in;medieval Ireland
+Book of Kells;housed in;Trinity College Library
+replica;kept at;Hackley Public Library
+replica;acquired through;fundraising campaign
+facsimile edition;displayed in;special case
+facsimile edition;listed with;donors' names
+facsimile edition;believed to be;only such replica in a North American public library
+Visitors;can view;video
+Visitors;can borrow;commentary volume

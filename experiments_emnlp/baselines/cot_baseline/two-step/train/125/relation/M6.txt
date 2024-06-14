@@ -1,0 +1,62 @@
+subject;predicate;object
+Capon Bridge Foursquare Church;denomination;Foursquare
+Bethel United Methodist Church;denomination;Methodist
+Mountain View Assembly of God;denomination;Assemblies of God
+Amazing Grace Baptist Church;denomination;Baptist
+Capon Chapel United Methodist Church;location;Capon Bridge, WV
+Capon Chapel United Methodist Church;denomination;United Methodist Church
+Capon Chapel United Methodist Church;built_in;1852
+Capon Chapel United Methodist Church;phone_number;(304) 856-2483
+Capon Chapel United Methodist Church;pastor;Pastor Alannah Mc Guinn
+Capon Chapel United Methodist Church;sunday_service_time;10:00 AM
+Capon Chapel United Methodist Church;sunday_service_time;11:00 AM
+Capon Chapel United Methodist Church;address;1999 Fried Meat Ridge Road, Keyser, WV 26726
+Capon Chapel United Methodist Church;latitude;39.2698239
+Capon Chapel United Methodist Church;longitude;-78.4444521
+Capon Chapel United Methodist Church;historic_significance;National Register of Historic Places
+Capon Chapel United Methodist Church;historic_significance;Civil War veterans
+Capon Chapel United Methodist Church;historic_significance;African Americans
+Capon Chapel United Methodist Church;historic_significance;War of 1812
+Capon Chapel United Methodist Church;historic_significance;Virginia House of Delegates
+Capon Chapel United Methodist Church;historic_significance;Mary Ann Caudy
+Capon Chapel United Methodist Church;historic_significance;Lemuel Nixon
+Capon Chapel United Methodist Church;historic_significance;Chapon Chapel
+Capon Chapel United Methodist Church;historic_significance;Capone Chapel Cemetery
+Capon Chapel United Methodist Church;historic_significance;1869
+Capon Chapel United Methodist Church;historic_significance;Chain Bridge
+Capon Chapel United Methodist Church;historic_significance;William C. Nixon
+Capon Chapel United Methodist Church;historic_significance;1789
+Capon Chapel United Methodist Church;historic_significance;Levels, WV
+Capon Chapel United Methodist Church;historic_significance;Jane Arnold
+Capon Chapel United Methodist Church;historic_significance;Kenya
+Capon Chapel United Methodist Church;historic_significance;cookbooks
+Capon Chapel United Methodist Church;historic_significance;Heather Rogers
+Capon Chapel United Methodist Church;historic_significance;Certified Lay Minister
+Capon Chapel United Methodist Church;historic_significance;Louise Link
+Capon Chapel United Methodist Church;historic_significance;John Wesley
+Capon Chapel United Methodist Church;historic_significance;Chris Leatherman
+Capon Chapel United Methodist Church;historic_significance;Sunday School
+Capon Chapel United Methodist Church;historic_significance;Worship Service
+Capon Chapel United Methodist Church;historic_significance;304.492.5838
+Capon Chapel United Methodist Church;historic_significance;September 27, 2012
+Capon Chapel United Methodist Church;historic_significance;West Virginia Archives and History Commission
+Capon Chapel United Methodist Church;historic_significance;Archives and History
+Capon Chapel United Methodist Church;historic_significance;Historic Preservation
+Capon Chapel United Methodist Church;historic_significance;National Register
+Capon Chapel United Methodist Church;historic_significance;grants
+Capon Chapel United Methodist Church;historic_significance;markers
+Capon Chapel United Methodist Church;historic_significance;by-laws
+Capon Chapel United Methodist Church;historic_significance;Baptists
+Capon Chapel United Methodist Church;historic_significance;Methodist church
+Capon Chapel United Methodist Church;historic_significance;United Methodist Church
+Capon Chapel United Methodist Church;historic_significance;rural religious architecture
+Capon Chapel United Methodist Church;historic_significance;pews
+Capon Chapel United Methodist Church;historic_significance;1857
+Capon Chapel United Methodist Church;historic_significance;cemetery
+Capon Chapel United Methodist Church;historic_significance;gravestones
+Capon Chapel United Methodist Church;historic_significance;1834
+Capon Chapel United Methodist Church;historic_significance;community events
+Capon Chapel United Methodist Church;historic_significance;burials
+Capon Chapel United Methodist Church;historic_significance;WV 26711
+Capon Chapel United Methodist Church;historic_significance;ZIP Code
+Capon Chapel United Methodist Church;historic_significance;business name

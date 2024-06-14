@@ -1,0 +1,7 @@
+subject;predicate;object
+Capon Chapel;has Pastor;Chris Leatherman
+Capon Chapel;has contact number;304.492.5838
+Capon Chapel;has mailing address;1999 Fried Meat Ridge Road, Keyser, WV 26726
+Chris Leatherman;is member of;Capon Chapel
+Chris Leatherman;leads;Sunday School
+Chris Leatherman;leads;Worship Service

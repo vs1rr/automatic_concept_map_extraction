@@ -1,0 +1,9 @@
+subject;predicate;object
+Manhattan Project;involved;science, industry, and technology
+Albert Einstein;warned;President Roosevelt
+bombs;caused;devastation in Hiroshima and Nagasaki
+bombs;named;"Little Boy" and "Fat Man"
+bombs;caused;devastation in Hiroshima and Nagasaki
+British experts;involved in;Manhattan Project
+experiments;"Tickling the dragon's tail";resulted in casualties
+atomic test;"Trinity";marked a significant milestone in nuclear history

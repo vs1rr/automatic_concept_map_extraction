@@ -1,0 +1,40 @@
+Bruce Castle Museum, location, Tottenham
+Bruce Castle, located in the administrative territorial entity, Haringey
+Bruce Castle, location, Tottenham
+Henry VIII, child, Elizabeth I
+Henry VIII, spouse, Elizabeth I
+Bruce Castle Park, located in the administrative territorial entity, Haringey
+Bruce Castle Museum, Archives, and Park, location, Tottenham
+Bruce Castle, located in the administrative territorial entity, Tottenham
+Stoneleigh Abbey, has part, parkland
+Katherine Parr, spouse, King Henry VIII
+Bruce Castle Museum, Archives, and Park, located in the administrative territorial entity, Tottenham
+Post Office, location, Rowland Hill
+Bruce Castle, instance of, museum
+Bruce Castle, instance of, manor house
+Henry VIII, spouse, Katherine Parr
+Queen Katherine Parr, spouse, King Henry VIII
+Tottenham, located in the administrative territorial entity, Borough of Haringey
+Charles Babbage, educated at, boarding school
+Elizabeth I, father, Henry VIII
+Bruce Castle, located in the administrative territorial entity, Haringey's
+Duke of Buckingham, sibling, Anne Stafford
+Katherine Parr, spouse, Henry VIII
+Anne Stafford, sibling, the Duke of Buckingham
+Tottenham, located in the administrative territorial entity, Haringey
+Elizabeth I, spouse, Henry VIII
+tennis court, subclass of, playground
+Anne Stafford, sibling, Duke of Buckingham
+King Henry VIII, spouse, Katherine Parr
+Post Office, located in the administrative territorial entity, London Borough of Haringey
+Bruce Castle Museum, located in the administrative territorial entity, Borough of Haringey
+King Henry VIII, spouse, Queen Katherine Parr
+Haringey, contains administrative territorial entity, Tottenham
+parkland, part of, Stoneleigh Abbey
+Charles Dickens, educated at, boarding school
+Stoneleigh Abbey, instance of, parkland
+Stoneleigh Abbey, located in the administrative territorial entity, parkland
+Bruce Castle Museum, located in the administrative territorial entity, Tottenham
+Rowland Hill, located in the administrative territorial entity, London Borough of Haringey
+Bruce Castle Park, location, Haringey
+the Duke of Buckingham, sibling, Anne Stafford

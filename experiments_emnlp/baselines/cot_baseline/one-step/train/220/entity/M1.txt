@@ -1,0 +1,15 @@
+entity;surface
+British Empire;British Empire
+territorial holdings;territorial holdings
+governance;governance
+British rule;British rule
+Asia;Asia
+Africa;Africa
+Empire;Empire
+imperialism;imperialism
+British colonies;British colonies
+independent nations;independent nations
+Royal Navy;Royal Navy
+power;power
+British influence;British influence
+global affairs;global affairs

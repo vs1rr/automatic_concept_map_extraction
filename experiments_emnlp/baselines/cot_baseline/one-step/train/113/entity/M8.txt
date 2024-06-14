@@ -1,0 +1,11 @@
+entity;surface
+Indonesia;Indonesia
+Borobudur temple;Borobudur temple, the temple
+UNESCO world heritage site;UNESCO world heritage site
+Buddhist temple;Buddhist temple
+Buddhist teachings;Buddhist teachings
+Vesak day;Vesak day
+flying lanterns;flying lanterns
+traditional dance performances;traditional dance performances
+elephants;elephants
+Jogjakarta airport;Jogjakarta airport

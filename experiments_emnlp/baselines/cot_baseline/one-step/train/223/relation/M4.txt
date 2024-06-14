@@ -1,0 +1,10 @@
+subject;predicate;object
+Constantinople;was capital of;Eastern Roman Empire
+Emperor Constantine;established;Constantinople
+Constantinople;was located on;promontory
+Constantinople;was surrounded by;water
+Constantinople;had;7 hills
+Constantinople;had;Theodosian walls
+Constantinople;had;valuable harbor
+Constantinople;was similar to;Rome
+Various forums;showcased;importance

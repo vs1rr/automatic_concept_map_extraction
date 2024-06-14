@@ -1,0 +1,26 @@
+entity;surface
+Medieval warfare;Medieval warfare
+Middle Ages;Middle Ages
+siegecraft;siegecraft
+Castles;Castles
+army;army
+supplies;supplies
+tactics;tactics
+defenses;defenses
+Siegecraft;Siegecraft
+siege engines;trebuchets, mangonels
+Successful sieges;Successful sieges
+tactics;mining, battering rams, siege towers
+Negotiation;Negotiation
+bribery;bribery
+intimidation;intimidation
+siege;siege
+bloodshed;bloodshed
+cannons;cannons
+Middle Ages;late Middle Ages
+siege warfare;siege warfare
+castles;castles
+military strongholds;military strongholds
+conventions;conventions
+siege warfare;siege warfare
+military strategies;military strategies

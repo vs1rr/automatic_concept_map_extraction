@@ -1,0 +1,10 @@
+subject;predicate;object
+castles;evolved over the centuries;various forms
+castles;were symbols of;power and prestige
+castles;originated in;Europe
+castles;served as;defensive and offensive structures
+castles;were built near;vital resources
+castles;required permission from;monarchs
+castles;declined in the 16th century due to;advancements in artillery
+castles;were replaced by;country houses
+castles;experienced a revival of interest in the 18th century for;architectural appeal

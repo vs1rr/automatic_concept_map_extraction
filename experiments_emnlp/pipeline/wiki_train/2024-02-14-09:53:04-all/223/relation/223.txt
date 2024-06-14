@@ -1,0 +1,42 @@
+Byzantine Empire, head of state, Manuel Komnenos
+Battle of Manzikert, point in time, 1071
+Justinian I, family, Macedonian dynasty
+Byzantine Empire, follows, Roman Empire
+fall of the Roman Empire, has cause, Christianity
+fall of the Roman Empire, participant, Constantine's
+Manzikert, country, Byzantine Empire
+Byzantine Empire, dissolved, abolished or demolished date, 1453
+Manuel Komnenos, country of citizenship, Byzantine Empire
+Macedonian Dynasty, located in the administrative territorial entity, Byzantine Empire
+Macedonian Dynasty, country, Byzantine Empire
+Constantinople, religion, Christianity
+Manzikert, participant, Byzantine Empire
+conquest and looting of Constantinople, point in time, 1204
+fall of Constantinople, point in time, 1453
+Byzantine Empire, capital, Constantinople
+Balkans, country, Byzantine Empire
+Battle of Manzikert, participant, Byzantine Empire
+Manuel Komnenos, time period, Byzantine Empire
+Constantinople, capital of, Byzantine Empire
+Fourth Crusade, part of, conquest of Constantinople
+conquest of Constantinople, part of, Fourth Crusade
+Ottoman Turks, dissolved, abolished or demolished, 1453
+Christianity, has part, Nicene Creed
+Western Roman Empire, dissolved, abolished or demolished date, 1453
+conquest and looting of Constantinople in 1204, point in time, 1204
+fell to the Ottoman Turks in 1453, point in time, 1453
+conquest and looting of Constantinople, part of, Crusades
+Komnenian, country, empire
+Constantinople, founded by, Constantine the Great
+fall of the Roman Empire, participant, Constantine
+Justinian I, country of citizenship, Macedonian dynasty
+fall of Constantinople, end time, 1453
+Justinian I, ethnic group, Macedonian dynasty
+Byzantine Empire, religion, Christian Church
+Ottoman Turks, dissolved, abolished or demolished date, 1453
+Ottoman Turks, dissolved, 1453
+Komnenian, named after, theme system
+Komnenian, capital, theme system
+Byzantine Empire, language used, Greek-speaking
+Constantine the Great, religion, Christianity
+Christian Church, religion, Christianity

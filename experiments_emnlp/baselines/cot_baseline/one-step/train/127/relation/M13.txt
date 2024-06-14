@@ -1,0 +1,10 @@
+subject;predicate;object
+castles;included;development of tower houses
+tower houses;built for;political, economic, and defensive purposes
+tower houses;served as;homes, defensive fortresses, and administrative centers
+tower houses;were;simple yet effective in defense
+tower houses;had;features like wall paintings and unique architectural elements
+tower houses;were;symbols of status and power
+tower houses;were built in;England, Scotland, Wales, Ireland, France, Italy, and Central Europe
+tower houses;varied in;design and purpose
+tower houses;reflected;social and political landscape of the time

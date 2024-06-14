@@ -1,0 +1,12 @@
+subject;predicate;object
+Gold Country;is rich in;history and natural beauty
+Gold Country;features;rolling hills, rivers, and lakes
+region;offers;a glimpse into the California Gold Rush era
+Visitors;can explore;abandoned mines
+Visitors;can enjoy;outdoor activities like rafting and hiking
+Visitors;can visit;attractions such as Folsom Lake and Nevada City
+area's history;includes;Native American tribes
+area's history;includes;the Gold Rush
+area's history;includes;the impact on the environment and indigenous populations
+climate;is similar to;that of Italy or Spain
+climate;has;hot, dry summers and cool, wet winters

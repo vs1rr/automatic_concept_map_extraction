@@ -1,0 +1,295 @@
+subject;predicate;object
+Brougham Castle;built in;1214
+Robert de Vieuxpont;built;Brougham Castle
+castle's great tower;remains intact;
+later buildings;destroyed by;fire
+Robert Clifford;added;stone curtain wall
+Robert Clifford;fortify;castle
+castle;fortify;against Scottish attacks
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars
+castle;played a crucial role in;Wars of the Roses
+castle;played a crucial role in;Anglo-Scottish wars

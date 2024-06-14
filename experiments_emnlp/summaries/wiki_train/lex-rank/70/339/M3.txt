@@ -1,0 +1,369 @@
+Interposition and the Heresy of Nullification: James Madison and the Exercise of Sovereign Constitutional Powers By Christian G. Fritz, Ph.D. About the Author Christian G. Fritz, Ph.D. Abstract: The seemingly unstoppable growth of the federal government has led to a revival, in some circles, of the discredited notion of nullification as a legitimate constitutional mechanism for states to reassert their sovereign powers.
+Proponents of this doctrine invoke the authority of James Madison to defend the claim that the Constitution empowers states to nullify laws passed by Congress.
+In this essay, Christian Fritz explains why Madison emphatically rejected the attempt by a single state to nullify national laws.
+Instead, Madison embraced something very different.
+The practice of interposition—public opinion, protests, petitions, and legitimate actions of state legislatures—focused attention on whether the government was acting in conformity with the Constitution.
+Recovering Madison’s understanding of interposition offers a useful corrective to the mischaracterization of his views and makes clear that he rejected any constitutional basis for nullification.
+Political arguments frequently use history for justification.
+Invariably, such efforts are less about taking the past on its own terms than the desire to make symbolic historical references that resonate with modern audiences in order to achieve particular political objectives, whether liberal or conservative.
+American politics today provides a good example of this practice, particularly in the invocation of the doctrine of nullification and secession as legitimate constitutional options supposedly sanctioned in the thought of such Founders as James Madison.
+But Madison emphatically rejected the attempt by a single state to nullify national laws.
+Instead, he embraced a doctrine of interposition—something very different from nullification but often mistakenly linked with it both at the time and in our own day.
+The episodes examined in this essay—the Virginia and Kentucky Resolutions of the 1790s and the Nullification Crisis in the 1830s—clearly raised a central question of federalism: What are the respective powers of state governments and the national government?
+They also raised key questions of constitutionalism: Who were “the people” that underlay the national constitution, and how could that sovereign act and be recognized in action?
+Questions of constitutionalism, it should be emphasized, did not involve matters of constitutionality or the conformity of given actions or decisions with a written constitution.
+Rather, the term constitutionalism as used in this essay pertains to the underlying authority of the Federal Constitution residing in the sovereign people and their relationship with government.
+Confusion over these issues is not surprising.
+Moreover, the politics of Madison’s day emphasized the practical consequences of a compact theory of the states.
+The political question of the relationship between the national and state governments was so dominant that it overshadowed the questions of constitutionalism that were part of Madison’s careful thought about the theoretical foundation of the Federal Constitution.
+Madison’s views about the constitutional implications of governments resting on a collective sovereign were easily overlooked then just as they are today.
+Madison’s Theory of Interposition The right to monitor the constitutional operation of government was a central issue of American constitutionalism after the adoption of the Constitution in 1787.
+The struggle over that right revealed a fundamental disagreement among Americans over the puzzle at the heart of the new federal system: What did rule by a collective sovereign mean under a national constitution when the people who held this sovereignty were also the sovereign of their individual state governments?
+Overlooked in most treatments of the Virginia and Kentucky Resolutions and the Nullification Crisis is how the American sovereign could—as the concept of the people’s sovereignty called for—oversee the workings of the national government.
+[1]These two controversies saw Americans deploying a tool used before the Civil War but little seen today: the right of “interposition.”
+Often confused and wrongly associated with nullification, Madison’s concept of interposition encouraged a spirited vigilance consistent with a proper understanding of American constitutionalism.
+Interposition sought reversal of national laws that some thought unconstitutional or simply wrongheaded.
+It could involve individual citizens or groups of citizens.
+It might also involve the state legislatures, not acting as the sovereign but as an instrument of the people to communicate concerns about the national constitution.
+Alexander Hamilton identified that role in Federalist No.
+He described the state legislatures as naturally “jealous guardians of the rights of the citizens” of the state.
+In the new federal system, the state legislatures, observed Hamilton, could “sound the alarm to the people” when the national government exceeded its rightful powers.
+[2]Public opinion, petitions, and protests as well as instructions to political representatives were some of the ways interposition could facilitate faithful execution of the Constitution.
+Interposition could also involve resolving a constitutional controversy by seeking revision of the Constitution itself.
+James Madison described each of these options as “the several constitutional modes of interposition by the States against abuses of powers.”
+[3]The term “interposition” did not seem to prompt greater elaboration by contemporaries than what Madison provided.
+The word did not carry the implication, attached to it today, that interposition nullified a law, which was the understanding attributed to it during its use in the sectional debates preceding the Civil War.
+Rather, what Madison and his contemporaries meant by “interposition” seemed to come from its classic sense: As used in astronomical and scientific texts of the period, it described the movement of something between two other things in a relationship so as to interrupt and bring attention to the essence of that relationship.
+In this sense, the moon interposed when it came between the earth and sun, allowing those on earth to reaffirm how the sun provided light to the earth.
+[4]In a constitutional mode, interposition usually involved an action that came between the people as the sovereign and the sovereign’s agent, the government.
+This interposition was not a sovereign act, since the people as the collective sovereign did not take that step.
+It did not break the ties between the people and their government by, for example, nullifying laws.
+Rather, the interposer, through public opinion, protests, petitions, or even the state legislatures acting as an instrument of the people, focused attention on whether the government was acting in conformity with the people’s mandates as expressed in their constitutions.
+A successful interposition occurred either when the government backtracked by conceding that it had overstepped constitutional limits as asserted by the interposition or when the people, in light of the interposition, chose to change the constitutional order.
+As New Hampshire’s U.S. Senator and future U.S. Supreme Court Justice Levi Woodbury put it in 1830:
+[A] State may resolve, may express her convictions on the nullity or unconstitutionality of a law or decision of the General Government.
+[5]From our modern perspective, it is difficult to understand the need for such a tool as interposition.
+Some of that difficulty arises from the fact that early 19th century Americans lived in a world far different from today’s nearly instant communication of congressional deliberations and actions.
+In addition, unlike the regularized if not full-time operation of state legislatures today, earlier legislatures were in session less frequently and met at varying times.
+Given an inevitable time lag, interposition served as a useful communication mechanism by which citizens and their state legislators could share their sentiments with legislators in other states as well as with national lawmakers in Washington.
+An early example of interposition occurred in 1790 when Virginia’s legislature passed resolutions instructing its Senators in Congress to make public the debates in the United States Senate, which had been closed since the formation of the Constitution.
+Virginia’s legislature sent copies to every other state legislature “requesting their cooperation in similar instructions to their respective Senators” in order to alter a practice inconsistent with a national government based on a sovereign people who had a right to scrutinize the workings of their government.
+[6]Four years later, Pennsylvania manufacturers concerned about an excise tax that Congress intended to impose on their products memorialized their state legislature, asking for “the interposition and influence of a legislature which may be considered the most immediate guardians of the rights and liberties of the citizens of Pennsylvania.”
+Ultimately, they hoped that “a seasonable interposition” by the legislature might protect them from an “odious excise” by a misguided Congress.
+[7] By 1824, a Maryland commentator described the settled use of the tool of interposition: “The right of state legislatures to express their approbation or disapprobation of the proceedings and policy of the federal government has been claimed, exercised, and conceded…from the establishment of the federal government to the present day.”
+[8]The underlying impetus for the tool of interposition naturally lessened with the appearance and expansion of a transportation and communication infrastructure of canals, telegraphs, and railroads during the 19th century.
+The principal demise of interposition can be traced to its stigma in being linked with the discredited doctrine of nullification, but America’s transportation and communication revolution before the Civil War undoubtedly played a role as well.
+Nonetheless, the practice of interposition by state legislatures instructing their Senators and requesting their Representatives in Congress to oppose national measures that were deemed unconstitutional or impolitic would continue through the Nullification Crisis of the 1830s and long after that time.
+The Practice of Interposition: The Virginia and Kentucky Resolutions The backdrop to the most dramatic example of interposition in the early national period was potential war with France because of its interference with American shipping.
+In that context, Federalists in Congress reacted by passing several laws in 1798.
+The Sedition Act threatened the Republicans’ use of newspapers to counter their Federalist opponents.
+Besides the acts’ effect on practical politics, they appeared to subvert the federal constitutional order.
+Republicans asserted that the Alien Act exceeded Congress’s constitutional powers, while the Sedition Act violated the First Amendment.
+Madison called the Alien Act “a monster” that would “for ever disgrace its parents,” the Federalists.
+The act denied the people the “right of freely examining public characters and measures.”
+[11]The Alien and Sedition Acts prompted Madison and Jefferson to orchestrate protests.
+Most dramatic was a set of resolutions they drafted, to be adopted by the legislatures of Virginia and Kentucky as a form of interposition.
+Madison authored the Virginia Resolutions, while resolutions that Jefferson drafted after learning of the passage of the Sedition Act were eventually adopted in modified form by the Kentucky legislature.
+[12] In passing the resolutions, both legislatures expressed the judgment that the two federal laws were unconstitutional.
+The Kentucky Resolutions instructed the state’s congressional delegation to seek the acts’ repeal.
+Some contemporaries assumed (as have some subsequent scholars) that the resolutions sought to nullify the operation of the two objectionable federal laws in Virginia and Kentucky.
+This assumption discounts the resolutions’ express purpose—to stimulate a coordinated national effort through state legislatures to repeal the laws by congressional action.
+The resolutions embodied a distinction between a state legislature’s opinion of the constitutionality of national laws and action by the sovereign people to render those laws unenforceable.
+The Virginia Resolutions called the acts “unconstitutional,” while the Kentucky Resolutions described them as “not law but utterly void and of no force.”
+[13] Those words, Madison later explained, simply emphasized the legislature’s opinion of the acts; they were not a nullification of the acts.
+Neither legislature asserted that their resolutions made the acts a dead letter, nor did either state take steps to resist the acts’ enforcement.
+The resolutions, as Madison pointed out, did not “annul the acts” because they came “from the Legislature only, which was not even a party to the Constitution.”
+[14] Only collective action by the people as the sovereign source of the Constitution could nullify the acts.
+When the Kentucky legislature convened in early November 1798, Governor James Garrard urged legislators to assess “the conduct of the national government” and offer it appropriate “applau[se]” or “censure.”
+The legislature should declare the state’s support for the Constitution and “protest against all unconstitutional laws and impolitic proceedings.”
+[15] Indeed, Kentucky’s 1798 Resolutions asked its “Co-states” to declare the acts “void and of no force.”
+[16]On the other hand, Virginia’s Resolutions identified “the states” as the “parties” to the Constitution who could “interpose” to stop unconstitutional acts.
+[17] The resolutions were an interposition by each state legislature offering its constitutional opinion.
+They were obviously not an ultimate intervention by the people of the states themselves.
+Opponents of the acts nationwide should “distinctly affirm” the Kentucky Resolutions’ “important principles.”
+Hopefully, this would dispel the need to take matters “to extremities.”
+As Jefferson wrote Virginia legislator John Taylor before the Virginia Resolutions passed, it was premature to contemplate the ultimate step by the people.
+“[F]or the present,” he told Taylor, “I should be for resolving the alien & sedition laws to be against the constitution & merely void.”
+Virginia should ask other states to make “similar declarations.”
+[18]Five days after the Virginia legislature acted, Madison reiterated that a state legislature lacked the constitutional authority to nullify a national law.
+He wrote Jefferson, concerned that in their “zeal,” some legislators might overlook “the distinction between the power of the State, & that of the Legislature, on questions relating to the federal pact.”
+While states were “clearly the ultimate Judge of infractions” of the Constitution, it did “not follow” that legislatures were “the legitimate organ” for rendering that ultimate judgment.
+Unlike the Articles of Confederation, state governments did not form the Federal Constitution.
+Meetings of state conventions, like those that ratified the Constitution, were the appropriate mechanisms to invoke the “ultimate” right of the people to correct “infractions” by the national government.
+This was “especially” true, noted Madison, since the people in “a Convention was the organ by which the Compact was made.”
+[19]Both states’ resolutions acknowledged the ultimate authority of the people as the sovereign to assess the constitutionality of the government’s acts.
+Interposition by state legislatures operated differently from such final action by the people as a matter of last resort.
+Legislative interposition sought the repeal of unconstitutional laws by focusing attention on them.
+As Madison pointed out in the Virginia Resolutions, legislators were doing their “duty” to “watch over and oppose every infraction” of constitutional principles.
+Virginia’s and Kentucky’s legislatures were acting as Alexander Hamilton predicted they would during the ratification debate.
+State legislatures, asserted Hamilton, functioned as “jealous guardians of the rights of the citizens” to “sound the alarm to the people” if the national government exceeded its rightful powers.
+Hamilton also noted that after identifying excesses of “national authority,” those legislatures could “communicate with each other” and “at once adopt a regular plan of opposition.”
+By 1794, the Virginian John Taylor asserted that state legislatures had “as good a right to judge of every infraction of the constitution, as Congress itself.”
+[20]Many Americans considered guardianship of the federal constitutional order an obligation extending well beyond state legislators and legislative action.
+Ensuring the constitutional operation of government was the responsibility of individual citizens in addition to their state legislators.
+[21]Protests against the Alien and Sedition Acts preceding the resolutions in Virginia and Kentucky emphasized the duty of citizens to identify overreaching acts of government.
+Congress received a stream of petitions from counties in New York, New Jersey, and Pennsylvania as well as from Virginia and Kentucky.
+Despite these local efforts, the effect on the national government seemed minimal.
+Only a month earlier, a Kentuckian also wanted “united and official action” by the legislature to supplement the other “constitutional measures” of letters, petitions, and remonstrances against the acts.
+Keeping government “within the just Limits of the Constitution,” observed Virginia’s congressional delegates, required “wise and firm State Measures.”
+[22]The Federalist Response Instead of rallying other legislatures to protest the Alien and Sedition Acts, the Virginia and Kentucky Resolutions stimulated Federalist attacks.
+George Washington dismissed criticism of the acts as party politics.
+Republican leaders were deaf to any arguments justifying the laws because they “have points to carry, from which no reasoning, no inconsistency of conduct, no absurdity, can divert them.”
+Virginia’s Resolutions tended to “dissolve the Union.”
+Washington’s fears were echoed by other Federalists.
+For example, Massachusetts Federalist Theodore Sedgwick believed the resolutions were “a declaration of war,” while his colleague Timothy Pickering thought they implied “a right to disobey” national laws.
+[23]Legislative responses reflected the view—by no means universally held—that constitutional interpretation was “exclusively vested” in the federal courts and especially the Supreme Court.
+Federalists thought the legislatures of Virginia and Kentucky had no business assessing the constitutionality of the acts.
+A New York state senator insisted that his colleagues, both “individually and in a legislative capacity,” were entitled to express their views about how the national government was operating.
+Keeping the national government within constitutional bounds was the responsibility of the state legislature as well as private citizens.
+Just a few years earlier, Virginia Republican John Taylor had insisted that the people of “the nation itself must watch over the constitution” and “preserve it from violation.”
+Republican legislators were now being denied a right “daily exercised by individual citizens.”
+[26]Madison’s Report of 1800 In the face of these negative reactions, the Virginia and Kentucky legislatures drafted responses, aided by Madison and Jefferson.
+Kentucky’s response consisted of a resolution passed in November 1799 clarifying that its intent was not to secede or “disturb the harmony” of the Union.
+Kentucky’s legislature asserted that “the several states” (and by implication the people of “the several states”), as the sovereign source of the Federal Constitution, had the “unquestionable right” to judge infractions of that Constitution and “that a nullification by those sovereignties of all unauthorized acts done under color of that instrument, is the rightful remedy.”
+Such a step could be exercised by the whole people as the sovereign who created that Constitution.
+On the other hand, Kentucky’s legislative protest against the Alien and Sedition Acts was a “SOLEMN PROTEST” intended to attract attention and bring corrective action.
+The state recognized that those acts were “laws of the Union,” and the state would “bow” to such laws, despite the legislature’s opposition to them, in a “constitutional manner.”
+[27] Despite distinguishing interposition from nullification, the use of the latter term in Kentucky’s 1799 resolution inevitably contributed to later confusion and misconceptions.
+In his draft for Virginia’s response, Madison wanted to correct the “misconception” in the formal replies of state legislatures that Virginia’s resolutions threatened the Union.
+He insisted that states had a “right to interpose a legislative declaration of opinion on a constitutional point.”
+Published in 1800, Madison’s Report justified the resolutions as legitimate and appropriate interposition to monitor the Constitution.
+[28]In his Report, Madison pointed out that Virginia’s resolutions only “communicat[ed]” to the other states its view that the acts were “unconstitutional.”
+This communication was not improper, unconstitutional, or hostile to the Union.
+The resolutions reflected the “intermediate existence” of state governments “between the people” and the national government.
+Virginia’s legislators exercised a right defended by the Constitution’s supporters—the right of scrutiny.
+Madison recalled that in 1788, Federalists insisted that the “vigilance” of state governments “would sound the alarm” at the first signs of “usurpation” by the national government.
+Virginia’s legislature did its “duty” by signaling the people about these “alarming infractions of the constitution” represented by the Alien and Sedition Acts.
+[29]Madison’s Report surveyed the American practice of interposition.
+This practice was not a “novelty” for either individuals or state legislatures.
+Virginia’s resolutions were only one form of interposition.
+All Americans shared a responsibility to maintain the constitutional limits on government and vigilantly defend constitutional principles.
+There were many other legitimate means of interposing to preserve the Constitution.
+In addition to state legislatures, “private citizens” could interpose to object to acts of the government that they believed were unwarranted by the Constitution.
+[30]Declaring the acts unconstitutional did not exhaust the legislature’s powers of interposition.
+State legislatures could have made a “direct representation” to Congress, explained Madison, either seeking the repeal of the “two offensive acts” or a revision of the Constitution by amendment or through a constitutional convention.
+Interposition included all of these approaches for influencing the operation of the national government.
+They were some of the “several means…constitutionally open for consideration” as a legislative protest.
+Still, “the first and most obvious” step for Virginia’s legislature was issuing its resolutions.
+[31]The interposition by Virginia’s legislature did not preclude the sovereign—being the people of the states that included, but was not limited to, those in Virginia—from using other “farther measures that might become necessary and proper.”
+[32] Among the “farther measures” for responding to unconstitutional laws was the sovereign’s right to dictate a final constitutional solution.
+As Madison observed, “The authority of constitutions over governments, and of the sovereignty of the people over constitutions” meant that a sovereign people held greater authority than the governments they established.
+[35] Virginia’s legislature did nothing revolutionary by noting this ultimate right of the people in their protest.
+The constitutionalism reflected by the resolutions presumed that the sovereign who adopted a written constitution had the final word on the constitutionality of government’s actions.
+For many Americans, as for Madison, this was “a plain principle, founded in common sense, illustrated by common practice, and essential to the nature of compacts.”
+Because “resort can be had to no tribunal superior to the authority of the parties, the parties themselves must be the rightful judges in the last resort, whether the bargain made, has been…violated.”
+[36]According to Madison, an “interposition of the parties, in their sovereign capacity” was justified only when unconstitutional acts of government “deeply and essentially affect[ed]
+the vital principles of their political system.”
+This final resolution of the Constitution by the people should not occur “in a hasty manner, or on doubtful…occasions.”
+[37] The Virginia Resolutions referred to a right and duty of the people of the states “to interpose” collectively in cases of the national government’s “deliberate, palpable and dangerous exercise” of powers not granted to it by the Constitution.
+[38] Madison’s analysis of the Alien and Sedition Acts provided a justification for such ultimate interposition.
+The people of the states “as co-parties to and creators of the constitution” could exercise their ultimate authority by amending the Constitution or finding other ways to express their constitutional understanding.
+Madison later conceded that the resolutions and his Report lacked specifics about “what mode the States could interpose in their collective character as parties to the Constitution.”
+However, given “the object and reasoning” of those documents, specifics were “not necessary.”
+“It was sufficient to show that the authority to interpose existed, and was a resort beyond that of the Supreme Court of the United States.”
+If the sovereign people invoked their ultimate right to intervene, how they did so was their “own choice.”
+[39]Historians often consider the Virginia and Kentucky Resolutions a failure because no other state issued similar resolutions.
+Yet the interposition by these two states in 1798 and 1799 focused attention on the Alien and Sedition Acts, as interposition was designed to do.
+Consistent with the theory of interposition, in 1800, American voters went to the polls and chose between candidates who took opposing positions on those acts.
+Jefferson made “violations of the true principles” of the Constitution a central campaign issue for the Republican Party.
+His election to the presidency and that of his followers to Congress reflected public opinion about the constitutionality of the acts.
+Madison later concluded that the resolutions achieved “a triumph over the obnoxious acts, and an apparent abandonment of them forever.”
+[40]Following the lead of the first generation of Americans who lived under the Constitution, subsequent generations employed interposition in responding to national legislation they believed violated the Constitution.
+The Nullification Crisis In the late 1820s, another controversy divided the Union when southern critics asserted that a tariff on imports imposed by Congress in 1828 was unconstitutional because it primarily aided northern manufacturers rather than advancing a proper constitutional purpose of raising revenue for the nation.
+The tariff’s protectionist motive and tendency to make imports more expensive reduced government revenue as people bought less of the goods subject to the tariff.
+For opponents, particularly in South Carolina, this demonstrated that Congress lacked a proper purpose in imposing the tariff, exceeding its constitutional authority.
+The protests against the tariffs initially followed the traditional patterns of interposition that sought the repeal of unconstitutional laws, and the effort was not limited to South Carolina.
+Protests came from counties, such as from Madison’s neighbors in Orange County, Virginia, as well as from state legislatures, such as Georgia’s petition to Congress seeking relief.
+South Carolina sent a large delegation reflecting the state’s view that the tariff was “unconstitutional.”
+[41] Many other states, northern as well as southern, also attended the convention.
+The convention adopted a memorial asking Congress to adjust the tariff.
+Although Congress ignored the memorial, from the perspective of many in South Carolina, the convention avoided the central issue: It failed to address the concern that the tariff was only an example of what southern states would face in the future if the constitutional balance of the federal system was not restored.
+Years of trying to repeal the tariff brought little relief.
+By late 1831, the South Carolinian John C. Calhoun, then Vice President of the United States, observed that citizens of his state had “petitioned, remonstrated and resolved” for “years” against the tariff.
+South Carolina’s legislature did its “duty” in bringing attention to the tariff’s “unequal and unconstitutional burden.”
+Meeting with “other States” at the Philadelphia Free Trade Convention was South Carolina’s “last effort at redress.”
+For tariff opponents, the convention’s failure made other steps necessary.
+[42]One new step involved an approach that promised to redress not only the constitutional imbalance represented by the tariff, but also later national measures that might unconstitutionally disadvantage the South.
+This step found a solution, Calhoun maintained, in the way the Constitution provided “checks against the abuse of power on the part of the absolute majority.”
+The current tariff crisis did not stem from a flaw in the Constitution’s design but rather from the neglect of southern states “to make application of the proper remedy.”
+According to advocates of the next step, what had always been available was the use of the individual state veto.
+[43]The names proponents used to describe the state “veto” seemed rather innocuous at first: The veto was a state’s “protest,” its “interposition,” or its exercise of “reserved rights.”
+As the heat of the national debate intensified, other, more dire names came into use.
+Proponents of the state veto were described as embracing “nullification, secession, disunion, and revolution.”
+What distinguished the state veto from earlier proposals to rebalance the federal constitutional order was its national effect.
+The state veto proposed in the 1820s and 1830s anticipated that any single state could invalidate a national law for the Union as a whole.
+What also distinguished the state veto was that it seemed to be a solution advanced by national figures rather than simply by local or regional leaders.
+[44]The theory justifying the single state veto came from the pen of South Carolina’s John C. Calhoun.
+Calhoun considered that the 1828 tariff affected the South disproportionately, insufficiently promoting the general welfare and raising national revenue.
+In November 1828, at the request of his state’s legislature, Calhoun anonymously drafted what became known as the South Carolina Exposition, published by the legislature.
+Like Madison’s Report of 1800 for Virginia’s legislature, South Carolina’s Exposition focused attention on the power of the national government.
+The Exposition’s justification of a state veto became a matter of national debate over whether the Constitution included such a check on the national government.
+That debate raised many of the same questions that had been at issue during the controversy over the Virginia and Kentucky Resolutions.
+In addition, the veto debate raised other sensitive and unsettled issues in American constitutionalism.
+One key question went to the core of American constitutionalism: To what extent were Americans united about the meaning of a government in which the people were the sovereign?
+The scope of the controversy is best illustrated by several participants in the debate over the state veto, principally John C. Calhoun, its chief theorist.
+Opposing the state veto was Daniel Webster, U.S. Senator from Massachusetts.
+A final, at times reluctant, participant was James Madison, in retirement at Montpelier.
+Both sides of the debate claimed that Madison’s writings justified their positions.
+His efforts to clarify that he had not justified a state veto were undermined by the heated debate.
+Calhoun’s Exposition asserted that the veto was a specific remedy justified by the Constitution.
+It could be exercised when a power of the Constitution granted the national government to achieve “one object” was used “to advance another” and in so doing sacrificed the proper object to which that power was to be directed.
+This was a “perver[s]ion” of the Constitution, and according to Calhoun, the 1828 tariff presented an example of such a perversion.
+[45] Congress had used its authority to exact a tariff.
+However, that tariff was not for the legitimate purpose of raising government revenue.
+Calhoun described his theory as an interposition, something both envisioned and exercised by the Constitution’s Framers.
+Proponents of the state veto justified their reading of the Constitution by finding words and actions of the Framers that they felt demonstrated a recognition of such a veto.
+Like other political mechanisms operating within the constitutional framework of the national government, such as political parties or the presidential Cabinet system, important devices for sustaining the Constitution did not have to be specified in the text.
+They could be fairly implied from the actions of the Founders in implementing the Constitution.
+Calhoun found just such proof for his theory in the Virginia and Kentucky Resolutions and Madison’s Report of 1800.
+Calhoun credited the resolutions and Madison’s Report as “the basis” of his discovery of the state veto.
+He cast the state veto as an interposition as equally justified as the interposition taken by Virginia’s and Kentucky’s legislatures in 1798.
+[46]Calhoun’s concept of a single state veto provoked a storm of controversy, in part because it claimed the authority of Madison and Jefferson.
+For example, a southern Senator described nullification by a single state veto as settled “Republican doctrine.”
+He traced its origins to Madison’s “celebrated ‘Virginia Resolutions.
+Madison insisted that neither he nor Jefferson was responsible for nullification, a doctrine with a “fatal tendency.”
+Rather than protecting the diverse interests of the Union, Madison believed, nullification put “powder under the Constitution and Union, and a match in the hand” of any faction, leaving it to their whim whether “to blow them up.”
+Secession was a “twin” to the “heresy” of nullification, warned Madison.
+As his views became known, they prompted unpleasant attacks by advocates of the veto.
+After South Carolina acted on the propositions described in the Exposition, Madison felt powerless and hoped others would take up “[t]he task of combating such unhappy aberrations.”
+He mused that his efforts were unavailing in bringing serious attention to his ideas on constitutionalism; instead, his explanations were met with silence or with dismissive statements that he was “enfeebled by age” and that his memory was too bad to be credible.
+[49]Calhoun and State Sovereignty What made the “poisonous root” of the state veto and nullification so toxic was that it drew on the same principle that underlay American constitutionalism: In America, the people were the sovereign.
+The problem was that Americans remained divided on precisely how that sovereign could give effect to an expression of its will.
+For purposes of the national government, all agreed that the people were the sovereign, but how could they exercise their sovereignty?
+Proponents of the state veto, such as Calhoun, argued that the sovereign for purposes of the Federal Constitution was the people in each individual state.
+As he explained, the Constitution, “when formed, was submitted for ratification to the people of the several States; it was ratified by them as States, each State for itself; each by its ratification binding its own citizens.”
+Although each state independently bound itself to the Union, that did not mean that it lost its independence.
+[50]For Calhoun, the people were unquestionably the sovereign, and they expressed their sovereign power through their organization into independent states.
+The people were the sovereign who created the independent states, but it was these independent states that were the sovereign of the national government.
+Calhoun thought it insignificant that the Constitution’s Preamble declared that it was “ordained by the people of the United States.”
+Those words, for Calhoun, did not make a national people rather than the individual states the sovereign.
+Irrespective of the Preamble’s language, Calhoun noted that the Constitution’s “article of ratification” provided that, “when ratified, it is declared ‘to be binding between the States so ratifying. ’”
+This made the conclusion…inevitable, that the Constitution is the work of the people of the States, considered, as separate and independent political communities—that they are its authors—their power created it—their voice clothed it with an authority—that the Government it formed is in reality their agent—and that the Union, of which it is the bond, is an Union of States, and not of individuals.
+[51]Webster and Popular Sovereignty Opponents of the state veto, including Daniel Webster, dismissed such arguments.
+In refuting Calhoun’s concept of the sovereign, Webster described a different sovereign.
+This sovereign was also “the people.”
+The Constitution was not “the creature of the States,” observed Webster.
+It was created by a much greater entity—“The people of the United States.”
+The American people “in the aggregate” formed the Constitution.
+[52]By their act as the national sovereign, they henceforth bound themselves to the terms of that Constitution.
+Thereafter, any effort to alter the constitutional order required “submission to the laws” by compliance with the constitutional revision provisions of Article V.
+The attempt to change the operation of the Constitution by other means—for example, by the theory of the state veto—necessarily relied on the natural-law right of resistance to tyranny.
+There was no “middle course,” no alternative between either complying with the Constitution’s procedural requirements or the people exercising the natural-law right of revolution.
+By allowing each state a veto, argued Webster, nullification simply represented “revolution or rebellion”; it could never amount to “constitutional resistance.”
+[53]As Webster’s position illustrated, one’s understanding of the nature of the federal union was shaped by how one described the sovereign that created the Constitution.
+The sovereigns envisioned by Webster and Calhoun were each different from the sovereign recognized by the Constitution’s founder, James Madison.
+Both Calhoun and Webster thought that only one of two options was possible: America had either “a consolidated Government” or “a confederated Government.”
+[54]Madison and the Sovereignty of the People in the States Madison explained that the Constitution created neither.
+It was not, like the Articles of Confederation, formed “by the governments of the component States,” as Calhoun maintained.
+Individual states were not the sovereign of the national government.
+“[N]or was it formed by a majority of the people of the United States, as a single community, in the manner of a consolidated Government,” as Webster maintained.
+[55]As Madison explained, the Constitution was “a mixture of both” consolidated and confederated governments.
+Neither Webster’s claim that the American people in “the aggregate” were the sovereign who formed the Constitution nor Calhoun’s position that individual sovereign states were the parties creating the Constitution accurately described the federal founding.
+Rather, “the undisputed fact is, that the Constitution was made by the people…as imbodied into the several States…and, therefore, made by the States in their highest authoritative capacity.”
+[56] States acting in their highest sovereign capacity were not the sovereign people of each state acting individually.
+According to Madison, a state acted in its “highest sovereign capacity” only when the sovereign people of the state acted in combination with the sovereign people of other states.
+[57]During the federal convention, Madison had argued that the sovereign was the people in the discrete states acting collectively.
+The draft constitution, he noted, sprang “not immediately from the people, but from the States which they respectively composed.”
+During the ratification debate, he identified the sovereign behind the Constitution as “the people of America,” acting “not as individuals composing one entire nation; but as composing the distinct and independent States to which they respectively belong.”
+[58]Similarly, in 1798, fellow Virginian John Taylor described “the people in state conventions” as “incontrovertibly the contracting parties” behind the Constitution capable of effecting such changes.
+In 1800, Madison described “the people composing” the political societies of their respective states acting “in their highest sovereign capacity” as creating the Constitution.
+Likewise, the constitutional commentator St. George Tucker in 1803 described the foundation of the Constitution as resting on the consent of “the people of the several states, separately, and independently taken, and expressed.”
+[59]Even though 30 years had elapsed since he authored the Virginia Resolutions, Madison remained unshaken in his belief that the people of the states in their collective capacity had created the Constitution and were the sovereign of the national government.
+Nonetheless, much to his frustration, Americans in the 1830s began (and would continue) to describe the Constitution in the binary terms of either a consolidated or a confederated government.
+Doing so ignored Madison’s concept of the Constitution’s formation.
+Madison was appalled by how proponents of the state veto used his Report.
+That Report explained and justified the interposition by the Virginia and Kentucky legislatures but did not suggest that the people of a single state could constitutionally veto a national law.
+Nonetheless, Calhoun inferred this from Madison’s Report.
+Madison replied that he had consistently referred to “the ‘States’” when describing “the people…in their highest sovereign capacity” who had ratified the Constitution.
+Madison’s use of the plural—that it was the people of the states who were a collective sovereign—crucially distinguished his views from Calhoun’s concept of a confederation of states, with each individual state a sovereign party to the Constitution.
+Calhoun assumed that when Madison’s Report and the Virginia Resolutions referred to the powers of the sovereign who created the Constitution, Madison meant powers exercised by the people within a single state.
+[61] Calhoun’s theory asserted that each state was a sovereign of the national government and thus could act authoritatively and independently of the others and veto unconstitutional laws.
+Calhoun used Madison’s description that the collective people of all the states were the sovereign to justify a single state’s veto.
+That argument failed to recognize that Madison identified a majority of the people of all the states—and not individual states—as the sovereign of the national government.
+What Is Meant by “the States”?
+First, Madison noted, it could mean individual state governments.
+Second, it could mean the people within a state as the sovereign of that state.
+Third, it could mean the American people who lived in the different geographic areas known as “states.”
+Madison’s definition of the sovereign that underlay the Federal Constitution encompassed this third meaning of the people in “the ‘States. ’”
+[62]These different meanings of the term “the states” dictated how one might understand the Constitution as a “compact” among “the states.”
+Under the first meaning attributed to “the states,” the Constitution could mean a compact of individual state governments.
+The second meaning implied the sovereign people of an individual state compacting with the sovereign people of other states to adopt the Constitution.
+For Madison, in using the third meaning of “the states,” the Constitution was a “compact” reflecting an agreement by the people of the individual states acting not as the sovereign of their own states, but rather in concert with the people of other states as the collective sovereign of the national government they were creating.
+The people of the nation—while still identified in terms of the individual states in which they acted—was a different sovereign collectively from the people acting as sovereigns of their respective states.
+This collective sovereign was the sovereign that created the Constitution, and only a majority of that collective sovereign could alter or abolish the Constitution outside of its “purview and forms.”
+[63]Madison’s terminology demonstrated that describing the Constitution as a compact did not demand an acceptance of individual state governments or the sovereign people of individual states as the parties who created the Constitution.
+Rather, Madison’s description of “the states” as parties to the federal compact envisioned a collective sovereign that created the Constitution as defined neither in solely individual state terms nor in purely national terms.
+The Collective Sovereignty of the People
+The fact that the Constitution provided means for resolving constitutional questions, however, did not and could not preclude the people collectively as the sovereign from deciding a constitutional issue for themselves.
+Even after a decision by the judiciary or another branch of the national government, the sovereign—the people of the states—as “the parties to the Constitution” might still exercise their “authority above that of the Constitution itself” (emphasis added).
+Their authority “to interpose” existed regardless of “the decisions of the judicial as well as other branches of the Government.”
+[64]This was simply a matter of the unlimited power of the sovereign.
+As “the last resort of all” for challenging the proper meaning of the Constitution, explained Madison, there could be no “tribunal above” the people in the states when they acted as the sovereign.
+As the “parties to the constitutional compact,” they collectively could “decide whether” their constitutional compact had been “violated.”
+[65]As the Constitution’s sovereign creator, the people were not subordinate to their creation, the national government.
+The people had a final authority.
+The Constitution was merely “a description of those powers which the people have delegated to their Magistrates, to be exercised for definite purposes.”
+Interposition alerted the people to whether their agent, the government, was acting in conformity with constitutional dictates.
+It remained up to the people as the collective sovereign whether to resolve matters by exercising their final or, as Madison put it, “ultimate” authority, which could also be exercised outside the “purview and forms” of the Constitution.
+[66]Thus, Madison distinguished the Virginia and Kentucky Resolutions from South Carolina’s “nullifying process.”
+South Carolina, Madison noted, did not distinguish the constitutional “right of the parties to the Constitution” to nullify national laws from the ability of “a single party” to withdraw from the Union in the face of oppression as an act of revolution.
+“[T]he plural term States,” Madison noted of his Report of 1800, “was invariably used in reference” to actions taken by states and not by a single state.
+This meant that the collective sovereign, acting through the people in the states, could cancel a national law regardless of Article V’s requirements for amending the Constitution.
+[67]This constitutional authority of the collective sovereign that had created the Constitution was obviously not available to an individual state and hence could not justify an individual state’s veto.
+Any state could, however, abdicate its constitutional obligations by withdrawing from the Union “in extreme cases of oppression.”
+This drew on a natural right of revolution, or what Madison called a right to “cast off the yoke” of tyrannical government by exercising “original rights.”
+That revolutionary step was outside the bounds of American constitutionalism.
+[68]Madison described both the Supreme Court and the sovereign people as having ultimate authority regarding the Constitution’s meaning in “the last resort.”
+[69] This need not be a contradiction.
+For Madison, the Constitution allowed the judicial branch, using the forms and procedures established by the Constitution, to check and balance the national government’s exercise of authority.
+The sovereign could use the forms and procedures of the Constitution to redress any challenged exercise of government power—as the Virginia and Kentucky Resolutions attempted in prompting the people to use the rights of petition, speech, and the franchise to reverse ill-conceived government action.
+In the exercise of these forms of the Constitution, the judiciary properly and ultimately interpreted the scope of the Constitution.
+However, if the people acted outside the Constitution’s forms and exercised their power as the collective sovereign, the judiciary’s determinations could not prevail.
+As a practical matter, Madison noted, the Supreme Court was the “surest expositor” of the Constitution.
+[70] The judiciary could act relatively quickly to construe the Constitution under the forms and procedures for the operation of that branch of government.
+In contrast, action by the ultimate authority over the meaning of the Constitution, the people collectively, was much more gradual.
+For example, it had taken that sovereign nearly two years to put in place the Constitution in 1789.
+Simply because there were physical difficulties in manifesting an authentic action by that collective sovereign did not preclude the power of that sovereign to act on constitutional questions.
+In November 1832, delegates for the people of South Carolina gathered in a convention and purported to nullify the tariff as unconstitutional.
+They did not rely on “what are called our natural rights, or the right of revolution,” but insisted they were acting under “a CONSTITUTIONAL right.”
+[71]Under Madison’s view of constitutionalism, had the people of South Carolina acted with the people of the other states rather than as an individual state, their collective nullification would have been an act of the sovereign that created the national Constitution.
+Although occurring outside of the “forms” of the Constitution, if joined by a majority of the people of other states, that action would have constitutional legitimacy.
+This reflected Madison’s long-held view that the people of the states in their collective capacity constituted the sovereign of the national government.
+Only when the people of a given state acted in combination with the sovereign people of other states could there be a legitimate claim of the ultimate sovereign authority of “the people.”
+As unilateral defiance by one state, South Carolina’s nullification presented the prospect of disunion.
+Linking nullification with disunion dealt a heavy blow to the concept of the people as a meaningful monitor of the federal constitutional order.
+President Andrew Jackson’s swift response to South Carolina’s declaration made this clear.
+He issued a nullification proclamation that, while acknowledging the people’s “indefeasible right of resisting acts which are plainly unconstitutional and too oppressive to be endured,”[72] declared that South Carolina had taken “the strange position” that a single state could “declare an act of Congress void” and “prohibit its execution.”
+[73] This was “incompatible with the existence of the Union” and “destructive” of the Constitution because the Union was not a “compact between sovereign States.”
+[74] Jackson concluded, as did Webster, that a national American people as the sovereign had formed the national government.
+Madison disagreed with both Jackson and Webster on that point.
+Nonetheless, Madison agreed with Jackson that nullification through a single state’s veto, like secession, was a “revolutionary act,” not a constitutional right.
+[75]In early January 1833, some Virginians suggested that their state might make an ideal mediator between the national government and South Carolina.
+Virginia “should re-assert in the most emphatic terms our Resolutions of ’99,” especially James Madison’s 3rd Resolution, which proclaimed “the right of the States to judge and interpose for arresting” potential constitutional “evil” while “declaring at the same time, that the South Carolina doctrine is an illegitimate and dangerous inference from this resolution.”
+[76]Ultimately, Andrew Jackson in that same month engineered a congressional resolution of the crisis by suggesting a lower tariff with greater enforcement power.
+Congress passed a Force Bill (enhancing presidential authority to collect national revenues) as well as a Compromise Tariff (reducing tariff rates).
+Later that year, Calhoun judged the attempted nullification a “success” and “indeed a triumph” because a political majority responded to the grievances of a minority.
+[77]ConclusionMonitoring the constitutional operation of government was an active responsibility of all citizens and not just their elected officials.
+As the sovereign, the people who created the Constitution also served as its final arbiter.
+Properly understood, interposition was inherent in American constitutionalism because, as Madison put it, the sovereign could always—in the end—act outside of the “purview and forms” of the Constitution.
+For Madison, despite acting outside of such procedures, the collective sovereign of the majority of the people of the states exercised constitutional authority.
+This was distinctly different, as Madison argued, from an individual state deciding on its own to nullify a national law—constituting a revolutionary act.
+Madison distinguished carefully between interposition—groups of citizens or state legislatures identifying unconstitutional laws—and any effort by individual states to nullify such laws.
+A single state lacked constitutional authority to nullify national laws or secede from the Union, Madison maintained.
+He considered the people of the states the ultimate judge of the constitutionality of acts of the government.
+A majority of the collective sovereign held the ultimate constitutional authority to render national laws void or give constitutional text final meaning.
+Because American constitutions expressed the voice of the people as the sovereign, the people could also weigh in directly on whether government acted consistently with their directions.
+Some Americans asserted that the Supreme Court was the sole authority to determine questions of constitutionality, but for 18th and 19th century Americans, such a monopoly was hardly obvious or inevitable.
+Before the Civil War, many Americans believed that individual citizens, state legislatures, and ultimately the people themselves—not just the federal judiciary—played a significant role in ensuring the Constitution’s proper functioning.
+Interposition was a tool for scrutinizing the national government to ensure that it acted as desired by the sovereign people.
+Interposition supplemented other devices built into the Constitution itself to ensure the government’s responsiveness to the sovereign—such as periodic elections.
+Like elections, interposition could reflect the will of the people.
+Unlike elections, it served to clarify issues that could not be clarified simply by voting for one candidate or another.
+The constitutional guarantee of voting did not preclude the use of more informal means such as interposition.
+While interposition could be used to express a view on the constitutionality of a law, it did not preclude the role of the Supreme Court as interpreter of the Constitution.
+The judicial branch continued to play an important role in monitoring the operation of the national government.
+As a supplement to more formal and informal institutions of government, interposition was a sporadic tool available to the people when circumstances warranted the exercise of that authority.
+This informality gave it no lesser role than was played by other informal devices such as political parties in a conception of constitutionalism shared by Madison and many other Americans before the Civil War.
+Whether Madison’s concept of interposition remains a viable and appropriate mechanism today is a question that the present generation of Americans must decide.
+At the very least, however, Madison would have approved of a vigilant citizenry participating in monitoring the federal constitutional order.
+-Christian G. Fritz, Ph.D., is Keleher & Mc Leod Professor of Law (2010–2012) at the University of New Mexico School of Law and the author of American Sovereigns: The People and America’s Constitutional Tradition Before the Civil War (2008).

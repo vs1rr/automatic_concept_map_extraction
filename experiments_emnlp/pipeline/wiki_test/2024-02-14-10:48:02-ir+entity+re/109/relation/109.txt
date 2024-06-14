@@ -1,0 +1,73 @@
+Blakeney Chapel, heritage designation, scheduled monument
+Blakeney Chapel, location, Blakeney
+Soudley brook, located in the administrative territorial entity, the Forest
+Blakeney Freshes, change, sea level rise
+Haie, mouth of the watercourse, Severn
+Blakeney, has effect, silting up of its nearby rival
+Norfolk Coast Path, connects with, Peddars Way
+River Glaven, mouth of the watercourse, sea
+Cley, located in the administrative territorial, Blakeney
+hook, has developed, spit
+Blakeney Point, located in protected area, Cley Marshes Nature Reserve
+Augustus Cholmondeley Gough-Calthorpe, 6th Baron Calthorpe, employer, University College London
+Blakeney, country, Britain
+tidal, subject to, flooding
+Norfolk Coast Path between Blakeney and Cley, significant damage, December 2013 Storm Surge
+Forest, mouth of the watercourse, Soudley brook
+Norfolk Coast Path, instance of, long distance footpath
+A149, instance of, coast road
+Augustus Cholmondeley Gough-Calthorpe, 6th Baron Calthorpe, educated at, University College London
+Augustus Cholmondeley Gough-Calthorpe, employer, University College London
+Sandwich, parent taxon, Little Tern
+Haven, connects with, Port of Cley
+Norfolk Coast Path between Blakeney and Cley, significant, December 2013 Storm Surge
+Norfolk Coast Path between Blakeney and Cley, part of, Norfolk Coast Path
+Blakeney Chapel Still marked as such, located on street, Peddars Way
+Blakeney Chapel Still marked as such, connects with, Peddars Way
+Blakeney, advantage, silting up of its nearby rival
+Morston, located in, Blakeney
+tidal, is subject to, flooding
+Blakeney Freshes, located in protected area, Cley Marshes
+fisheries, sources of income, river trade
+Forest, located in or next to body of water, Soudley brook
+saltmarsh, are reclaimed, drained
+Blakeney Chapel, located in the administrative territorial entity, Blakeney
+flooding, is subject to, ebbing of the tide
+Cley, shares, Blakeney
+Port of Cley and Blakeney, connects with, channel to the Haven
+Forest turnpike Act, inception, 1796
+Blakeney Point, owned by, National Trust
+Port of Cley, mouth of the watercourse, Haven
+Cley, located in the administrative territorial entity, Blakeney
+Blakeney Point, located in the administrative territorial entity, Cley next the Sea
+Old Lifeboat House, owned by, University College London
+Morston, shares, Blakeney
+Blakeney, has, silting up
+Hayward, shares, hamstalls
+fisheries <subj><triplet><triplet> fisheries, located in the Severn, Severn
+Forest turnpike Act, publication date, 1796
+Blakeney Point, located in protected area, Cley Marshes
+Cley, shares border with, Blakeney
+Cley, shares border with, Morston
+Severn Way, instance of, footpath
+saltmarsh, were reclaimed, drained
+sea, has part, River Glaven
+fisheries, source of income, river trade
+Haie brook, mouth of the watercourse, Severn
+hook, part of, spit
+Hayward, shares, hamstalls cliff
+Hamstalls crib, instance of, warth
+Hayward, shares border with, hamstalls
+Francis Wall Oliver, educated at, UCL
+Blakeney, shares border with, Cley
+Severn Way, inception, 1980
+sea, tributary, River Glaven
+Haie brook, mouth of the watercourse, river Severn
+saltmarshes, were reclaimed, drained
+Severn Way, instance of, long-distance path
+Blakeney, located in the administrative territorial entity, Britain
+Francis Wall Oliver, employer, UCL
+fisheries <subj><triplet><triplet> fisheries, located in, Severn
+Blakeney Chapel, located on street, Peddars Way
+Blakeney Point, located in the administrative, Cley next the Sea
+Blakeney, has, silting up of its nearby rival

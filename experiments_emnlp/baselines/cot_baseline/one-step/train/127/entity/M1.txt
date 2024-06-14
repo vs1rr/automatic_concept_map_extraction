@@ -1,0 +1,11 @@
+entity;surface
+castle;castle
+large building;large building
+medieval period;medieval period
+thick walls;thick walls
+battlements;battlements
+towers;towers
+moat;moat
+impressive old mansion;impressive old mansion
+rook;rook
+chess;chess

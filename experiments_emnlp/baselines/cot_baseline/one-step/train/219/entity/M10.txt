@@ -1,0 +1,13 @@
+entity;surface
+University of Birmingham;University of Birmingham, Birmingham
+physicists;physicists
+Rudolf Peierls;Rudolf Peierls
+Otto Frisch;Otto Frisch
+document;document
+nuclear bomb;nuclear bomb
+calculations;calculations
+super bomb;super bomb
+Manhattan Project;Manhattan Project
+history;history
+war;war
+world;world

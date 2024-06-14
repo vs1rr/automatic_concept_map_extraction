@@ -1,0 +1,10 @@
+entity;surface
+City & Country;City & Country
+Bramshill;Bramshill
+Britain;Britain
+Grade I Listed;Grade I Listed
+17th Century;17th Century
+Grade II Listed;Grade II Listed
+royalty;royalty
+experts;experts
+historic asset;historic asset

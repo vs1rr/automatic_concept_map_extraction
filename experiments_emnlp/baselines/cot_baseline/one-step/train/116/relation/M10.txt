@@ -1,0 +1,9 @@
+subject;predicate;object
+Bellmans Auctioneers;will be selling;contents of Bramshill House
+Bellmans Auctioneers;will be selling;massive elm and oak refectory table
+Bellmans Auctioneers;will be selling;oak triple sconce candelabras by Robert 'Mouseman' Thompson
+Bellmans Auctioneers;will be selling;oak ceremonial armchairs commissioned for Her Majesty the Queen and HRH Prince Phillip
+auction;will take place;over four days
+auction;will feature;items denoted with a police helmet image
+buyers;can view;items online
+buyers;can bid;through the-saleroom.com

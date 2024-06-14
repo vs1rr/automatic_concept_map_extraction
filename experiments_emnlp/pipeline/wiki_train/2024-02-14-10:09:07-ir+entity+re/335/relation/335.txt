@@ -1,0 +1,70 @@
+Bantam, spouse, Shakestone
+cathedral, architectural style, Gothic
+trials of the Lancashire witches, is, witch trials
+London Dungeon, located on street, South Bank
+The Wonderfull Discoverie of Witches in the Countie of Lancaster, author, Thomas Potts
+hospitality, is, merit
+Essex, instance of, county
+Essex, instance of, witch trials
+The Wonderful Discovery of Elizabeth Sawyer, a Witch, publication date, 1621
+trials of the Lancashire witches, instance of, witch trial
+Hoarestones, located in the administrative territorial, Forest of Pendle
+Dissolution of the Monasteries, start time, 1553
+Master Robinson, animal, dog
+Dissolution of the Monasteries, point in time, 1553
+Dungeons, country, Britain
+Pendle Witches, place of death, Lancaster Castle
+Pendle Witches, location, Lancaster Castle
+Anna of Denmark, spouse, Denmark
+Hospitality in The Three Ladies of London, located in, London
+Old Demdike, place of death, Lancaster Castle
+Hospitality in The Three Ladies of London, located in the administrative territorial entity, London
+PENDLE WITCHES, instance of, play
+Doughty, spouse, Arthur
+1580s, followed by, 1630s
+Gothic, religion, Anglican
+Hospitality, present in work, The Three Ladies of London
+Summer Assize, location, Lancaster Castle
+Thomas Covell, place of death, Malkin Tower
+1634 witchcraft trials, start time, 1634
+Hoarestones, location, Forest of Pendle
+Thomas Potts, notable work, The Wonderfull Discoverie of Witches in the Countie of Lancaster
+The Wonderfull Discoverie of Witches in the Countie of Lancaster, published in, Thomas Potts
+Reginald Scot, date of birth, 1584
+Dungeons, located in the administrative territorial entity, Britain
+Trial of the Pendle Witches, start time, 18th August 1612
+trials of the Lancashire witches, instance of, witch trials
+1634 witchcraft trials, point in time, 1634
+Dissolution of the Monasteries, end time, 1553
+Hoarestones, located in the administrative territorial entity, Forest of Pendle
+bride, defeat, groom
+The Wonderful Discovery of Elizabeth Sawyer, a Witch, author, Henry Goodcole
+Demdike clan, headquarters location, Malkin Tower
+Malkin Tower, owned by, Demdikes
+Summer Assize, located in the administrative territorial entity, Lancaster Castle
+Trial of the Pendle Witches, participant, Pendle Witches
+Arthur, spouse, Doughty
+scepticism, is reflected in, witchcraft
+Pendle Hill, located in the administrative territorial entity, Lancashire
+1634 trials, point in time, 1634
+Pendle Hill, located in the administrative territorial entity, England
+Malkin Tower, occupant, Demdikes
+Pendle Witch Documentary, main subject, Pendle witches
+cathedral, located in the cemetery, Gothic
+cathedral, location, Gothic
+Summer Assize, end time, August 20th 1612
+Pendle Witch Documentary, depicts, Pendle witches
+Anna of Denmark, country of citizenship, Denmark
+Master Robinson, named after, dog
+PENDLE WITCHES, court, Privy Council
+400th anniversary, point in time, 400
+Demdike clan, residence, Malkin Tower
+Margaret Johnson, instance of, familiar
+1634 trials, location, Lancaster
+hospitality, different from, merit
+Bantam, residence, Seely house
+Whetstone, instrument, bagpipe
+The Woman Killed with Kindness, author, Heywood
+London Dungeon, location, South Bank
+Demdike clan, home, Malkin Tower
+Thomas Covell, position held, Governor

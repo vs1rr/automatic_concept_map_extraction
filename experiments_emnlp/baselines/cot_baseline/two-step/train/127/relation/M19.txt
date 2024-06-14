@@ -1,0 +1,13 @@
+subject;predicate;object
+Alton Castle;built in;1170
+Alton Castle;stands on;hill
+Alton Castle;overlooking;Churnet Valley
+Alton Castle;protected by;cliff
+Alton Castle;protected by;rock-cut ditch
+walls;date back to;late 12th and early 13th centuries
+gatehouse;date back to;late 12th and early 13th centuries
+Alton Castle;slighted in;Civil War
+new residence;constructed in;18th century
+mock castle;built in;19th century
+mock castle;located on;B5032
+mock castle;located on;7 miles north of Uttoxeter Castle Hill Rd, Alton, Stoke-on-Trent ST10 4TT

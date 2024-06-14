@@ -1,0 +1,29 @@
+Ninnis, instance of, Tragedy
+later expeditions, part of, Antarctic exploration
+Sir Douglas Mawson, participant in, Australasian Antarctic Expedition
+later expeditions, field of work, Antarctic exploration
+Belgrave Ninnis, place of death, tragic accident
+sail, has part, knife
+sail, uses, knife
+Belgrave Ninnis, sport, sledging
+Douglas Mawson, occupation, geologist
+Belgrave Ninnis, sport, sledging party
+Ninnis, has effect, Tragedy
+Belgrave Ninnis, military rank, Lieutenant
+Australasian Antarctic Expedition, participant, Douglas Mawson
+Xavier Mertz, participant in, Australasian Antarctic Expedition
+Australasian Antarctic Expedition, participant, Xavier Mertz
+Mawson, participant in, expedition
+later expeditions, facet of, Antarctic exploration
+University of Sydney, country, Australia
+Mawson and his team, named after, Mawson
+Australasian Antarctic Expedition, start time, 1911
+Douglas Mawson, participant in, Australasian Antarctic Expedition
+Ninnis, instance of, Tragedy struck
+Belgrave Ninnis, significant event, tragic accident
+tragic accident, participant, Belgrave Ninnis
+Douglas Mawson, country of citizenship, Australia
+Australasian Antarctic Expedition, start time, 1912
+expedition, participant, Mawson
+Shipley, located in the administrative territorial entity, West Yorkshire
+sail, use, persevered

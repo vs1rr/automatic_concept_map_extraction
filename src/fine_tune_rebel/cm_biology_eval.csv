@@ -1,0 +1,33 @@
+,context,triplets
+176,"If a peduncle supports more than one flower, the stems connecting each flower to the main axis are called pedicels.",<triplet> flower <subj> stem <obj> connecting
+177,"In the third whorl, B and C genes interact to form stamens and in the center of the flower C-genes alone give rise to carpels.",<triplet> flower <subj> carpel <obj> give rise to
+178,"The diet of foxes is largely made up of invertebrates such as insects, and small vertebrates such as reptiles and birds, and also can include eggs and plants.",<triplet> fox <subj> insect <obj> diet is made up of
+179,"In some countries, foxes are major predators of rabbits and hens.",<triplet> fox <subj> rabbit <obj> are predators of
+180,Fruits are the means by which angiosperms disseminate seeds.,<triplet> fruit <subj> seed <obj> are means disseminate
+181,"On the other hand, in botanical usage, ""fruit"" includes many structures that are not commonly called ""fruits"", such as bean pods, corn kernels, tomatoes, and wheat grains.",<triplet> fruit <subj> pod <obj> such as
+182,"Gametes carry half the genetic information of an individual, one ploidy of each type, and are created through meiosis.
+
+
+",<triplet> gamete <subj> meiosis <obj> are created through
+183,What distinguishes a gas from liquids and solids is the vast separation of the individual gas particles.,<triplet> gas <subj> liquid <obj> distinguishes from
+184,What distinguishes a gas from liquids and solids is the vast separation of the individual gas particles.,<triplet> gas <subj> solid <obj> distinguishes from
+185,"The gene pool is the set of all genes, or genetic information, in any population, usually of a particular species.
+
+
+",<triplet> gene pool <subj> gene <obj> is set of all
+186,"Genes can acquire mutations in their sequence, leading to different variants, known as alleles, in the population.",<triplet> gene <subj> allele <obj> can acquire mutations known as
+187,"As amino acids have both a primary amine group and a primary carboxyl group, these chemicals can undergo most of the reactions associated with these functional groups.",<triplet> amino acid <subj> amine group <obj> have
+188,"As amino acids have both a primary amine group and a primary carboxyl group, these chemicals can undergo most of the reactions associated with these functional groups.",<triplet> amino acid <subj> carboxyl group <obj> have
+189,Water is required for germination.,<triplet> water <subj> germination <obj> is required for
+190,Another germination event during the life cycle of gymnosperms and flowering plants is the germination of a pollen grain after pollination.,<triplet> germination <subj> flowering plant <obj> of
+191,"Glucose is stored as a polymer, in plants as starch and in animals as glycogen, for times when the organism will need it.",<triplet> glucose <subj> animal <obj> is stored in
+192,"Glucose is stored as a polymer, in plants as starch and in animals as glycogen, for times when the organism will need it.",<triplet> glucose <subj> plant <obj> is stored in
+193,"Many types of animals eat grass as their main source of food, and are called graminivores – these include cattle, sheep, horses, rabbits and many invertebrates, such as grasshoppers and the caterpillars of many brown butterflies.",<triplet> rabbit <subj> grass <obj> eat
+194,"In DNA, guanine is paired with cytosine.",<triplet> guanine <subj> cytosine <obj> is paired with
+195,"Once anaphase is complete, the cell moves into telophase.
+
+
+",<triplet> anaphase <subj> telophase <obj> moves into
+196,"Anaphase (from the Greek ἀνά, ""up"" and φάσις, ""stage""), is the stage of mitosis when replicated chromosomes are split and the sister chromatids are moved to opposite poles of the cell.",<triplet> anaphase <subj> mitosis <obj> is stage of
+197,"Steroid – Examples of steroid hormones include the sex hormones estradiol and testosterone as well as the stress hormone cortisol.
+",<triplet> hormone <subj> estradiol <obj> include

@@ -1,0 +1,22 @@
+subject;predicate;object
+Bruce Castle Museum;located_in;Wood Green Library
+Bruce Castle Museum;offers;free entry
+Bruce Castle Museum;offers;various activities
+Bruce Castle Museum;offers;exhibitions
+Bruce Castle Museum;offers;tours
+Bruce Castle Museum;provides;disabled access
+Bruce Castle Museum;provides;range of services
+Bruce Castle Museum;provides;archive resources
+Bruce Castle Museum;provides;local history resources
+Bruce Castle Museum;provides;collections
+Bruce Castle Museum;provides;rooms for hire
+Bruce Castle Museum;can be reached by;bicycle
+Bruce Castle Museum;can be reached by;foot
+Bruce Castle Museum;can be reached by;train
+Bruce Castle Museum;can be reached by;underground
+Bruce Castle Museum;can be reached by;bus
+Bruce Castle Museum;can be reached by;car
+Bruce Castle Museum;has;parking available
+Bruce Castle Museum;has;standard opening hours
+Bruce Castle Museum;has;opening hours on Wednesday to Sunday
+Bruce Castle Museum;has;opening hours from 1pm to 5pm

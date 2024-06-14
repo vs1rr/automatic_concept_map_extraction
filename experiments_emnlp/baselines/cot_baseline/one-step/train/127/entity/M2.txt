@@ -1,0 +1,26 @@
+entity;surface
+castles;castles
+wood;wood
+10th century;10th century
+stone;stone
+walls;walls
+30 feet;30 feet
+moats;moats
+drawbridges;drawbridges
+baileys;baileys
+mountains;mountains
+water bodies;water bodies
+hilltops;hilltops
+arrow slits;arrow slits
+iron doors;iron doors
+round walls;round walls
+kings;kings
+lords;lords
+noblemen;noblemen
+enemies;enemies
+residences;residences
+lands;lands
+feasts;feasts
+cannons;cannons
+centralized armies;centralized armies
+1500 A.D.;1500 A.D.

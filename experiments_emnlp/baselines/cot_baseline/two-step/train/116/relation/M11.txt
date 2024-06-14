@@ -1,0 +1,13 @@
+subject;predicate;object
+Bramshill House;serves as;a police staff training college
+Bramshill House;features;symmetrical elevations
+Bramshill House;features;narrow interior court
+Bramshill House;features;red tile roof with large gables
+Bramshill House;built from;red brick with stone dressings
+Bramshill House;includes;a stone balustrade parapet
+Bramshill House;includes;detailed windows
+Bramshill House;includes;elaborate entrance
+south entrance front;boasts;a three-story stone porch added in 1703
+house;has been;home to the principal police staff training college in the UK since 1960
+house;has been;part of the National Policing Improvement Agency since 2007
+refurbishment program;is set to be completed by;2014

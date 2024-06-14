@@ -1,0 +1,22 @@
+entity;surface
+CSI Effect;CSI Effect
+law enforcement;law enforcement
+prosecutors;prosecutors
+forensic science TV shows;forensic science TV shows
+CSI;CSI
+jurors;jurors
+forensic evidence;forensic evidence
+trials;trials
+professionals;professionals
+empirical research;empirical research
+impact;jury decisions
+studies;studies
+viewers;viewers
+scientific evidence;scientific evidence
+willingness;willingness
+convict;convict
+tech effect;tech effect
+technological advancements;technological advancements
+universities;universities
+forensic science degrees;forensic science degrees
+students;students

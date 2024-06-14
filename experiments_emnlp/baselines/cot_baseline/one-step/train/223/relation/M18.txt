@@ -1,0 +1,22 @@
+subject;predicate;object
+Byzantine Empire;thrived for;over a thousand years
+Byzantine Empire;had capital in;Constantinople
+Byzantine Empire;was known for;economic, cultural, and military strength
+Roman Empire;was divided by;Diocletian
+Roman Empire;evolved into;a predominantly Greek-speaking entity
+Constantinople;was shifted to;by Constantine I
+Byzantine Empire;adopted;Greek as the official language
+Byzantine Empire;reached its peak under;Justinian I
+Byzantine Empire;expanded its territories significantly under;Justinian I
+Byzantine Empire;faced challenges such as;territorial losses during the Muslim conquests
+Byzantine Empire;faced challenges such as;the devastating impact of the Fourth Crusade
+Byzantine Empire;was coined later with;a derogatory connotation
+Byzantine Empire;highlighted positive contributions to;European civilization
+Byzantine Empire;included the preservation of;classical knowledge
+Byzantine Empire;included the shaping of;Orthodoxy
+Byzantine Empire;included the influencing of;the Renaissance and Slav Orthodox culture
+Byzantine Empire;fell in;1453 to the Ottoman Turks
+Ottoman Turks;considered themselves heirs to;Byzantium
+Ottoman Turks;preserved aspects of;Byzantine tradition
+Byzantine Empire;had an impact on;Europe and the East
+Byzantine Empire;shaped the course of history for;centuries to come

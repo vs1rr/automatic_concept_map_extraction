@@ -1,0 +1,11 @@
+subject;predicate;object
+Macedonian Dynasty;brought about;Byzantine Renaissance
+Macedonian Dynasty;expanded;territories
+Macedonian Dynasty;conquered;Crete
+Macedonian Dynasty;conquered;Cyprus
+Macedonian Dynasty;conquered;Syria
+nobles;led to;instability
+nobles;weakened;authority
+Bulgarians;converted to;Orthodox Christianity
+Serbs;converted to;Orthodox Christianity
+Rus';converted to;Orthodox Christianity

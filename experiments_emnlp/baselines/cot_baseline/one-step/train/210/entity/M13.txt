@@ -1,0 +1,16 @@
+entity;surface
+Late Period of Ancient Egypt;Late Period
+Ancient Egypt;Ancient Egypt
+Egyptian;Egyptian
+Third Intermediate Period;Third Intermediate Period
+Persian;Persian, Persians
+Twenty-Sixth Dynasty;Twenty-Sixth Dynasty
+Saite Period;Saite Period
+First Persian Occupation;First Persian Occupation
+Twenty-Seventh Dynasty;Twenty-Seventh Dynasty
+Twenty-Eighth Dynasty;Twenty-Eighth Dynasty
+Thirtieth Dynasty;Thirtieth Dynasty
+Amyrtaeus;King Amyrtaeus
+Thirty-First Dynasty;Thirty-First Dynasty
+Achaemenid Dynasty;Achaemenid Dynasty
+Second Persian Occupation;Second Persian Occupation

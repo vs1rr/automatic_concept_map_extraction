@@ -1,0 +1,14 @@
+subject;predicate;object
+Pendle Witch Trials;took place in;England
+Pendle Witch Trials;were part of;Lancashire Witch Trials
+accused;were from;Pendle Hill area
+accusations;spread to;multiple families
+twelve people;were charged with;witchcraft and murder
+most;were found guilty and executed
+one;was acquitted
+trials;were influenced by;King James' views on witchcraft
+later trial;took place in;1633-1634
+Margaret Johnson;was accused in;1633-1634 trial
+Margaret Johnson;confessed but was found innocent
+trials;inspired;plays
+trials;continue to be associated with;Pendle's tourism

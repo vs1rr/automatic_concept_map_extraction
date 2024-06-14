@@ -1,0 +1,21 @@
+subject;predicate;object
+castles;were built in;Europe
+castles;were built during;Medieval times
+castles;were built as;fortified structures
+castles;were built to;defend against foreign invaders
+castles;were built to;symbolize power
+castles;were built to;serve as residences for lords and their families
+castles;emerged in;11th century
+castles;were made of;wood
+castles;were made of;stone
+castles;were ruled by;lords
+castles;were ruled by;nobles
+castles;were heavily guarded
+castles;keep was;strongest part
+castles;keep was;safest part
+castles;provided;strategic advantage in wars
+castles;moats played;crucial roles in defense
+castles;differed from;palaces
+castles;moats served as;defensive barriers
+castles;were essential for;protection
+castles;symbolized;power of the ruling elite

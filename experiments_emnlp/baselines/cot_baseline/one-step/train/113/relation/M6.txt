@@ -1,0 +1,17 @@
+subject;predicate;object
+Borobudur;located near;Yogyakarta
+Borobudur;recognized as;UNESCO World Heritage site
+Borobudur;built between;AD 750 and 842
+Borobudur;stands;34.5 meters tall
+Borobudur;base measures;123 x 123 meters
+Borobudur;is;largest Buddhist temple in the world
+Borobudur;is;Buddhist temple
+Borobudur;is;Buddhist stupa
+Borobudur;is;temple complex
+Borobudur;is;Borobudur Temple Compound
+Borobudur;is;Borobudur Temple Compounds
+Borobudur;is;largest Buddhist temple in Indonesia
+Borobudur;is;impressive temple
+Borobudur;is;monument
+Yogyakarta;is in;central Java
+Yogyakarta;is in;Indonesia

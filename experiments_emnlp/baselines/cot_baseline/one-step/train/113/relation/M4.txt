@@ -1,0 +1,9 @@
+subject;predicate;object
+Borobudur Temple Compound;located in;Indonesia
+Borobudur Temple Compound;showcases;pre-Islamic history dominated by Hinduism and Buddhism
+Borobudur Temple Compound;built in;8th and 9th centuries
+Borobudur Temple Compound;abandoned by;16th century
+Borobudur Temple Compound;restored in;ambitious preservation project
+Borobudur Temple Compound;protected by;efforts
+Borobudur Temple Compound;conserved by;efforts
+Borobudur Temple Compound;demonstrates;enduring value in a predominantly Muslim country

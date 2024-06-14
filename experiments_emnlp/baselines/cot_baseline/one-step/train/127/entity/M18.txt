@@ -1,0 +1,6 @@
+entity;surface
+Co. Tipperary;Co. Tipperary
+Nenagh Castle;Nenagh Castle
+Norman invaders;Norman invaders
+gunpowder;gunpowder
+artillery;artillery

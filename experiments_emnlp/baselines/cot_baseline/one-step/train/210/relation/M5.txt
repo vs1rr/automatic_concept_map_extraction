@@ -1,0 +1,8 @@
+subject;predicate;object
+Upper Egypt;located in;the south
+Lower Egypt;located in;the north
+two kingdoms;had;rulers
+two kingdoms;had;symbols
+unification;led to;formation
+unification;under;single pharaoh
+single pharaoh;worshipped as;hawk-god Horus

@@ -1,0 +1,7 @@
+('2004 Summer Olympics', 'point in time', '2004')
+('Point of no return', 'instance of', 'point')
+('2004 Winter Olympics', 'point in time', '2004')
+('2010 Winter Olympics', 'point in time', '2010')
+('2008 Summer Olympics', 'point in time', '2008')
+('2010 FIFA World Cup', 'point in time', '2010')
+('2008 Beijing Olympics', 'point in time', '2008')

@@ -1,0 +1,14 @@
+entity;surface
+California Gold Rush;California Gold Rush
+Northern California;Northern California
+gold;gold
+Sutter's Mill;Sutter's Mill
+1848;1848
+San Francisco;San Francisco
+miners;miners
+infrastructure;infrastructure
+vigilante groups;vigilante groups
+New Mexican Gold Rush;New Mexican Gold Rush
+San Francisco 49ers;San Francisco 49ers
+NFL team;NFL team
+prospectors;prospectors

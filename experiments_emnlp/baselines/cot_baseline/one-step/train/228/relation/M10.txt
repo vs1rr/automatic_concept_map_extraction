@@ -1,0 +1,9 @@
+subject;predicate;object
+State of Coahuila y Tejas;established;constitutional tradition
+State of Coahuila y Tejas;influenced;by U.S. and Spanish constitutions
+state constitution of 1827;combined;Texas with Coahuila
+state constitution of 1827;reflecting;Spanish legal traditions
+state constitution of 1827;included;Catholicism as the state religion
+state constitution of 1827;introduced;homestead exemption from bankruptcy
+homestead exemption;provides;stability for frontier families
+constitution;addressed;important needs of the time

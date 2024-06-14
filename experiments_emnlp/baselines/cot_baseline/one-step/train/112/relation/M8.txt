@@ -1,0 +1,12 @@
+subject;predicate;object
+Old Library;houses;Book of Kells
+Old Library;houses;Book of Armagh
+Old Library;houses;Book of Mulling
+Book of Kells;originated from;monastery on Iona
+Book of Kells;survived;Viking raids
+Book of Kells;taken to;Dublin
+Long Room;features;historic books
+Long Room;features;artifacts
+Long Room;features;fifteenth-century harp
+Long Room;features;original printing
+Long Room;features;1916 Proclamation of the Irish Republic

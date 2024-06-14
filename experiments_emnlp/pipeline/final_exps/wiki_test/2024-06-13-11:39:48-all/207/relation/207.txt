@@ -1,0 +1,49 @@
+Northern Ireland's politics, facet of, conflict between Catholics and Protestants
+hunger strike, instance of, legitimate means of instigating change
+the deaths of the hunger strikers, country, British
+hunger strike, participant, prisoners who participated in it
+the peace process, location, Northern Ireland
+1981 hunger strike, follows, 1980
+Protestants, different from, Catholics
+hunger strike, country, British
+Northern Irish Catholics, religion, Catholics
+discrimination against Catholics, facet of, Northern Irish Catholics
+Catholics, different from, Protestants
+1981 hunger strike, point in time, 1981
+Bobby Sands, significant event, hunger strike
+Northern Irish Catholics, subclass of, Catholics
+hunger strike as a legitimate means of instigating change, subclass of, hunger striking
+hunger strike, part of, escalation of the protests
+deaths of the hunger strikers, participant, British government
+1980, followed by, 1981 hunger strikes
+Northern Ireland, capital, Belfast
+hunger strikers, participant, IRA
+peace process, location, Northern Ireland
+peace process, facet of, Northern Ireland
+hunger strikes, point in time, 1980
+Margaret Thatcher, member of political party, Republican
+1980, followed by, 1981 hunger strike
+conflict, location, Northern Ireland
+prison question, has effect, Anglo-Irish Agreement
+Margaret Thatcher's, member of political party, Republican Movement
+Good Friday Agreement, point in time, 1998
+hunger strike, facet of, prisoners
+conflict in Northern Ireland, political ideology, Irish republican
+Bobby Sands, instance of, hunger strike
+deaths of the hunger strikers, country, British
+hunger strikers, country, British
+Good Friday Agreement, inception, 1998
+Good Friday Agreement, publication date, 1998
+1981 hunger strike in Belfast, point in time, 1981
+1981 hunger strikes, follows, 1980
+hunger strike, subclass of, legitimate means of instigating change
+1981 hunger strike, location, Belfast
+conflict in Northern Ireland, participant, Irish republican
+Bobby Sands, member of political party, National H-Block Committee
+Bobby Sands, position held, Member of Parliament
+Belfast, capital of, Northern Ireland
+hunger strikers, organizer, IRA
+Margaret Thatcher, member of political party, Republican Movement
+hunger strike, participant, British government
+hunger strike, participant, prisoners
+prisoners who participated in it, participant in, hunger strike

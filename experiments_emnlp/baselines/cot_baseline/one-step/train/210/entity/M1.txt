@@ -1,0 +1,11 @@
+entity;surface
+Egypt;Egypt, country
+Nile;Nile
+Mediterranean;Mediterranean
+Red Seas;Red Seas
+Cairo;Cairo
+Pharaonic;Pharaonic
+Islamic;Islamic
+Coptic;Coptic
+European-style architecture;European-style architecture
+Tour Egypt;Tour Egypt

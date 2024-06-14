@@ -1,0 +1,44 @@
+defence counsel, requested, judge-alone trial
+2007 NIJ Conference, point in time, 2007
+National Institute of Justice, has part, crime lab
+CSI Effect, instance of, myth
+jurors now demand scientific evidence in criminal trials, are less likely to, less likely to convict
+trial, participant, jury
+find the defendant not guilty, are given to, jury
+prosecution, opposite of, defense
+show blamed for misinforming jurors, informing, informing the public
+University of Wollongong, country, New South Wales
+CSI, is, jurors
+University of Wollongong, located in the administrative territorial entity, New South Wales
+popular television series, has cause, effect
+popular television series, has effect, effect
+crime scene, studied by, forensic science
+jury, part of, criminal trial
+jury, part of, criminal trials
+defense, opposite of, prosecution
+popular television series, named after, effect
+CSI Effect, instance of, phenomenon
+CSI effect, is, scientific evidence
+National Institute of Justice, instance of, crime lab
+Joyce Hill Stoner, date of birth, 4 July 2013
+find the defendant not guilty, is, jury
+2000’s, point in time, 2000
+find the defendant not guilty, is, reasonable doubt
+trial, has part, jury
+scientific evidence, is relevant to, crime
+CSI Effect, is, myth
+guilty, based on, not guilty
+scientific evidence, is more likely to be relevant to, crime
+crime scene, studied by, forensic scientist
+University of Wollongong, country, Australia
+defense, part of, legal process
+judge-alone, subclass of, trial
+Joyce Hill Stoner, date of death, 4 July 2013
+guilty, different from, not guilty
+defence counsel, avoid, judge-alone trial
+CSI effect, instance of, scientific evidence
+CSI Effect, is a, myth
+crime scene, used by, forensic scientist
+Joyce Hill Stoner, publication date, 4 July 2013
+trial by jury, part of, law
+show blamed for misinforming jurors, is informing, forensic science

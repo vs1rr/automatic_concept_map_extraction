@@ -1,0 +1,24 @@
+subject;predicate;object
+James Madison;born in;1751
+James Madison;raised in;Virginia
+James Madison;developed;passion for politics and intellectual pursuits
+James Madison;career in;politics
+James Madison;involvement in;Virginia Convention
+James Madison;involvement in;Continental Congress
+James Madison;played a key role in;shaping the Constitution
+James Madison;promoting;ratification
+James Madison;championed;individual rights
+James Madison;clashed with;Alexander Hamilton
+James Madison;formation of;political parties
+James Madison;served as;Secretary of State
+James Madison;overseeing;foreign policy
+James Madison;overseeing;Louisiana Purchase
+James Madison;faced challenges with;France
+James Madison;faced challenges with;Great Britain
+James Madison;declaring;war in 1812
+James Madison;saw;end of the War of 1812
+James Madison;focus on;domestic affairs
+James Madison;advocating against;doctrines of nullification
+James Madison;advocating against;states' rights
+James Madison;continued to be active in;public life
+James Madison;died in;1836

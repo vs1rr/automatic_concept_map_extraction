@@ -1,0 +1,44 @@
+subject;predicate;object
+Tomm Moore;discusses;"The Secret of Kells"
+Tomm Moore;discusses;unique visual style
+Tomm Moore;discusses;importance of storytelling in animation
+Tomm Moore;shares;insights
+Tomm Moore;shares;character development
+Tomm Moore;shares;influences behind the film
+Tomm Moore;talks;impact of the blogosphere
+Tomm Moore;talks;future of hand-drawn animation
+Tomm Moore;talks;upcoming project "Song of the Sea"
+"The Secret of Kells";has;unique visual style
+"The Secret of Kells";has;character development
+"The Secret of Kells";has;influences behind the film
+"The Secret of Kells";inspired by;various art forms
+"The Secret of Kells";inspired by;medieval Europe
+"The Secret of Kells";inspired by;Celtic monks
+"The Secret of Kells";inspired by;Irish art
+"The Secret of Kells";inspired by;Christian symbolism
+"The Secret of Kells";inspired by;Iona
+"The Secret of Kells";inspired by;Kells
+"The Secret of Kells";inspired by;Viking raids
+"The Secret of Kells";inspired by;insular illumination
+"The Secret of Kells";inspired by;Christian iconography
+"The Secret of Kells";inspired by;Celtic motifs
+"The Secret of Kells";inspired by;Manuscripts & Archives Research Library
+"The Secret of Kells";inspired by;Gospel book
+"The Secret of Kells";inspired by;insular majuscule
+"The Secret of Kells";inspired by;Book of Armagh
+"The Secret of Kells";inspired by;Book of Mulling
+"The Secret of Kells";inspired by;monastery on Iona
+"The Secret of Kells";inspired by;Long Room
+"The Secret of Kells";inspired by;Irish Republic
+"The Secret of Kells";inspired by;678 illustrated pages
+"The Secret of Kells";inspired by;calf-skin
+"The Secret of Kells";inspired by;natural dyes
+"The Secret of Kells";inspired by;symbols
+"The Secret of Kells";inspired by;Apostles
+"The Secret of Kells";inspired by;Twelve Tribes of Israel
+"The Secret of Kells";inspired by;Tribe of Dan
+"The Secret of Kells";inspired by;four tribal standards
+"The Secret of Kells";inspired by;Apocalypse/Revelation
+"The Secret of Kells";inspired by;tribes of Israel
+"The Secret of Kells";inspired by;emblems
+"The Secret of Kells";inspired by;Israelites

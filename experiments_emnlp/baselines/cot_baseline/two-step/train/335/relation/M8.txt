@@ -1,0 +1,6 @@
+subject;predicate;object
+Pendle Witch Trials;celebrated in;Lancashire, England
+Halloween celebrations;held in;Lancashire, England
+haunted spots;part of;Halloween celebrations
+big party;organized on;Pendle Hill
+witches;participating in;big party

@@ -1,0 +1,7 @@
+subject;predicate;object
+castles;served;offensive and defensive military roles
+castles;served;social and administrative functions
+castles;explained;evolution of castle construction from wood to stone
+castle construction;explained;advancements in defense mechanisms such as arrow-slits and multiple walls
+castles;mentioned;eventual decline due to the introduction of gunpowder
+castles;remain;popular tourist attractions today

@@ -1,0 +1,11 @@
+subject;predicate;object
+Buddha statue;located in;Borobudur Temple Compounds
+Borobudur Temple Compounds;located in;Indonesia
+Borobudur Temple Compounds;dating back to;8th and 9th centuries
+temple;has;intricate sculptures
+temple;has;relief panels
+statue's formal and contextual analysis;reveals;symbolic meaning
+symbolic meaning;conveys;messages of wisdom and enlightenment
+statue's mudra;represents;teachings
+statue's seated position;represents;concentration
+seated position;reflecting;cultural importance of Buddhism

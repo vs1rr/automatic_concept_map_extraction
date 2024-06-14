@@ -1,0 +1,15 @@
+subject;predicate;object
+Jim Bowie;signed;promissory note
+Heritage Auctions' Texana Grand Format Auction;took place in;Dallas
+promissory note;was sold for;$62,500
+auction;featured;historical documents
+historical documents;related to;Texas history
+items;signed by;Sam Houston
+items;signed by;Davy Crockett
+items;signed by;William Barret Travis
+auction;realized a total of;$587,701
+auction;included;a historic broadside by Sam Houston
+auction;included;a map of Texas from 1867
+event;attracted;nearly 400 bidders
+bidders;eager to own;pieces of Texas history
+Texas history;influenced;state's creation

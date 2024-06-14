@@ -1,0 +1,10 @@
+subject;predicate;object
+Borobudur;features;nine stacked platforms
+Borobudur;features;intricate decorations
+Borobudur;features;over 2000 relief panels
+Borobudur;features;numerous Buddha statues
+Borobudur;located in;Java
+Borobudur;located near;Yogjakarta city
+Borobudur;damaged by;earthquakes
+Borobudur;damaged by;time
+Borobudur;maintains charm;site

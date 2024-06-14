@@ -1,0 +1,10 @@
+subject;predicate;object
+castles;influenced by;gothic architecture
+gothic castles;characterized by;features like flying buttresses and grand vaulted ceilings
+gothic castles;influenced by;gothic novels
+gothic novels;created;spooky and eerie images of castles
+gothic castles;perceived as;haunted and mysterious places
+specific examples;include;Hunyad Castle in Transylvania
+specific examples;include;Malbork Castle in Poland
+Hunyad Castle;showcases;architectural and historical significance
+Malbork Castle;showcases;architectural and historical significance

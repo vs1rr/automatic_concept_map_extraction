@@ -1,0 +1,27 @@
+subject;predicate;object
+Capon Chapel;located in;Hampshire County, West Virginia
+Capon Chapel;classified as;church
+Capon Chapel;situated within;WV 26711 ZIP Code delivery area
+Capon Chapel;has coordinates;Latitude: 39.2698239
+Capon Chapel;has coordinates;Longitude: -78.4444521
+Capon Chapel;has GNIS ID;1537028
+Capon Chapel;has nearby city;Capon Bridge
+Capon Chapel;has nearby city;Lake Holiday
+Capon Chapel;has nearby city;Shawnee Land
+Capon Chapel;has nearby city;Wardensville
+Capon Chapel;has nearby city;Winchester
+Capon Chapel;has nearby city;Romney
+Capon Chapel;has nearby city;Stephens City
+Capon Chapel;has nearby city;Paw Paw
+Capon Chapel;has nearby city;Springfield
+Capon Chapel;has nearby city;Middletown
+Capon Chapel;has nearby populated place;Bubbling Spring
+Capon Chapel;has nearby populated place;Hooks Mills
+Capon Chapel;has nearby populated place;High View
+Capon Chapel;has nearby populated place;Finger Lake Estates
+Capon Chapel;has nearby populated place;Loom
+Capon Chapel;has nearby populated place;The Knolls
+Capon Chapel;has nearby populated place;Cold Stream
+Capon Chapel;has nearby populated place;Rock Enon
+Capon Chapel;has nearby populated place;Lehew
+Capon Chapel;has nearby populated place;Rock Enon Springs

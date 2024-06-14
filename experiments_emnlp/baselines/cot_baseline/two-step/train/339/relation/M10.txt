@@ -1,0 +1,9 @@
+subject;predicate;object
+Thomas Jefferson;endorsed;nullification
+James Madison;supported;interposition
+James Madison;opposed;nullification
+Alexander Hamilton;opposed;nullification
+nullification;violates;supremacy of federal law
+states;have;legal means
+states;challenge;unconstitutional laws
+lawsuits;are;more appropriate than nullification

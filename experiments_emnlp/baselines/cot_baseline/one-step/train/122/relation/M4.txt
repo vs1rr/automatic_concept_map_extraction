@@ -1,0 +1,25 @@
+subject;predicate;object
+Bruce Castle Museum;located in;London
+Bruce Castle Museum;offers;diverse range of exhibits
+Bruce Castle Museum;spans from;Roman times to the present day
+Bruce Castle Museum;features;exhibitions on local history, World War II, and community unity
+Bruce Castle Museum;provides;insightful look into London's built and social evolution
+Bruce Castle Museum;located in;16th-century manor house
+Bruce Castle Museum;features;exhibit on the Broadwater Farm Estate
+Broadwater Farm Estate;is part of;history of Haringey and Tottenham
+London;is in;United Kingdom
+London;is in;England
+London;is in;Haringey
+London;is in;Tottenham
+16th-century manor house;is in;London
+16th-century manor house;is in;Haringey
+16th-century manor house;is in;Tottenham
+16th-century manor house;features;exhibitions on local history, World War II, and community unity
+16th-century manor house;located in;London
+16th-century manor house;located in;Haringey
+16th-century manor house;located in;Tottenham
+Haringey;is in;London
+Haringey;is in;United Kingdom
+Tottenham;is in;London
+Tottenham;is in;United Kingdom
+Tottenham;is in;Haringey

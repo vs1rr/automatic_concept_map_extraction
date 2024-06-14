@@ -1,0 +1,18 @@
+subject;predicate;object
+Publius Huldah;rebukes;nullification deniers
+nullification deniers;make;false assertions
+false assertions;contradict;historical documents
+false assertions;contradict;principles of the Founding Fathers
+text;explains;conditions necessary for nullification
+text;explains;concepts of interposition and nullification
+text;emphasizes;nullification is a natural right of self-defense
+text;emphasizes;States have the authority to nullify unconstitutional federal acts
+text;addresses;misperceptions about the role of the Supreme Court
+text;addresses;historical context of nullification
+text;calls for;return to the principles of the Founding Fathers
+text;calls for;rejection of false assertions made by nullification deniers
+nullification;is;natural right of self-defense
+States;have;authority to nullify unconstitutional federal acts
+Supreme Court;has;role in nullification
+historical context;includes;Tariff Act of 1828
+historical context;includes;South Carolina Nullification Crisis

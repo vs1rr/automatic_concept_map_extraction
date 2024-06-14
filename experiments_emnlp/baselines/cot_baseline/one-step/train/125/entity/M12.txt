@@ -1,0 +1,11 @@
+entity;surface
+William C. Nixon;William C. Nixon, Nixon
+1789;1789
+War of 1812;War of 1812
+Virginia House of Delegates;Virginia House of Delegates
+Mary Ann Caudy;Mary Ann Caudy
+Lemuel Nixon;Lemuel Nixon
+Capon Chapel;Capon Chapel
+Primitive Baptists;Primitive Baptists
+mother-in-law;mother-in-law
+cemetery;cemetery

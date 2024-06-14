@@ -1,0 +1,218 @@
+Fat Man, located in the administrative, Hiroshima
+Manhattan Project, start time, 1945
+Manhattan Project, instance of, research and development project
+Abby, spouse, Charlie
+atomic bomb, part of, Manhattan Project
+Manhattan Project, start time, 1942
+bomb, are deactivated, expert engineering
+Australia, contains administrative territorial entity, South Australia
+bomb, developer, Leslie R. Groves
+Quebec Agreement, has effect, equal participation
+plutonium, located in the administrative territorial entity, Hanford
+atomic bomb detonated over Hiroshima and Nagasaki, has part, Gadget
+British Mission, conflict, World War II
+devastating events, location, Minsk
+race for the bomb, has part, moral dilemmas
+Manhattan, original broadcaster, WGN's
+bomb, developed, expert engineering
+Britain, contains, uranium
+Klaus Fuchs, work location, World War II
+Manhattan Project, significant, nuclear age
+uranium production plant, located in the administrative territorial entity, Oak Ridge, Tennessee
+super bomb, considered, science fiction
+bomb, discoverer or inventor, Robert Oppenheimer
+nuclear weapons program, start time, 1940
+Manhattan Project, founded by, Albert Einstein
+dropping of atomic bombs on Hiroshima and Nagasaki, point in time, August 1945
+James Chadwick, employer, British Mission
+Rudolf Peierls, educated at, University of Birmingham
+Oak Ridge, instance of, installations
+Manhattan Project, product or material produced, atomic bomb
+Hurricane, point in time, 1952
+The Making of the Atomic Bomb, author, Richard Rhodes
+nuclear weapon development, is, nuclear powers
+Martin Miller, participant, Manhattan Project
+American, diplomatic relation, British
+Manhattan Project, end time, 1947
+Britain, shares border with, USSR
+atomic bomb detonated over Hiroshima and Nagasaki, facet of, Gadget
+Manhattan Project, main subject, nuclear weapon
+Roosevelt, participant in, Manhattan Project
+Manhattan Project, inception, 1942
+Manhattan Project, main subject, nuclear weapons
+Albert Einstein, employer, President Roosevelt
+Manhattan Project, significant, history of nuclear weapons
+atomic bomb, designed by, Los Alamos, NM
+MAUD Committee, named after, Niels Bohr
+Roosevelt, participant, Manhattan Project
+nuclear weapon development, country, Britain
+Nagasaki, country, Japan
+Canada, diplomatic relation, Britain
+British, participant in, Manhattan Project
+Manhattan, distributed by, WGN
+Hiroshima, followed by, Nagasaki
+Arnold Sommerfeld, student of, Werner Heisenberg
+nuclear disarmament, need, mass destruction
+Quebec Agreement, point in time, 1943
+Klaus Fuchs, country of citizenship, Soviet
+Albert Einstein, participant in, Manhattan Project
+United States, diplomatic relation, Canada
+Birmingham, located in the administrative territorial entity, Oxford
+Agreement for Mutual Cooperation on Atomic Energy, inception, 1958
+bomb, discoverer, Leslie R. Groves
+Peierls, residence, Birmingham
+atomic bomb, has explosive power, TNT
+Manhattan, original broadcaster, WGN
+Mark Oliphant, place of birth, Australia
+state governor, applies to jurisdiction, South Australia
+Thin Man project, is doomed due to, X-10 Reactor
+Werner Heisenberg, influenced by, Arnold Sommerfeld
+British delegation, excluded from, General Groves
+The Gadget, instance of, atomic bomb
+race to<triplet> race to<triplet> race to, main, develop
+Manhattan Project, field of work, atomic bomb
+institutions named in his honor, named after, his
+Quebec Agreement, publication date, 1943
+plutonium, located in the administrative, Hanford
+Britain's nuclear weapons program, inception, 1940
+US, diplomatic relation, British
+scientific discovery, impact, warfare
+Manhattan Project, location, Los Alamos
+Trinity test site, located in the administrative territorial, New Mexico
+Peierls, date of death, 1995
+Attlee, position held, Prime Minister
+Einstein, participant in, Manhattan Project
+Frisch–Peierls memorandum, publication date, March 1940
+US Army Corps of Engineers, country, American
+James Chadwick, member of, British Mission
+Albert Einstein, fear, nuclear weapon
+atomic bomb, discoverer or inventor, Americans
+Albert Einstein, warned, President Roosevelt
+Fat Man, located in, Hiroshima
+Hiroshima, author, John Hersey
+Hiroshima, country, Japan
+USSR, shares, Britain
+bomb, are now deactivated, expert engineering
+Peierls, work location, Birmingham
+Arnold Sommerfeld, influenced by, Werner Heisenberg
+Otto Robert Frisch, field of work, atomic bomb
+British version of the bomb, instance of, bomb
+postwar period, country, British
+USSR, shares, U.S.
+dropping of atomic bombs on Hiroshima and Nagasaki, end time, August 1945
+MAUD Committee, influenced by, Niels Bohr
+nuclear age, is, atomic weapon
+atomic bomb, equal to, explosive power equivalent to 15,000 to 20,000 tons of TNT
+nuclear disarmament, is, mass destruction
+Little Boy bomb, location, Hiroshima
+surprising results in physics, authored, autobiography
+Otto Robert Frisch, country of citizenship, Austria
+Thin Man project, location, X-10 Reactor
+Trinity test site, located in the administrative territorial entity, New Mexico
+James B. Conant, country of citizenship, US
+University of Vienna, headquarters location, Vienna
+Manhattan Project, dissolved, abolished or demolished date, 1947
+surprising results in physics, authored books, autobiography
+its own nuclear program, inception, 1942
+lie detector test, maintained to maintain secrecy, secrecy
+Manhattan Project, main subject, World War II
+project secrets, are severe, punishment
+Hiroshima and Nagasaki in 1945, point in time, 1945
+Canada, shares, U.S.
+Los Alamos, located in the administrative territorial entity, NM
+atomic bomb, studied by, nuclear physics
+James Chadwick, country of citizenship, British
+Manhattan Project, significant event, nuclear age
+Manhattan Project, main subject, atomic bomb
+uranium bomb, inception, 1941
+Agreement for Mutual Cooperation on Atomic Energy, point in time, 1958
+Little Boy bomb, located in the administrative, Hiroshima
+Rudolf Ernst Peierls, place of birth, Berlin
+Manhattan Project, field of work, nuclear science
+British Mission to the Manhattan Project, located in the administrative, Los Alamos
+nuclear age, facet of, atomic weapon
+Peierls, work period, 1937
+U.S., diplomatic relation, Canada
+warning, named after, Albert Einstein
+British, country, Canada
+project secrets, has severe, punishment
+race for the bomb, has part, episode
+Oak Ridge, instance of, city-sized installations
+Little Boy bomb dropped on Hiroshima, has part, uranium
+Britain's nuclear weapons program, start time, 1940
+Manhattan Project, participant, Americans
+Quebec Agreement, has part, equal participation
+nuclear weapon development, follows, project
+plutonium production, location, Hanford
+warning, author, Albert Einstein
+refugees, location, Europe
+project secrets, were severe, punishment
+uranium-235, different from, plutonium-239
+British contribution, location, Los Alamos
+controversy surrounding their involvement, facet of, Manhattan Project
+lie detector, maintained to, secrecy
+Peierls, field of work, theoretical physics
+Roosevelt, position held, President
+Klaus Fuchs, conflict, World War II
+nuclear program, inception, 1942
+Manhattan Project, start time, 1940
+atomic bomb, developer, Manhattan Project
+Hurricane, publication date, 1952
+Manhattan Project, country, American
+Manhattan Project, main subject, atomic weapons
+South Australia, located in the administrative territorial entity, Australia
+nuclear age, named after, atomic weapon
+Klaus Fuchs, participant in, World War II
+British, diplomatic relation, Americans
+Oak Ridge, contains administrative, Hanford
+atomic bomb, used by, Americans
+Rudolf Peierls, employer, University of Birmingham
+refugees, located in the administrative, Europe
+University of Vienna, located in the administrative territorial entity, Vienna
+Manhattan Project, conflict, World War II
+British contribution, located in the administrative, Los Alamos
+British Mission, participant in, Manhattan Project
+Mark Oliphant, educated at, Birmingham
+atomic bomb, use, nuclear physics
+Martin Miller, participant in, Manhattan Project
+top-secret, prevent, prevent enemies from obtaining nuclear technology
+Manhattan Project, main subject, use of atomic weapons in future conflicts
+devastating events in Minsk, time period, World War II
+Canada, shares border with, Britain
+nuclear weapon development, led to, project's success
+Monte Bello Islands, country, Australia
+United States, diplomatic relation, United Kingdom
+Manhattan Project, participant, British
+Fat Man, location, Hiroshima
+Albert Einstein, correspondence, President Roosevelt
+Thin Man, location, X-10 Reactor
+atomic bomb was tested in 1945, location, Hiroshima and Nagasaki
+Manhattan Project, inception, 1940
+Canada, contains, Great Britain
+Oliphant, award received, knighted
+British version of the bomb, subclass of, bomb
+Manhattan, main subject, plutonium bomb
+Leslie Groves, notable work, atomic bomb
+Quebec Agreement, inception, 1943
+General Groves, country of citizenship, British
+Manhattan Project, main subject, atomic weapon
+Quebec Agreement, participant, British
+lie detector test, maintained to, secrecy
+bomb dropped on Hiroshima and Nagasaki in 1945, point in time, 1945
+Leslie Groves, field of work, atomic bomb
+atomic bomb, discoverer, Americans
+Laser-Scan, exploit, measuring tracks in bubble chambers
+nuclear age, significant, Manhattan Project
+atomic bomb was tested in 1945, point in time, 1945
+Leslie Groves, product or material produced, atomic bomb
+Hiroshima, point in time, 1945
+Rudolf Ernst Peierls, date of birth, 1907
+Britain's, nuclear material produced, nuclear powers
+atomic bomb, contains, critical mass
+devastating events in Minsk, part of, World War II
+Manhattan Project, country, U.S.
+postwar period saw the British develop an independent nuclear weapons program, follows, wartime collaboration
+Oliphant, award received, 1959
+Mark Oliphant, employer, Birmingham
+Mark Oliphant, date of birth, 1901
+Trinity, located in the administrative territorial entity, New Mexico

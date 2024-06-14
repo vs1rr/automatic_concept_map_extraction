@@ -1,0 +1,7 @@
+entity;surface
+Edward I;Edward I
+Welsh Castles;Welsh Castles
+James of St. George;James of St. George
+Wales;Wales
+English;English
+Glyn Dwr Revolt;Glyn Dwr Revolt

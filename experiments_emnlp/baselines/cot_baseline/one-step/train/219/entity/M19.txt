@@ -1,0 +1,19 @@
+entity;surface
+Manhattan Project;The Manhattan Project
+atomic bombs;atomic bombs
+World War II;World War II
+United States;United States
+United Kingdom;United Kingdom
+Canada;Canada
+1939;1939
+over 130,000 people;over 130,000 people
+$2 billion;$2 billion
+uranium-235;uranium-235
+plutonium;plutonium
+isotope separation methods;isotope separation methods
+timeline;timeline
+Hiroshima;Hiroshima
+Nagasaki;Nagasaki
+1945;1945
+Atomic Energy Commission;Atomic Energy Commission
+1947;1947

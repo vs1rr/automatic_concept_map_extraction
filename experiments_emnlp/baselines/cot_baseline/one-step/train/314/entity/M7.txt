@@ -1,0 +1,14 @@
+entity;surface
+CSI Effect;"CSI Effect"
+juror expectations;juror expectations
+criminal trials;criminal trials
+popular crime television shows;popular crime television shows
+CSI;CSI
+scientific evidence;scientific evidence
+convictions;convictions
+study;study
+criminology professors;criminology professors
+jurors' expectations;jurors' expectations
+forensic evidence;forensic evidence
+verdicts;verdicts
+criminal justice system;criminal justice system

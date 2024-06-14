@@ -1,0 +1,6 @@
+subject;predicate;object
+Book of Kells;is considered;pinnacle of Irish visual art
+Book of Kells;can be viewed at;Old Library in Trinity College Dublin
+Book of Kells;is often compared to;Sistine Chapel
+interactive app;is called;'Ireland in 100 Objects'
+ebook;is called;'Ireland in 100 Objects'

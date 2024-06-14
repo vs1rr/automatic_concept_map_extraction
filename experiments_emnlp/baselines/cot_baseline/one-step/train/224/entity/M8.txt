@@ -1,0 +1,14 @@
+entity;surface
+James W. Marshall;James W. Marshall
+California;California
+1848;1848
+California Gold Rush;California Gold Rush
+300,000;300,000
+Mexico;Mexico
+Peru;Peru
+Ireland;Ireland
+Germany;Germany
+Belgium;Belgium
+China;China
+Native Americans;Native Americans
+1850;1850

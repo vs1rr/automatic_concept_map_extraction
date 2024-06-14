@@ -1,0 +1,14 @@
+subject;predicate;object
+CSI effect;refers to;exaggerated portrayal of forensic science on TV shows
+CSI effect;influences public perception by;distorting what crime scene investigators and forensic scientists do
+CSI effect;influences public perception by;depicting technologies that do not exist
+CSI effect;influences public perception by;creating unrealistic expectations for evidence collection and analysis
+CSI effect;influences public perception by;presenting outcomes much faster than reality
+CSI effect;is important as;public expectations may impact jury trials
+CSI effect;affects criminal investigations by;making jurors expect more forensic evidence than necessary
+CSI effect;affects criminal investigations by;having excessive confidence in forensic and DNA evidence
+CSI effect;has led to;a rise in jurors wrongly acquitting defendants due to specific evidence expectations
+Legal preparation for prosecutors;has changed to address;the limitations of forensic science
+jury selection;considers;potential jurors' TV show preferences
+Defense attorneys;have;new ways to create doubt in jurors' minds
+potential criminals;have become;more educated due to the CSI effect

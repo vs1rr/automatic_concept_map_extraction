@@ -1,0 +1,10 @@
+subject;predicate;object
+Pedro I;played crucial roles;shaping Brazil's history in the 19th century
+events in Europe;led to;Portuguese royal court fleeing to Rio de Janeiro in 1808
+Pedro I;declaration of independence from;Portugal in 1822
+Pedro I;coronation;transition to an empire
+King João VI;compared with;Emperor Pedro I's portraits
+Debret's paintings;capture;key moments in Brazilian history
+Pedro II;assumption of power as;child
+Pedro II;rule for;nearly six decades
+illustrations and historical accounts;provide insights into;Brazil's journey towards independence

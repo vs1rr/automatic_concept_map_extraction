@@ -1,0 +1,11 @@
+Macedonian Dynasty;brought;recovery and expansion to the Byzantine Empire
+Macedonian Dynasty;led to;Byzantine Renaissance
+Macedonian Dynasty;oversaw;empire's expansion
+Macedonian Dynasty;conquest of;Crete
+Macedonian Dynasty;conquest of;Cyprus
+Macedonian Dynasty;conquest of;Syria
+Macedonian Dynasty;played a significant role in;Christianization of the Bulgarians
+Macedonian Dynasty;played a significant role in;Christianization of the Serbs
+Macedonian Dynasty;played a significant role in;Christianization of the Rus'
+theme system;caused;instability
+theme system;weakened;imperial authority

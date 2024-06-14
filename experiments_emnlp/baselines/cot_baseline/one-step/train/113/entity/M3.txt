@@ -1,0 +1,15 @@
+entity;surface
+monastery;monastery
+author;author
+Theravada Buddhism;Theravada Buddhism
+monks;monks
+Buddha;Buddha
+Enlightenment;Enlightenment
+meditation session;meditation session
+monk;monk
+Borobudur Temple;Borobudur Temple
+Mahayana Buddhist temple;Mahayana Buddhist temple
+9th Century;9th Century
+UNESCO;UNESCO
+Indonesian government;Indonesian government
+religion;religion

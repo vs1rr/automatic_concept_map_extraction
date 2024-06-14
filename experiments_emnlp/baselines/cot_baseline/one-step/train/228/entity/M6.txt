@@ -1,0 +1,13 @@
+entity;surface
+San Felipe de Austin;San Felipe de Austin
+Anglo colonies;Anglo colonies
+Mexican Texas;Mexican Texas
+1820s;1820s
+Conventions;Conventions
+Stephen F. Austin;Stephen F. Austin
+Mexican government;Mexican government
+Texas;Texas
+Austin;Austin
+1834;1834
+Texas Revolution;Texas Revolution
+provisional state government;provisional state government

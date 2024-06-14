@@ -1,0 +1,15 @@
+subject;predicate;object
+CSI Effect;influences;legal decisions
+popular crime television shows;like;Crime Scene Investigations
+positive impacts;noted;increased awareness of forensic evidence
+concerns;surrounding;CSI effect
+concerns;about;unrealistic expectations
+concerns;about;mislaced trust
+studies;found;no significant relationship
+studies;from;US
+studies;from;Australia
+relationship;between;CSI exposure and jury verdicts
+jurors;can distinguish;between fantasy and reality
+evidence;shows;distorted verdicts
+evidence;due to;CSI viewing
+court procedures;modify;no need to

@@ -1,0 +1,14 @@
+subject;predicate;object
+Borobudur;located in;Java
+Borobudur;built in;9th century
+Borobudur;consists of;stacked platforms
+Borobudur;adorned with;intricate bas-reliefs
+Borobudur;adorned with;Buddha statues
+Borobudur;reflects;a blend of Buddhist and Hindu influences
+Borobudur;showcases;daily life, spiritual teachings, and historical events
+Borobudur;facing;challenges like abandonment, looting, and natural disasters
+Borobudur;remains;a UNESCO World Heritage Site
+Visitors;advised to explore;the temple early in the morning
+Visitors;advised to explore;to avoid the heat
+Visitors;advised to explore;to witness the beauty of the sunrise
+Visitors;advised to explore;experiencing a sense of spirituality and awe

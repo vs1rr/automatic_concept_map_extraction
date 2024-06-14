@@ -1,0 +1,9 @@
+subject;predicate;object
+Washington-Centerville Public Library;presents;rare facsimile edition of Book of Kells
+Book of Kells;is;a renowned 9th-century illuminated manuscript
+Book of Kells;is;considered one of the most beautiful ever created
+Trinity College;is;in Dublin
+half a million people;view;original annually
+Book of Kells;will be showcased;one page each week
+Book of Kells;is;masterpiece
+Book of Kells;is;located at the library in Centerville, Ohio

@@ -1,0 +1,21 @@
+entity;surface
+Constantinople;Constantinople
+1453;1453
+gunpowder;gunpowder
+warfare;warfare
+fortress defenses;traditional fortress defenses
+Muslim conquest;Muslim conquest
+eastern Christendom;eastern Christendom
+doctrinal integrity;doctrinal integrity
+Greek scholars;Greek scholars
+Italy;Italy
+Renaissance;Renaissance
+power struggles;power struggles
+empires;empires
+southeastern Europe;southeastern Europe
+repercussions;repercussions
+event;event
+relationships;relationships
+nations;nations
+course of history;course of history
+region;region

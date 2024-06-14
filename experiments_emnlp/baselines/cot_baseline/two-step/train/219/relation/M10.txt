@@ -1,0 +1,9 @@
+subject;predicate;object
+University of Birmingham;published;Frisch-Peierls memorandum
+Rudolf Peierls;published;Frisch-Peierls memorandum
+Otto Frisch;published;Frisch-Peierls memorandum
+Frisch-Peierls memorandum;paved the way for;invention of the nuclear bomb
+calculations;showed;super bomb was feasible
+super bomb;was feasible;initiation of the Manhattan Project
+Manhattan Project;changed the course of;war
+Manhattan Project;changed the course of;world

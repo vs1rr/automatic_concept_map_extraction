@@ -1,0 +1,44 @@
+Silk Road, discoverer or inventor, Alexander the Great
+military collaboration, start time, 1250
+Franco-Mongol Alliance, depicts, legend of Prester John
+Franco-Mongol Alliance, has part, Prester John
+France, shares border with, Mongols
+Mongol legacy in the Muslim world, instance of, death, destruction
+Fatimids, religion, Islam
+defeat, location, European Crusader States
+Fatimid, subclass of, Ismaili
+Hulagu, military campaign, conquest of the Lurs
+Mongol legacy in the Muslim world, instance of, death
+Franco-Mongol Alliance, instance of, partnership
+European Crusaders, conflict, Crusades progressed
+Mamluks, capital, Mamluk Sultanate
+Dayuan, instance of, horse
+Syria, participant, Mongols
+Franco-Mongol Alliance, has partnership, Franks
+European Crusaders, part of, Crusades progressed
+Crusader States, shares border with, France
+Silk Road, connects by, civilization
+defeat, participant, European Crusader States
+Mamluks, use, hit-and-run tactics
+Fatimids, subclass of, Ismaili
+Armenians, friendly to, European Crusaders
+Hulagu, conflict, conquest of the Lurs
+Franco-Mongol Alliance, has part, Franks
+campaigns in Syria, participant, Mamluks
+conquest of the Lurs, participant, Hulagu
+campaigns in Syria, part of, Syria
+Mamluks, used, hit-and-run tactics
+Mamluks, dissolved, 1291
+France, diplomatic relation, Mongols
+Mamluk Sultanate, named after, Mamluks
+Silk Road, founded by, Alexander the Great
+Battle of Ain Jalut, location, Galilee
+capture, end time, 1291
+Battle of Ain Jalut, point in time, September 3, 1260
+military collaboration between the Armenians and the Mongols, start time, 1250
+France, shares, Mongols
+Crusader States, diplomatic relation, France
+Dayuan, subclass of, horse
+Silk Road, connects with, civilization
+Cairo, country, Egypt
+Mamluks, country, Mamluk Sultanate

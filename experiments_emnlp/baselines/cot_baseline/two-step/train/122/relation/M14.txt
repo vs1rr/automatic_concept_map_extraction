@@ -1,0 +1,15 @@
+subject;predicate;object
+Bruce Castle;located_in;Tottenham
+Bruce Castle;has_history;dating back to medieval period
+Bruce Castle;has_name;Lordship House
+Bruce Castle;remodeled_by;Henry Hare
+Bruce Castle;remodeled_by;James Townsend
+Bruce Castle;became;boarding school
+boarding school;attracted;students from around the world
+boarding school;visited_by;Charles Dickens
+boarding school;visited_by;Charles Babbage
+boarding school;closed_in;1891
+building;became;Tottenham's first public museum
+building;became;Grade 1 listed building
+building;houses;London Borough of Haringey's archive
+building;houses;local history museum

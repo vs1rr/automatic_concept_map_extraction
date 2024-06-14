@@ -1,0 +1,12 @@
+subject;predicate;object
+Miss Edna Hilton;inherits;"The Mistletoe Bride"
+Miss Edna Hilton;marrying;Captain Denzil Cope
+Captain Denzil Cope;heir;ancient Cope family
+Bramshill House;haunts;"The Mistletoe Bride"
+newlyweds;reside;Bramshill House
+Visitors;report;eerie encounters
+eerie encounters;add to;mystery
+story;inspired;poems and ballads
+ghostly presence;follows;couple
+couple;move to;Lovell Castle
+Lovell Castle;located in;Oxfordshire

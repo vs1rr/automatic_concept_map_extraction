@@ -1,0 +1,12 @@
+subject;predicate;object
+San Felipe de Austin;founded in;1824
+Stephen F. Austin;served as capital of;San Felipe de Austin
+San Felipe de Austin;played role in;early Texas history
+San Felipe de Austin;had;growing population
+San Felipe de Austin;had;important institutions
+San Felipe de Austin;was;hub for trade and communication
+San Felipe de Austin;had;diverse population
+San Felipe de Austin;was;burned during the Runaway Scrape in 1836
+San Felipe de Austin;lost status as;county seat
+San Felipe de Austin;is preserved as;historical site
+San Felipe de Austin;commemorates role in;Texas history

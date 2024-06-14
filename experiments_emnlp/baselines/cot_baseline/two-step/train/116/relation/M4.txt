@@ -1,0 +1,11 @@
+subject;predicate;object
+Bramshill House;is known for;many ghosts
+Bramshill House;is known for;White Lady
+Bramshill House;is known for;Grey Lady
+Bramshill House;is known for;Green Man
+Bramshill House;is known as;'most haunted house in Hampshire'
+Bramshill House;is haunted by;various spirits
+Bramshill House;is considered;friendly
+College Secretariat;keeps;record of ghost sightings
+College Secretariat;encourages;visitors
+visitors;share;paranormal experiences

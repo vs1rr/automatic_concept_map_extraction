@@ -1,0 +1,9 @@
+subject;predicate;object
+Rudolf Peierls;made significant contributions;field of theoretical physics
+Rudolf Peierls;overcame;challenges in his education
+Rudolf Peierls;moving between;universities in Germany
+Rudolf Peierls;settling in;England
+Rudolf Peierls;played a key role in;development of the atomic bomb
+Rudolf Peierls;received;numerous honors for his work
+Rudolf Peierls;later became;respected professor at Oxford University
+Rudolf Peierls;scientific papers and lectures continue to be influential in;field of physics

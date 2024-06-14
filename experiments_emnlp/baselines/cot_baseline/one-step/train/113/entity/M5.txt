@@ -1,0 +1,13 @@
+entity;surface
+Borobudur;The Borobudur
+Civilization V;Civilization V
+World Wonder;World Wonder
+Faith bonus;significant Faith bonus
+Missionaries;free Missionaries
+Holy City;Holy City
+Buddhist temple;Buddhist temple
+Java;Java
+778-850 AD;778 and 850 AD
+Buddhist cosmology;Buddhist cosmology
+Sir Stamford Raffles;Sir Stamford Raffles
+1814;1814

@@ -1,0 +1,8 @@
+subject;predicate;object
+Manuel Komnenos;played a role in;fall of the Byzantine Empire
+Komnenian restoration;was;a failure
+empire;struggles in;defending Anatolia against the Turks
+emperors;questioned;priorities in foreign campaigns
+theme system;was effective in;defensive strategies
+Asia Minor;is significant for;empire
+Byzantium;has;a unique approach to expansion and defense

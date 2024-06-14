@@ -1,0 +1,8 @@
+subject;predicate;object
+Capon Chapel;located_in;Hampshire County
+Capon Chapel;elevation;869 feet
+Capon Chapel;also_known_as;Capon Baptist Chapel
+Capon Chapel;also_known_as;Capon Chapel Church
+Capon Chapel;coordinates;Latitude: 39.2698239
+Capon Chapel;coordinates;Longitude: -78.4444521
+Capon Chapel;function;serving as a place of religious worship

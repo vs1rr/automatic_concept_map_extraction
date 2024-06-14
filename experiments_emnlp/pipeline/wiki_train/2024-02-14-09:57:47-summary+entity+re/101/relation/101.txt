@@ -1,0 +1,67 @@
+National Institute of Standards and Technology, country, U.S.
+power substation, operator, Consolidated Edison
+predicted the collapse before it happened, predicted, firefighters
+SEC, parent organization, federal
+Larry Silverstein, employer, Consolidated Edison
+building, award received, LEED
+Bjarke Ingels, occupation, architect
+7 World Trade Center, significant event, 9/11
+World Trade Center Building 7, dissolved, abolished or demolished, September 11, 2001
+collapse of the Twin Towers on September 11, 2001, point in time, September 11, 2001
+7 World Trade Center, inception, 2006
+building safety, has had, recommendations
+building, designed with, safety
+building safety improvements, are met with, recommendations
+World Trade Center, located in the administrative territorial entity, New York
+7 World Trade Center, area, 52
+7 World Trade Center, located in the administrative territorial entity, New York City
+collapse of the original building, instance of, original building
+Building 7, instance of, skyscraper
+One World Trade Center, located in the administrative territorial entity, New York City
+collapse of WTC 7, instance of, high-rise collapsing due to fire
+North Tower collapse, point in time, September 11, 2001
+7 World Trade Center, location, Lower Manhattan
+WTC 7, owned by, Larry Silverstein
+World Trade Center, has part, 2 World Trade Center
+7 World Trade Center, located in the administrative territorial entity, Lower Manhattan
+9/11, instance of, terrorist attacks
+World Trade Center destroyed on 9/11, point in time, 9/11
+collapse of World Trade Center Building 7, attributed to, uncontrolled fires
+7 World Trade Center destroyed on 9/11, point in time, 9/11
+Salomon Brothers, inception, 1988
+7 World Trade Center, instance of, controlled demolition
+account 1, depicts, collapse of WTC 7 prematurely
+controlled demolition, location, WTC 7
+damage, has minimal damage, airplane
+WTC 7, architect, Larry Silverstein
+original building, inception, 1987
+account 1, is a version of Account 1, collapse of WTC 7 prematurely
+7 World Trade Center, instance of, building
+Fiterman Hall, owned by, Borough of Manhattan Community College
+controlled demolition, facet of, WTC 7
+Building 7, dissolved, abolished or demolished, September 11, 2001
+collapse of the Twin Towers, point in time, September 11, 2001
+power substation, owned by, Consolidated Edison
+collapse of World Trade Center Building 7, point in time, September 11, 2001
+controlled demolition of WTC 7, instance of, collapse sequence
+World Trade Center Building 7, has cause, collapse of World Trade Center Building 7
+building, designed with, sustainability
+terrorist attacks, has part, 9/11
+federal, subsidiary, SEC
+collapse of WTC 7, has cause, fire
+Building 7, part of, World Trade Center complex
+building safety improvements, are met with criticism, recommendations
+building safety standards, has had, recommendations
+premature announcements, existed, foreknowledge of the collapse existed
+collapse of World Trade Center Building 7, has cause, World Trade Center Building 7
+original building, start time, 1987
+account 1, is a version of Account 1 to explain the, collapse of WTC 7 prematurely
+building safety, has effect, recommendations
+collapse of WTC 7 prematurely, explain, account 1
+2 World Trade Center, part of, World Trade Center
+original building, dissolved, destroyed or demolished, 1987
+collapse of 7 World Trade Center, instance of, controlled demolition
+collapse of WTC 7 prematurely, explain, account 1 to explain the collapse
+Bjarke Ingels, country of citizenship, Danish
+Building 7, instance of, skyscraper in the World
+One World Trade Center, located in the administrative territorial, New York City

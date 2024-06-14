@@ -1,0 +1,10 @@
+subject;predicate;object
+San Felipe de Austin;founded by;Stephen F. Austin
+San Felipe de Austin;played a crucial role in;Texas history
+San Felipe de Austin;hosting;Conventions of 1832 and 1833
+San Felipe de Austin;hosting;Consultation of 1835
+San Felipe de Austin;led to;Texas Declaration of Independence
+Stephen F. Austin;founded;San Felipe de Austin
+Stephen F. Austin;preserves;town's history
+Stephen F. Austin State Park;includes;a replica of Austin's cabin
+Stephen F. Austin State Park;includes;a museum

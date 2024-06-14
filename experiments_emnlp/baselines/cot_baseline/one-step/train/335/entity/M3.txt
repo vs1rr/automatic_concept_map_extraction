@@ -1,0 +1,6 @@
+entity;surface
+Date;August 18, 1612
+Event;trial of the Pendle witches
+Number;11
+Number;9
+Number;1

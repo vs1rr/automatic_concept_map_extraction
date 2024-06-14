@@ -1,0 +1,7 @@
+subject;predicate;object
+Constantinople;marked as;end of the Byzantine Empire
+Sultan Mehmed II;led;Ottoman Turks
+Ottoman Turks;participated in;Siege
+Siege;resulted in;Conquest
+Conquest;led to;renaming of the city to Istanbul
+Conquest;led to;establishment of new rules for the conquered inhabitants

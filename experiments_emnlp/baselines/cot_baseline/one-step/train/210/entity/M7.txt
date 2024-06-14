@@ -1,0 +1,19 @@
+entity;surface
+Ancient Egypt;Ancient Egypt, Egypt
+time periods;distinct time periods
+dynasties;different dynasties
+rulers;powerful rulers, famous rulers
+Early Dynastic Period;Early Dynastic Period
+Menes;Menes
+Djoser;Djoser
+New Kingdom;New Kingdom
+Hatshepsut;Hatshepsut
+Tutankhamun;Tutankhamun
+prosperity;periods of prosperity
+foreign control;foreign control
+Intermediate Periods;Intermediate Periods
+challenges;challenges
+central government control;central government control
+Greco-Roman Period;Greco-Roman Period
+Alexander the Great;Alexander the Great
+Cleopatra;Cleopatra

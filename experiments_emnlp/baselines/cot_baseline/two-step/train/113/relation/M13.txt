@@ -1,0 +1,14 @@
+subject;predicate;object
+Borobudur;located in;Java, Indonesia
+Borobudur;has history dating back to;9th century
+Borobudur;consists of;stacked platforms
+Borobudur;adorned with;intricate bas-reliefs
+Borobudur;adorned with;Buddha statues
+Borobudur;reflects;a blend of Buddhist and Hindu influences
+Borobudur;showcases;daily life, spiritual teachings, and historical events
+Borobudur;has faced challenges such as;abandonment, looting, and natural disasters
+Borobudur;remains;a UNESCO World Heritage Site
+Visitors;are advised to explore;the temple early in the morning
+Visitors;are advised to explore;the temple to avoid the heat
+Visitors;are advised to explore;the temple to witness the stunning sunrise
+Site;offers;a sense of spirituality and awe to all who visit

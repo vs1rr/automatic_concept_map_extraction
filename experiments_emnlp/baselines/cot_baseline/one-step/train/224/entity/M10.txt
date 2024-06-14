@@ -1,0 +1,6 @@
+entity;surface
+forty-niner;forty-niner, forty niner
+California;California
+1849;1849
+gold rush;gold rush
+prospectors;prospectors

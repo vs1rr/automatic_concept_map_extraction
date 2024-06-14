@@ -1,0 +1,13 @@
+entity;surface
+Edna Hilton;Miss Edna Hilton
+Denzil Cope;Captain Denzil Cope
+Cope family;ancient Cope family
+Bramshill House;Bramshill House
+English legend;old English legend
+mistletoe bride;The Mistletoe Bride, tale of the mistletoe bride
+Bramshill House;Bramshill House
+wedding feast;lavish wedding feast
+hide-and-seek;game of hide-and-seek
+Bramshill House;Bramshill House
+mistletoe bride;The Mistletoe Bride
+Bramshill House;Bramshill House

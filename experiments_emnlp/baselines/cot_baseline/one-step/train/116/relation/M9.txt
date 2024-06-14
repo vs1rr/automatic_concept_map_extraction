@@ -1,0 +1,10 @@
+subject;predicate;object
+Bramshill House;dating back to;early 17th Century
+Bramshill House;is;a significant Jacobean 'Prodigy' house
+Bramshill House;has;rich history of architectural evolution and ownership changes
+Bramshill House;was built by;Edward, 11th Baron Zouche of Harringworth
+Bramshill House;underwent;various modifications over the centuries
+Bramshill House;features;historic landscape elements and tree avenues dating back to medieval times
+Bramshill House;served as;a family residence
+Bramshill House;served as;a maternity home during World War II
+Bramshill House;served as;a National Police Training College

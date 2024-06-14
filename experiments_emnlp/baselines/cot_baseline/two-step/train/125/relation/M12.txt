@@ -1,0 +1,42 @@
+subject;predicate;object
+William C. Nixon;born in;1789
+William C. Nixon;served in;War of 1812
+William C. Nixon;married;Mary Ann Caudy
+William C. Nixon;had children;Lemuel Nixon
+Mary Ann Caudy;is married to;William C. Nixon
+Lemuel Nixon;is child of;William C. Nixon
+William C. Nixon;died in;1869
+William C. Nixon;buried in;Capone Chapel Cemetery
+Capone Chapel Cemetery;is located in;Capon Chapel
+Capone Chapel Cemetery;is located in;Capon Bridge
+Capone Chapel Cemetery;is associated with;William C. Nixon
+Capone Chapel Cemetery;is associated with;Mary Ann Caudy
+Capone Chapel Cemetery;is associated with;Lemuel Nixon
+Capone Chapel Cemetery;is associated with;Chapon Chapel
+Capone Chapel Cemetery;is associated with;War of 1812
+Capone Chapel Cemetery;is associated with;Virginia House of Delegates
+Capone Chapel Cemetery;is associated with;Hampshire County
+Capone Chapel Cemetery;is associated with;1869
+Capone Chapel Cemetery;is associated with;Capone Chapel
+Capone Chapel Cemetery;is associated with;Capone Bridge
+Capone Chapel Cemetery;is associated with;United Methodist Church
+Capone Chapel Cemetery;is associated with;Baptist
+Capone Chapel Cemetery;is associated with;Methodist
+Capone Chapel Cemetery;is associated with;Christian and Missionary Alliance
+Capone Chapel Cemetery;is associated with;Foursquare
+Capone Chapel Cemetery;is associated with;Assemblies of God
+Capone Chapel Cemetery;is associated with;Brethren denomination
+Capone Chapel Cemetery;is associated with;National Register of Historic Places
+Capone Chapel Cemetery;is associated with;Civil War veterans
+Capone Chapel Cemetery;is associated with;African Americans
+Capone Chapel Cemetery;is associated with;rural religious architecture
+Capone Chapel Cemetery;is associated with;community events
+Capone Chapel Cemetery;is associated with;historical significance
+Capone Chapel Cemetery;is associated with;gravestones
+Capone Chapel Cemetery;is associated with;cemetery
+Capone Chapel Cemetery;is associated with;pews
+Capone Chapel Cemetery;is associated with;1857
+Capone Chapel Cemetery;is associated with;1834
+Capone Chapel Cemetery;is associated with;ZIP Code
+Capone Chapel Cemetery;is associated with;WV 26711
+Capone Chapel Cemetery;is associated with;business name

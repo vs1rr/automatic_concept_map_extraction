@@ -1,0 +1,9 @@
+subject;predicate;object
+California Gold Rush;was a period of;mass hysteria and migration
+California Gold Rush;led to;significant development in California
+San Francisco;initially becoming;ghost town
+San Francisco;booming with;returning miners
+influx;strained;infrastructure
+influx;led to;vigilante groups forming
+Gold Rush;ended in;1858
+San Francisco 49ers NFL team;is named after;prospectors

@@ -1,0 +1,13 @@
+subject;predicate;object
+Spring Meeting;held on;September 27, 2012
+Spring Meeting;chaired by;Robert Conte
+Spring Meeting;attended by;various voting and ex officio members
+Spring Meeting;discussed;approval of meeting minutes
+Spring Meeting;discussed;reports on Archives and History
+Spring Meeting;discussed;Historic Preservation
+Spring Meeting;discussed;National Register nominations
+Spring Meeting;discussed;updates on ongoing projects and grants
+Spring Meeting;addressed;review and approval of several National Register nominations
+Spring Meeting;discussion on;revising and filing the commission's by-laws
+Spring Meeting;concluded with;setting dates for future meetings
+Spring Meeting;concluded with;adjournment at 1:14 p.m.

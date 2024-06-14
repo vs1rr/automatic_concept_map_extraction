@@ -1,0 +1,15 @@
+subject;predicate;object
+Britons;are proud of;British Empire
+Britons;are unaware of;darker aspects
+figures;have made;Calls
+figures;have made;approach
+figures;have made;teaching
+figures;have made;crimes
+figures;have made;Jeremy Corbyn
+figures;have made;historians
+comparison;is drawn between;Britons' pride
+comparison;is drawn between;Russians' views
+text;suggests;understanding
+text;suggests;acceptance
+text;suggests;history
+text;suggests;perspectives

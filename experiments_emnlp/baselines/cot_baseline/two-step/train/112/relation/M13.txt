@@ -1,0 +1,7 @@
+subject;predicate;object
+Book of Kells;located at;Trinity College
+Book of Kells;features;elaborately decorated copies of the four gospels
+Book of Kells;dating back to;800 AD
+Book of Kells;is;a popular exhibition
+Book of Kells;attracts;over 500,000 visitors annually
+Book of Kells;can be visited at;bookofkells.ie

@@ -1,0 +1,14 @@
+subject;predicate;object
+Book of Kells;created by;Celtic monks
+Book of Kells;contains;four gospels
+Book of Kells;written in;colorful inks
+Book of Kells;contains;intricate artwork
+Book of Kells;produced by;Columban monks
+Book of Kells;associated with;community at Iona
+Book of Kells;started at;Iona
+Book of Kells;finished at;Kells
+Book of Kells;showcases;lavish illumination program
+Book of Kells;showcases;intricate decorations
+Book of Kells;showcases;full-page illustrations
+Book of Kells;remains in;good condition
+Book of Kells;testament to;skill and dedication of creators

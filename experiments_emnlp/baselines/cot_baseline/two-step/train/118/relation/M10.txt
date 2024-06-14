@@ -1,0 +1,20 @@
+subject;predicate;object
+Brougham Castle;built_in;early 13th Century
+Brougham Castle;located_in;Cumbria
+Brougham Castle;built_by;Robert de Vieuxpont
+Brougham Castle;strategically_located_between;rivers Lowther and Eamont
+Robert de Vieuxpont;built;Brougham Castle
+castle;ownership_changes;saw
+castle;improvements;saw
+castle;conflicts_over;centuries
+de Clifford family;took_over;castle
+Robert de Clifford;enhancing_defenses;during Anglo-Scottish War
+castle;briefly_captured_by;Scots
+castle;fell_into;disrepair
+Lady Anne Clifford;restored;castle
+Lady Anne Clifford;hosting;James I
+Lady Anne Clifford;restored;castle
+castle;deteriorated;after her death
+castle;came_under;state ownership
+castle;managed_by;English Heritage
+castle;open_to;public

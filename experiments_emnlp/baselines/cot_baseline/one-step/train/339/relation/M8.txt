@@ -1,0 +1,20 @@
+subject;predicate;object
+James Madison;born in;1751
+James Madison;raised in;Virginia
+James Madison;developed;passion for politics and intellectual pursuits
+James Madison;began;career in politics
+James Madison;involved in;Virginia Convention of 1776
+James Madison;involved in;Continental Congress
+James Madison;played key role in;shaping the Constitution
+James Madison;promoting;ratification of the Constitution
+James Madison;championed;individual rights
+James Madison;opposed;Alexander Hamilton's financial plans
+James Madison;led to;formation of political parties
+James Madison;served as;Secretary of State under Jefferson
+James Madison;overseeing;foreign policy and the Louisiana Purchase
+James Madison;faced challenges with;France and Great Britain
+James Madison;led to;War of 1812
+James Madison;advocating for;national bank recharter and constitutional amendments
+James Madison;retired to;Montpelier
+James Madison;engaging in;farming and educational endeavors
+James Madison;died in;1836

@@ -1,0 +1,28 @@
+entity;surface
+CSI effect;CSI effect
+forensic science;forensic science
+TV shows;TV shows
+public perceptions;public perceptions
+crime scene investigators;crime scene investigators
+forensic scientists;forensic scientists
+technologies;technologies
+evidence collection;evidence collection
+analysis;analysis
+outcomes;outcomes
+public expectations;public expectations
+jury trials;jury trials
+jurors;jurors
+forensic evidence;forensic evidence
+DNA evidence;DNA evidence
+defendants;defendants
+specific evidence;specific evidence
+legal preparation;legal preparation
+prosecutors;prosecutors
+limitations;limitations
+jury selection;jury selection
+potential jurors;potential jurors
+TV preferences;TV preferences
+Defense attorneys;Defense attorneys
+strategies;strategies
+doubt;doubt
+criminals;criminals

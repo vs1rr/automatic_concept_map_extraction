@@ -1,0 +1,16 @@
+monastery, has, human occupation
+St. Margaret's Church, location, port
+Blakeney Freshes, part of, coast path
+coast path, adapting to, sea level rise
+coast path, adapt to, sea level rise
+Norfolk, has part, area
+Norfolk, is now part of, area
+bird sanctuary, located on terrain feature, Blakeney Point
+St. Margaret's Church, located in the administrative, port
+bird sanctuary, location, Blakeney Point
+Norfolk, instance of, area
+St. Margaret's Church, located in the administrative territorial entity, port
+Blakeney Freshes, connects with, Coast Path
+Blakeney Freshes, carries, Coast Path
+Blakeney Freshes, part of, Coast Path
+Blakeney Freshes, uncertain, coast path

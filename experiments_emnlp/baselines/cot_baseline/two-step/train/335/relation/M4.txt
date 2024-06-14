@@ -1,0 +1,21 @@
+subject;predicate;object
+London;has;haunted dungeons
+Wales;has;ghost walks
+Scotland;has;ghost walks
+haunted dungeons;located in;London
+ghost walks;located in;Wales
+ghost walks;located in;Scotland
+haunted castles;have;chilling histories
+prisons;have;chilling histories
+hills;have;chilling histories
+curses;associated with;haunted castles
+witch trials;associated with;chilling histories
+ghostly apparitions;associated with;hills
+Dracula;associated with;Whitby
+Liverpool;known for;ghostly tales
+York;known for;ghostly tales
+Tudor life;reveals;secrets
+Stratford-upon-Avon;associated with;Tudor life
+Sheffield;known for;darkest stories
+ghost tour;involves;Sheffield's darkest stories
+haunted locations;spread across;Britain

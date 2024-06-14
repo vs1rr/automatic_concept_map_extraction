@@ -1,0 +1,21 @@
+entity;surface
+Third Intermediate Period;The Third Intermediate Period
+Egypt;Egypt
+Smendes;Smendes
+Ramesses XI;Ramesses XI
+Dynasty 21;Dynasty 21
+Tanis;Tanis
+Thebes;Thebes
+Dynasty 22;Dynasty 22
+Dynasty 23;Dynasty 23
+Libyan;Libyan
+Nubian;Nubian
+Art;Art
+Culture;Culture
+Temple precincts;temple precincts
+Bronze statuary;bronze statuary
+Burial practices;burial practices
+King;king
+Divine lineage;divine lineage
+Artistic forms;artistic forms
+Cultural developments;cultural developments

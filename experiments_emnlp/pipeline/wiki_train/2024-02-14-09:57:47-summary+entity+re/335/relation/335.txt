@@ -1,0 +1,66 @@
+Gwen Ellis, date of death, 1594
+witches executed in England, resulted in, execution
+The Wonderfull Discoverie of Witches in the Countie of Lancaster., author, Thomas Potts
+witches executed in England, resulted in the execution, execution
+Pendle witch, subclass of, witch
+The Wonderfull Discoverie of Witches in the Countie of Lancaster, author, Thomas Potts
+murder, use, witchcraft
+murder, used, witchcraft
+Hesketh, walks, the accused witches
+executed, is, hanging
+Gwen Ellis, executed, Pendle hangings
+Hesketh, investigation, trials
+1633-1634, point in time, 1633
+Julia Bradbury, place of birth, Pendle
+400th Pendle, located in the administrative, Lancashire
+witches executed in England, is, execution
+trials continued in 1633-1634, point in time, 1633
+Demdike, sibling, Chattox
+Julia Bradbury, residence, Pendle
+Bargarran witch trials, instance of, witch trials in Scotland
+Pendle witch, charge, murder
+Pendle Hill trials in 1612, point in time, 1612
+Lancaster, located on terrain, moors
+Lancaster, located in or next to body of water, moors
+Pendle Hill trials, point in time, 1612
+Lancaster, located on terrain feature, moors
+Pendle Witch Trials, start time, 1612
+Pendle Witch Trials, point in time, 1612
+Pendle Witch trials, point in time, August 18, 1612
+hanged, is executed by, found guilty
+ghost, instance of, supernatural occurrences
+found guilty, is acquitted, executed
+Hesketh, walks, witches
+Alice, spouse, N
+trials continued in 1633-1634, start time, 1633
+witch trials, subclass of, prosecution and hanging of individuals accused of witchcraft
+witch trial, subclass of, prosecution and hanging of individuals accused of witchcraft
+Pendle witches, instance of, legend
+400th Pendle, located in the administrative territorial, Lancashire
+Thomas Potts, publication, official publication
+Hesketh, walks the path of the accused witches, witches
+Pendle witch, subclass of, witches
+Eleanor Cobham, date of death, 1441
+King JamesI, field of, witchcraft
+feud <subj><triplet><triplet> feud, has cause, feud
+King JamesI, interest, witchcraft
+witches executed in England, are, execution
+spooky sites across Britain, country, Britain
+spooky sites across Britain, are entertained, scared
+Pendle Hill, located in the administrative territorial entity, Lancashire
+found guilty, was acquitted, executed
+Pendle witch, charged with, murder
+Thomas Potts, participant in, trial
+Pendle Witch trials, start time, August 18, 1612
+400th Pendle, location, Lancashire
+King JamesI, interest in, witchcraft
+Scotland, located in the administrative territorial entity, Britain
+murder, used by, witchcraft
+Pendle Witch trials, point in time, 1612
+executed, is by, hanging
+Thomas Potts, participant, trial
+witches, participant in, trials
+Pendle witches, charged with, murder
+Bargarran witch trials, instance of, witch trial
+sentenced to death, sentenced to, found guilty
+found guilty, were found guilty, executed

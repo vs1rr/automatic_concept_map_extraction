@@ -1,0 +1,16 @@
+entity;surface
+Brough Castle;Brough Castle
+A66;A66
+Brough;Brough
+1090;1090
+Roman fort;Roman fort
+Verteris;Verteris
+William Rufus;William Rufus
+Scots;Scots
+Clifford family;Clifford family
+Lady Anne Clifford;Lady Anne Clifford
+1521;1521
+17th century;17th century
+1920;1920
+Ministry of Works;Ministry of Works
+English Heritage;English Heritage

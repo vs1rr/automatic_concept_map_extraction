@@ -1,0 +1,23 @@
+entity;surface
+Bruce Castle Museum;Bruce Castle Museum
+Tottenham;Tottenham
+Family History;Family History
+Local History;Local History
+archives;archives
+maps;maps
+census returns;census returns
+newspapers;newspapers
+historical photographs;historical photographs
+16th Century manor house;16th Century manor house
+exhibitions;exhibitions
+workshops;workshops
+Friends of Bruce Castle;Friends of Bruce Castle
+Haringey Local History Forum;Haringey Local History Forum
+Tottenham Civic Society;Tottenham Civic Society
+geography;geography
+history;history
+architecture;architecture
+Summerhill Road website;Summerhill Road website
+contact information;contact information
+groups;groups
+mailing list;mailing list

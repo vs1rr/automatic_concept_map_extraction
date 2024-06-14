@@ -1,0 +1,11 @@
+entity;surface
+Bruce Castle Museum;Bruce Castle Museum
+Grade I listed 16th-century manor house;Grade I listed 16th-century manor house
+William Compton;William Compton
+Henry VIII;Henry VIII
+Coleraine family;Coleraine family
+Sir Rowland Hill;Sir Rowland Hill
+British postal system;British postal system
+Borough of Haringey;Borough of Haringey
+Wednesday to Sunday;Wednesday to Sunday
+Search Room;Search Room

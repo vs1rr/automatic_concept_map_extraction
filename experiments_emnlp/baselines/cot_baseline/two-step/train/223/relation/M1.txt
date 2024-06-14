@@ -1,0 +1,11 @@
+subject;predicate;object
+Byzantine Empire;originated in;330 A.D.
+Constantine I;established;Constantinople
+Byzantine Empire;survived for;1,000 years
+Byzantine Empire;served as military buffer between;Europe and Asia
+Byzantine Empire;thrived under;rulers like Justinian I
+Byzantine Empire;influenced;Western intellectual tradition
+Byzantine Empire;spread;Orthodox Christianity to regions like Russia, Romania, and Greece
+Byzantine Empire;fell in;1453
+Constantinople;conquered by;Ottoman Empire
+Constantinople;marked the end of an era but left a lasting impact on;history

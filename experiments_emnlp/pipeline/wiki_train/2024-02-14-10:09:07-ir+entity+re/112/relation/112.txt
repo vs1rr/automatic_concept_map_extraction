@@ -1,0 +1,103 @@
+tribes of Israel, represent, Israel
+Columban Monastery, location, Iona
+University of Dublin, subsidiary, Trinity College
+Book of Kells, part of, New Testament
+Fairytale Traveler Experience at the Book of Kells, depicts, Book of Kells
+manuscript, place of production, date
+Iona, located in the administrative territorial entity, Kells
+Gospel of John, has part, John 17:13
+book, is, leaves of calfskin
+Book of Kells, is a copy of, New Testament
+Book of Kells, contains, four gospels
+Book of Kells, writing system, uncial
+The Book of Kells, depicts, Kells
+EAGLE, instance of, emblem
+gospel of Colum-Cille, owned by, church of Kells
+Book of Kells, based on, New Testament
+Iona, located in the administrative, Kells
+Columban Monastery, located on terrain feature, Iona
+Book of Kells, author, St Colmcille
+tribes of Israel, are, Israelites
+Book of Kells, instance of, documents
+portraitist of the three Evangelists, depicts, Quoniam at the beginning of the Gospel of Saint Luke
+Book of Kells, founded by, St Colmcille
+Book of Kells, owned by, Laura King
+Liberty Hall, located in the administrative territorial entity, Dublin
+tribes of Israel, represent, Israelites
+Book of Kells, part of, Insular Gospel books
+Dan, sibling, Joseph
+Book of Kells, contains, relics of Saint Columba
+Book of Kells, located on terrain feature, Iona
+glossary of Hebrew names, start with, fragment
+Book of Kells, is, folios
+book, depicts, leaves of calfskin
+Iona, located in, Kells
+James the Lord's brother, place of death, Romans
+Book of Kells, instance of, Irish manuscript
+Book of Kells, located in the administrative, Kells
+The Secret of Kells, production, film’s production
+gospel of Colum-Cille, collection, church of Kells
+Book of Kells, depicts, Art of Illumination
+Book of Kells, said to be the equivalent of, Sistine Chapel
+Book of Kells, instance of, illuminated manuscripts
+Columban Monastery's scriptorum, located on terrain feature, Iona
+Book of Kells, place of publication, Isle of Iona
+Book of Kells, located in the administrative territorial entity, Iona
+Trinity College Trinity College, parent organization, University of Dublin
+Book of Kells, collection, Trinity College Library
+Twelve Tribes of Israel, headquarters location, The Tabernacle
+Book of Kells, named after, Kells
+Abbey of Kells, located in the administrative territorial entity, Kells
+Song of the Sea, main subject, Irish history
+Book of Kells, located in the administrative territorial entity, Kells
+Book of Kells, based on, Vulgate
+Book of Kells, instance of, Irish manuscripts
+The Secret of Kells, eclectic, eclectic
+book, depicts, calfskin
+Mark, instance of, gospels
+Book of Kells, referred to, Annals of Ulster
+tribes of Israel, are to be preached, Israel
+Book of Kells, depicts, Kells
+Book of Kells, depicts, manuscript
+Twelve Tribes of Israel, camped around, The Tabernacle
+Hackley Public Library, location, Hackley
+Book of Kells, instance of, illuminated manuscript
+Book of Kells, named after, Abbey of Kells
+Book of Durrow, named after, Cathach of Saint Columba
+Christ, depicts, saints
+Book of Kells, has parts of the class, folios
+Book of Kells, part of, Annals of Ulster
+Book of Kells, instance of, Gospel book
+Hackley Public Library, located in the administrative territorial entity, Hackley
+The Secret of Kells, architectural style, eclectic
+Song of the Sea, instance of, film
+Gospel, based on, Vulgate
+Book of Kells, place of birth, Isle of Iona
+James Ussher, educated at, Trinity College, Dublin
+Hackley Public Library, located in the administrative, Hackley
+The Secret of Kells, instance of, film
+Book of Kells, author, Columba
+tribes of Israel, are to be preached, Israelites
+Book of Kells, collection, Trinity College Library.
+Book of Kells, location, Isle of Iona
+Book of Kells, located in, Kells
+Mark, instance of, Gospel
+Book of Kells, author, Laura King
+Book of Kells, instance of, Insular Gospel books
+Gospel of John, has part, John
+Book of Kells, place of publication, Iona
+Book of Kells, has part, folios
+Fairytale Traveler Experience at the Book of Kells, part of, Book of Kells
+Trinity College, parent organization, University of Dublin
+James the Lord, ethnic group, Romans
+portraitist of the three Evangelists, depicts, Quoniam
+James the Lord's brother, ethnic group, Romans
+Book of Kells, depicts, art of Illumination
+Book Of Kells and Trinity College, parent organization, University of Dublin
+The Secret of Kells, genre, eclectic
+EAGLE, named after, Dan
+Book of Durrow, is different from, Cathach of Saint Columba
+Book of Kells, instance of, manuscript
+portraitist of the three Evangelists, depicts, Gospel of Saint Luke
+Book of Kells, has part, Saint Columba
+Christ, instance of, saints

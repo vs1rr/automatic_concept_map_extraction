@@ -1,0 +1,12 @@
+entity;surface
+Byzantine Empire;Byzantine Empire
+Bulgarian Empire;Bulgarian Empire
+Serbian Empires;Serbian Empires
+Turks;Turks
+Anatolia;Anatolia
+Catholicism;Catholicism
+Orthodox;Orthodox
+Constantinople;Constantinople
+Ottoman Turks;Ottoman Turks
+1453;1453
+Ottoman Empire;Ottoman Empire

@@ -1,0 +1,17 @@
+entity;surface
+Old Pine Church;Old Pine Church
+Mill Church;Mill Church
+Nicholas Church;Nicholas Church
+West Virginia;West Virginia
+Brethren denomination;Brethren denomination
+National Register of Historic Places;National Register of Historic Places
+2012;2012
+rural religious architecture;rural religious architecture
+pews;pews
+1857;1857
+cemetery;cemetery
+gravestones;gravestones
+1834;1834
+community events;community events
+burials;burials
+historical significance;historical significance

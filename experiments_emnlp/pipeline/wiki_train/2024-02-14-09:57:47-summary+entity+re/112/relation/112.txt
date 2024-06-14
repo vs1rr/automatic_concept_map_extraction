@@ -1,0 +1,81 @@
+lion, represents, twelve tribes of Israel
+Kells Monastery, located in the administrative territorial entity, Ireland
+Columban Monastery, located in the administrative territorial entity, Iona
+Book of Kells, part of, New Testament
+Book of Kells, instance of, religious manuscript
+manuscript, place of production, Iona
+Revelation, characters, Christ's
+Hackley Public, owner of, replica
+The Secret of Kells, follows, prequel graphic novel
+My Neighbor Totoro, director, Hayao Miyazaki
+Evangelists, religion, Christian
+Columban Monastery, located on terrain feature, Iona
+four gospels, language of work or prayer, Latin
+vellum, required, skin
+Evangelists, depicts, Christian imagery
+comic, location, NY Comic Con
+manuscript, place of production, Kells
+Old Library, located in the administrative territorial entity, Dublin
+Book of Kells, part of, New Testament of the Bible
+Trinity College in Dublin, country, Ireland
+Book of Kells, collection, Trinity College, Dublin
+The Secret of Kells, distributed by, Netflix
+Kells Monastery, country, Ireland
+manuscript, collection, Old Library
+Trinity College, headquarters location, Dublin
+four gospels, contains the four gospels, Latin
+Book of Kells, genre, Biblical art
+Book of Armagh, instance of, illuminated Gospel book
+Iona, located in the administrative territorial entity, Scotland
+Kells, country, Ireland
+The Secret of Kells, distributed by, Blu-ray
+Book of K<triplet> Book of Kells, collection, Trinity College, Dublin
+Book of Kells, instance of, illuminated manuscripts
+Book of Durrow, instance of, manuscripts
+four Gospels, part of, New Testament
+vellum, made from, skin
+Book of Kells, instance of, Irish masterpiece
+Gospel of Colum Cille, collection, Trinity College Dublin Library
+community at Iona, religious order, Columban
+Book of Kells, collection, Trinity College Library
+tribes of Israel, were to be preached, gospel
+Iona, religious order, Columban
+hand-drawn animation, opposite of, computer-generated animation
+Abbey of Kells, located in the administrative territorial entity, Ireland
+Book of Kells, references, Revelation
+Book of Kells, never finished, never finished
+replica, owned by, Hackley Public
+Book of Kells, said to be, Irish masterpiece
+Gospels, part of, New Testament
+Trinity College, located in the administrative territorial entity, Dublin
+Book of Durrow, instance of, manuscript
+The Secret of Kells, followed by, prequel graphic novel
+tribes of Israel, were to be preached, Jesus
+Book of Kells, instance of, illuminated manuscript
+four gospels, contains, Latin
+Book of Kells, collection, Washington-Centerville Public Library
+Trinity College Library, headquarters location, Dublin
+Book of Kells, instance of, Gospel book
+Trinity College Dublin Library, country, Ireland
+The Secret of Kells, distributed by, Comixology
+Gospel, part of, New Testament
+Abbey of Kells, country, Ireland
+lion, depicts, twelve tribes of Israel
+Book of Kells, genre, Insular art
+Western Europe, remains, treasure
+Book of Kells, is, illuminated manuscript
+The Secret of Kells, director, Tomm Moore
+Columban, located in the administrative territorial entity, Iona
+tribes, country, Israel
+Book of Kells, reference, Revelation
+Trinity College in Dublin, instance of, university
+Book of Kells, collection, Trinity College in Dublin
+Western Europe, is, treasure
+The Secret of Kells, publication date, DVD
+lion, represent, twelve tribes of Israel
+Trinity College Dublin, country, Ireland
+Book of Kells, instance of, manuscript
+Trinity College Library, located in the administrative territorial entity, Dublin
+My Neighbor Totoro, author, Hayao Miyazaki
+Book of Armagh, instance of, illuminated Gospel books
+four gospels, language of work or name, Latin

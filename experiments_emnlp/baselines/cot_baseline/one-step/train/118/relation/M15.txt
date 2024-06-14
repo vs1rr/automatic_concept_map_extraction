@@ -1,0 +1,7 @@
+subject;predicate;object
+Brougham Castle;originally a Roman fort site;Roman fort site
+Norman family of Vieuxpont;took over;Brougham Castle
+Hugh de Morville;founded;current castle
+Lady Anne Clifford;restoration work in the 17th century;Brougham Castle
+Brougham Castle;overlooking;River Eamont
+Brougham Castle;now an English Heritage site;open to visitors

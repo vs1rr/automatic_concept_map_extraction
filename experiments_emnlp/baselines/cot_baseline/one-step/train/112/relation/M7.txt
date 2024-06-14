@@ -1,0 +1,51 @@
+subject;predicate;object
+Book of Kells;depicts;events in the life of Christ and saints
+Book of Kells;created in;Ireland
+Book of Kells;contains;four gospels
+Book of Kells;showcases;various styles and meticulous detail
+Book of Kells;was moved to;Kells Monastery
+Book of Kells;was later returned to;Trinity College of Dublin
+Book of Kells;was once believed created by;angels
+Kells Monastery;located in;Ireland
+Kells Monastery;protected Book of Kells during;Viking raids
+Viking raids;occurred in;Ireland
+Trinity College of Dublin;houses;Book of Kells
+Trinity College of Dublin;located in;Dublin
+Book of Kells;took;thirty years to complete
+Book of Kells;contains;intricate artwork
+Book of Kells;depicts;no symbol repeated
+Book of Kells;originally created to hold;four gospels
+Book of Kells;is;a masterpiece of Celtic art
+Book of Kells;is;a religious manuscript
+Book of Kells;is;a treasure of Western Europe
+Book of Kells;is;an artifact
+Book of Kells;is;from ancient Ireland
+Book of Kells;is;an illuminated manuscript
+Book of Kells;is;an artwork
+Book of Kells;is;from the 9th century
+Book of Kells;is;from Ireland
+Book of Kells;is;from medieval Europe
+Book of Kells;is;from Western Europe
+Book of Kells;is;from the Celtic art
+Book of Kells;is;from the Gospels
+Book of Kells;is;from the New Testament
+Book of Kells;is;from the Christian symbolism
+Book of Kells;is;from the calf vellum
+Book of Kells;is;from the iron gall ink
+Book of Kells;is;from the insular illumination
+Book of Kells;is;from the insular majuscule
+Book of Kells;is;from the Christian iconography
+Book of Kells;is;from the Celtic motifs
+Book of Kells;is;from the Gospel passages
+Book of Kells;is;from the 340 folios
+Book of Kells;is;from the calf-skin
+Book of Kells;is;from the natural dyes
+Book of Kells;is;from the symbols
+Book of Kells;is;from the Apostles
+Book of Kells;is;from the Twelve Tribes of Israel
+Book of Kells;is;from the Tribe of Dan
+Book of Kells;is;from the four tribal standards
+Book of Kells;is;from the Apocalypse/Revelation
+Book of Kells;is;from the tribes of Israel
+Book of Kells;is;from the emblems
+Book of Kells;is;from the Israelites

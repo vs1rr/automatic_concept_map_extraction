@@ -1,0 +1,34 @@
+battle of Gonzales, part of, Texas Revolution
+Texians, contains administrative territorial entity, Texas
+battle of San Jacinto, part of, Texas Revolution
+Sam Houston, position held, provisional government
+Convention of 1833 in Mexican Texas, point in time, 1833
+Battle of San Jacinto, participant, Santa Anna
+Declaration of Independence, applies to jurisdiction, Texas
+Texas, replaces, Mexican rule
+Mexican War of Independence, part of, Texas Revolution
+Battle of San Jacinto, point in time, April 21, 1836
+Texas colonists, country, Mexican rule
+Grass Fight, part of, Battle of Concepción
+Mexican rule, replaced by, Texas
+Grass Fight, part of, revolution
+Texas Revolution, start time, October 1835
+Stephen F. Austin, position held, provisional government
+Texas history, significant event, Declaration of Independence
+Convention of 1833 in Mexican Texas, location, Mexican Texas
+battle of San Jacinto, part of, siege of the Alamo
+Battle of San Jacinto, end time, April 21, 1836
+Mexican army, conflict, Mexican War of Independence
+Texas, instance of, Mexican state
+Declaration of Independence, located in the administrative territorial entity, Texas
+Battle of Concepción, part of, revolution
+battle of San Jacinto, point in time, April 21, 1836
+Sam Houston, member of, provisional government
+Texas, located in the administrative territorial entity, Texians
+Texas Revolution, start time, 1835
+siege of the Alamo, part of, battle of San Jacinto
+Mexican rule, contains administrative territorial entity, Texas
+Battle of Gonzales, part of, Texas Revolution
+Battle of San Jacinto, part of, Texas Revolution
+Texas Revolution, end time, April 1836
+Santa Anna, conflict, battle of San Jacinto

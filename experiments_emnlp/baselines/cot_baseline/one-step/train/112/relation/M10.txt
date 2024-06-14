@@ -1,0 +1,9 @@
+subject;predicate;object
+Book of Kells;safeguarded at;Trinity College Library
+replica;housed at;Hackley Public Library
+facsimile edition;displayed in;special case
+facsimile edition;listed with;donors' names
+facsimile edition;believed to be;only facsimile of the Book of Kells permanently exhibited in a North American public library
+Visitors;explore;the book
+Visitors;explore;video
+Visitors;explore;detailed commentary volume

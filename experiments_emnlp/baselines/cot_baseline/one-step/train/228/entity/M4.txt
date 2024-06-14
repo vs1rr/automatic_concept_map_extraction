@@ -1,0 +1,12 @@
+entity;surface
+Convention of 1833;Convention of 1833
+San Felipe;San Felipe
+Texas;Texas
+Sam Houston;Sam Houston
+statehood;statehood
+constitution;constitution
+Massachusetts constitution of 1780;Massachusetts constitution of 1780
+April 13;April 13
+Stephen F. Austin;Stephen F. Austin
+Mexico;Mexico
+government;government

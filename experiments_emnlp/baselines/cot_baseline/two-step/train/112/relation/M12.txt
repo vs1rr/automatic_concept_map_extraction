@@ -1,0 +1,5 @@
+subject;predicate;object
+Book of Kells;compared to;Sistine Chapel
+Book of Kells;located at;Old Library
+Book of Kells;can be viewed at;Trinity College Dublin
+'Ireland in 100 Objects';available for;various devices

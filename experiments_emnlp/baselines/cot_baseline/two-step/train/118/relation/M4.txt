@@ -1,0 +1,12 @@
+subject;predicate;object
+Brougham Castle;located in;River Eamont
+Brougham Castle;dates back to;early 13th century
+Brougham Castle;incorporates;Roman stones
+Robert de Vipont;initially built;Brougham Castle
+Clifford family;fortified;Brougham Castle
+castle;towers offer;impressive views
+Lady Anne Clifford;restored;castle
+Visitors;can explore;castle towers
+Visitors;should not miss;Roman tombstone fragment
+attractions;include;Countess Pillar
+attractions;include;Brougham Hall

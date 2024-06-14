@@ -1,0 +1,13 @@
+subject;predicate;object
+Bruce Castle;located_in;Tottenham, London
+Bruce Castle;has_name;Lordship House
+Bruce Castle;has_feature;Tudor Tower
+Bruce Castle;has_owner;Hugh Hare
+Hugh Hare;renamed;Bruce Castle
+Bruce Castle;converted_into;progressive school
+progressive school;established_by;Sir Rowland Hill
+Sir Rowland Hill;introduced;world's first postage stamp
+Bruce Castle;serves_as;museum
+museum;located_in;Tottenham
+Tottenham;located_in;London
+Bruce Castle;has_resident;ghost

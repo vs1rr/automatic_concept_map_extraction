@@ -1,0 +1,14 @@
+entity;surface
+The Book of Kells;The Book of Kells
+Manuscripts & Archives Research Library;Manuscripts & Archives Research Library
+Trinity College Dublin;Trinity College Dublin
+Gospels;four Gospels
+Latin;Latin
+vellum;vellum
+insular majuscule;"insular majuscule"
+prefaces;various prefaces
+Gospel passages;Gospel passages
+340 folios;340 folios
+Book of Kells;Book of Kells
+Celtic;Celtic
+medieval ornamentation;medieval ornamentation

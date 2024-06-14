@@ -1,0 +1,8 @@
+subject;predicate;object
+Charlie Isaacs;discovers;impurities in the plutonium
+Charlie Isaacs;faces;moral dilemma
+Charlie Isaacs;has;urgency to prevent the Nazis from obtaining the bomb
+British Mission;contributes to;Manhattan Project
+women;have;role at Los Alamos
+upcoming episode;promises;further developments in bomb design
+Liza Winter;has;potential to contribute to the project

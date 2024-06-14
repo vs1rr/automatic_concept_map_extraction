@@ -1,0 +1,8 @@
+subject;predicate;object
+castle;is;a large fortified building
+castle;is;from the medieval period
+castle;has;thick walls
+castle;has;battlements
+castle;has;towers
+castle;can refer to;an impressive old mansion
+castle;can refer to;an informal term for a rook in chess

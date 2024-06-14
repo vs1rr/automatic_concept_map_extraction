@@ -1,0 +1,26 @@
+Kentucky, instance of, states' rights
+Virginia, point in time, 1790
+Constitution, main subject, sovereignty of the people
+Constitution, author, Founding Fathers
+Virginia Resolutions, instance of, states' rights
+Southern secession, point in time, 1860
+American Revolution, has part, Constitutional Convention
+Virginia Plan, part of, Constitutional Convention
+Founding Fathers, notable work, Constitution
+First Amendment, author, James Madison
+Bill of Rights, author, James Madison
+rights and liberties, part of, constitutional principles
+Nullification Crisis, point in time, 1832
+World War I, followed by, World War II
+Virginia, instance of, states' rights
+Bill of Rights, part of, Constitution
+Thomas Jefferson, member of political party, Democratic-Republican
+rights and liberties of the people, part of, constitutional principles
+Nullification Crisis of 1832, point in time, 1832
+Kentucky, point in time, 1790
+Virginia Plan, part of, American Revolution
+Constitution, main subject, authority
+Nullification Crisis, point in time, 1830
+Constitution, has part, Bill of Rights
+Constitution, instance of, authority
+Democratic-Republican, founded by, Thomas Jefferson

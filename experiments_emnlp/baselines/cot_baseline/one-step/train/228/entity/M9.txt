@@ -1,0 +1,9 @@
+entity;surface
+James "Jim" Bowie;James Bowie, Jim Bowie
+Texas Revolution;Texas Revolution
+Battle of the Alamo;Battle of the Alamo
+Bowie knife;Bowie knife
+Kentucky;Kentucky
+Texas;Texas
+American;American
+Alamo;Alamo

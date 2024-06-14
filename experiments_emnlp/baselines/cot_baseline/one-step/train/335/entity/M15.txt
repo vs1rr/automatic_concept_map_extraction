@@ -1,0 +1,30 @@
+entity;surface
+Pendle witches;Pendle witches
+witch trial;witch trial, trials
+17th century;17th century
+twelve people;twelve people
+witchcraft;witchcraft
+Lancaster;Lancaster
+"The Wonderfull Discoverie of Witches in the Countie of Lancaster";The Wonderfull Discoverie of Witches in the Countie of Lancaster
+execution;execution
+ten individuals;ten individuals
+rival families;rival families
+poverty-stricken widows;poverty-stricken widows
+society;society
+witchcraft;witchcraft
+King James I;King James I
+unrest;unrest
+fear;fear
+accusations;accusations
+feud;feud
+families;families
+wild claims;wild claims
+witchcraft;witchcraft
+trials;trials
+1612;1612
+unusual circumstances;unusual circumstances
+extreme accusations;extreme accusations
+event;event
+history;history
+witch trials;witch trials
+England;England

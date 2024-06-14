@@ -1,0 +1,14 @@
+subject;predicate;object
+Brougham Castle;located beside;River Eamont
+Brougham Castle;built in;early 13th century
+Brougham Castle;incorporates;Roman stones
+Brougham Castle;expanded and fortified by;various owners
+Brougham Castle;restored by;Lady Anne Clifford
+Brougham Castle;offers;picturesque setting
+Brougham Castle;offers;rich history
+Brougham Castle;explore;castle towers
+Brougham Castle;explore;Roman tombstone fragment
+Brougham Castle;located near;Penrith
+Brougham Castle;located in;England
+Brougham Castle;include;Countess Pillar
+Brougham Castle;include;Brougham Hall

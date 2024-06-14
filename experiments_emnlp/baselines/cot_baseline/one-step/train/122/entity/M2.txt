@@ -1,0 +1,13 @@
+entity;surface
+Bruce Castle;Bruce Castle, Lordship House
+Lordship House;Bruce Castle, Lordship House
+Tottenham;Tottenham
+London;London
+English monarchy;English monarchy
+Scotland's Robert the Bruce;Robert the Bruce
+Tudor Tower;Tudor Tower
+Hugh Hare;Hugh Hare
+Sir Rowland Hill;Sir Rowland Hill
+progressive school;progressive school
+world's first postage stamp;world's first postage stamp
+museum;Bruce Castle

@@ -1,0 +1,15 @@
+subject;predicate;object
+Portugal;colonized;Brazil
+Portuguese;established;Brazilian colony
+African slaves;used in;plantation colony
+Brazil;declared independence in;1822
+Pedro I;became;emperor
+military coup;established;republic
+Brazil;became one of;BRIC countries
+Brazil;issued;early stamp issues
+Brazil;issued;special stamps
+ETA;issued by;Brazil
+Condor;issued by;Brazil
+VARIG;issued by;Brazil
+Luftschiffbau Zeppelin;issued;stamps
+Zeppelin mail;played role in;Brazil's postal history

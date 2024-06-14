@@ -1,0 +1,11 @@
+subject;predicate;object
+Old Pine Church;is located in;West Virginia
+Old Pine Church;is also known as;Mill Church
+Old Pine Church;is also known as;Nicholas Church
+Old Pine Church;was added to;National Register of Historic Places
+National Register of Historic Places;includes;church and cemetery
+church;features;original elements like pews from 1857
+cemetery;contains;gravestones dating back to 1834
+Old Pine Church;is used for;community events
+Old Pine Church;is used for;burials
+Old Pine Church;maintains;historical significance

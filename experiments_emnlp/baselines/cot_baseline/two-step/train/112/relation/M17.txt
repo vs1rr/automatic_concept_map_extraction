@@ -1,0 +1,9 @@
+subject;predicate;object
+Tomm Moore;discusses;inspiration behind "The Secret of Kells"
+Tomm Moore;blending;various artistic styles in the film
+Tomm Moore;discusses;importance of visual storytelling
+Tomm Moore;development of;character Aisling
+Tomm Moore;talks about;influence of the blogosphere on the movie business
+Tomm Moore;favorite;animated films
+Tomm Moore;shares details about;his next feature, "Song of the Sea"
+Tomm Moore;offers advice to;aspiring animators

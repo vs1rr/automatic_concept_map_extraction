@@ -1,0 +1,12 @@
+subject;predicate;object
+Indonesia;offers;wealth of natural and cultural attractions
+Borobudur temple;is;UNESCO world heritage site
+Borobudur temple;is;second-largest Buddhist temple in the world
+temple's complex structure;symbolizes;different stages of human life
+Visitors;can witness;stunning sunrise from temple's top
+Visitors;can experience;unique rituals on Vesak day
+Visitors;can watch;traditional dance performances
+Visitors;can ride;elephants around the temple
+Borobudur;is;easily accessible from Jogjakarta airport
+Jogjakarta airport;is;convenient destination for travelers
+travelers;seek;blend of history, culture, and natural beauty

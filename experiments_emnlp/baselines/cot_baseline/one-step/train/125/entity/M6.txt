@@ -1,0 +1,4 @@
+entity;surface
+location;Capon Bridge, WV
+denomination;Baptist, Methodist, Christian and Missionary Alliance, Foursquare, Assemblies of God
+church;Amazing Grace Baptist Church, Bethel United Methodist Church, Capon Bible Fellowship, Capon Bridge Foursquare Church, Capon Bridge United Methodist Church, Capon Chapel United Methodist Church, Central United Methodist Church, Mountain View Assembly of God, North River Mills United Methodist Church, Shiloh United Methodist Church, Willow Chapel United Methodist Church

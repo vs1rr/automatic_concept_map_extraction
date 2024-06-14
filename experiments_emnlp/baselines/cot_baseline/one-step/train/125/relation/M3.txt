@@ -1,0 +1,7 @@
+subject;predicate;object
+Capon Chapel;located near;Capon Bridge
+Capon Chapel;featured in;October 2 Wikipedia featured article
+Capon Chapel;located in;West Virginia
+Capon Chapel;built in;mid-19th-century
+Capon Chapel;located near;Capon Bridge
+Capon Chapel;located in;Capon Bridge

@@ -1,0 +1,282 @@
+,context,triplets
+0,"In biology, an adaptation, also called an adaptive trait, is a trait with a current functional role in the life of an organism that is maintained and evolved by means of natural selection.",<triplet> adaptation <subj> natural selection <obj> evolved by means of
+1,Every atom is composed of a nucleus and one or more electrons bound to the nucleus.,<triplet> atom <subj> electron <obj> is composed of
+2,"In general, mitosis (division of the nucleus) is often accompanied or followed by cytokinesis, which divides the cytoplasm, organelles and cell membrane into two new cells containing roughly equal shares of these cellular components.",<triplet> mitosis <subj> cytokinesis <obj> is followed by
+3,Molecules as components of matter are common in organic substances (and therefore biochemistry).,<triplet> molecule <subj> matter <obj> components of
+4,"Monocotyledons (/ˌmɒnəˌkɒtəˈliːdən, -ˌkɒtˈliː-/), more properly referred to as monocots, (Lilianae sensu Chase & Reveal) are flowering plants (angiosperms) whose seeds typically contain only one embryonic leaf, or cotyledon.",<triplet> monocot <subj> cotyledon <obj> seeds contain only one
+5,"Examples of monosaccharides include glucose (dextrose), fructose (levulose) and galactose.",<triplet> monosaccharide <subj> fructose <obj> example
+6,"The cougar (Puma concolor), also commonly known as the mountain lion, puma, panther, or catamount, is a large felid of the subfamily Felinae native to the Americas.",<triplet> cougar <subj> mountain lion <obj> known as
+7,"A successful generalist predator, the cougar will eat any animal it can catch, from insects to large ungulates (over 500 kg).",<triplet> cougar <subj> insect <obj> eat
+8,"In Pacific Rim National Park Reserve, scat samples showed raccoons to make up 28% of the cougar's diet, harbor seals and blacktail deer 24% each, North American river otters 10%, California sea lion 7%, and American mink 4%; the remaining 3% were unidentified.
+",<triplet> raccoon <subj> cougar <obj> make up diet
+9,"Some common mouse care products are:
+
+
+In nature, mice are largely herbivores, consuming any kind of fruit or grain from plants.",<triplet> mouse <subj> fruit <obj> consume
+10,Nonlethal mutations accumulate within the gene pool and increase the amount of genetic variation.,<triplet> mutation <subj> genetic variation <obj> increase
+11,"Mutations that promotes traits that are desirable, are also called beneficial.",<triplet> mutation <subj> traits <obj> promotes
+12,"Four classes of mutations are (1) spontaneous mutations (molecular decay), (2) mutations due to error-prone replication bypass of naturally occurring DNA damage (also called error-prone translesion synthesis), (3) errors introduced during DNA repair, and (4) induced mutations caused by mutagens.",<triplet> mutation <subj> mutagens <obj> caused by
+13,"Natural selection can act on any heritable phenotypic trait, and selective pressure can be produced by any aspect of the environment, including sexual selection and competition with members of the same or other species.",<triplet> natural selection <subj> competition <obj> produced by
+14,"Although a complete theory of evolution also requires an account of how genetic variation arises in the first place (such as by mutation and sexual reproduction) and includes other evolutionary mechanisms (such as genetic drift and gene flow), natural selection appears to be the most important mechanism for creating complex adaptations in nature.
+
+
+",<triplet> natural selection <subj> genetic variation <obj> requires
+15,"Nitrogen occurs in all organisms, primarily in amino acids (and thus proteins), in the nucleic acids (DNA and RNA) and in the energy transfer molecule adenosine triphosphate.",<triplet> nitrogen <subj> nucleic acids <obj> occurs in
+16,"Nitrogen occurs in all organisms, primarily in amino acids (and thus proteins), in the nucleic acids (DNA and RNA) and in the energy transfer molecule adenosine triphosphate.",<triplet> nitrogen <subj> proteins <obj> occurs in
+17,"This central charge would thus be approximately half the atomic weight (though it was almost 25% different from the atomic number of gold (Z = 79, A = 197), the single element from which Rutherford made his guess).",<triplet> atomic weight <subj> atomic number <obj> approximately equal to half of
+18,"Nucleic acids, which include DNA (deoxyribonucleic acid) and RNA (ribonucleic acid), are made from monomers known as nucleotides.",<triplet> nucleic acid <subj> nucleotide <obj> are made from
+19,"A nucleoside consists simply of a nucleobase (also termed a nitrogenous base) and a 5-carbon sugar (either ribose or deoxyribose), whereas a nucleotide is composed of a nucleobase, a five-carbon sugar, and one or more phosphate groups.",<triplet> nucleoside <subj> nitrogenous base <obj> consists of
+20,"A nucleoside consists simply of a nucleobase (also termed a nitrogenous base) and a 5-carbon sugar (either ribose or deoxyribose), whereas a nucleotide is composed of a nucleobase, a five-carbon sugar, and one or more phosphate groups.",<triplet> nucleoside <subj> 5-carbon sugar <obj> consists of
+21,"The building blocks of nucleic acids, nucleotides are composed of a nitrogenous base, a five-carbon sugar (ribose or deoxyribose), and at least one phosphate group.",<triplet> nucleotide <subj> phosphate <obj> are composed of
+22,"Nucleotides are organic molecules that serve as the monomers, or subunits, of nucleic acids like DNA (deoxyribonucleic acid) and RNA (ribonucleic acid).",<triplet> nucleotide <subj> nucleic acid <obj> serve as subunits of
+23,"True nuts are produced, for example, by some plant families of the order Fagales.
+",<triplet> nut <subj> plant <obj> are produced by
+24,"This is particularly true in temperate climates where animals such as jays and squirrels store acorns and other nuts during the autumn to keep from starving during the late autumn, all of winter, and early spring.
+",<triplet> squirrel <subj> nut <obj> stores
+25,"Given that they are non-polar, oils do not easily adhere to other substances.",<triplet> oil <subj> non-polar <obj> are
+26,"An oil is any neutral, nonpolar chemical substance that is a viscous liquid at ambient temperatures and is both hydrophobic (immiscible with water, literally ""water fearing"") and lipophilic (miscible with other oils, literally ""fat loving"").",<triplet> oil <subj> hydrophobic <obj> is
+27,Osmosis is the movement of a solvent across a semipermeable membrane toward a higher concentration of solute.,<triplet> osmosis <subj> semipermeable membrane <obj> is movement of solvent across
+28,"Owls hunt mostly small mammals, insects, and other birds although a few species specialize in hunting fish.",<triplet> owl <subj> birds <obj> hunt
+29,"Owls hunt mostly small mammals, insects, and other birds although a few species specialize in hunting fish.",<triplet> owl <subj> insect <obj> hunt
+30,"All owls are carnivorous birds of prey and live mainly on a diet of insects and small rodents such as mice, rats and hares.",<triplet> owl <subj> rodents <obj> live on diet of
+31,"Many major classes of organic molecules in living organisms, such as proteins, nucleic acids, carbohydrates, and fats, contain oxygen, as do the major inorganic compounds that are constituents of animal shells, teeth, and bone.",<triplet> nucleic acids <subj> oxygen <obj> contain
+32,"Mendeleev's periodic tables used atomic weight instead of atomic number to organize the elements, information determinable to fair precision in his time.",<triplet> periodic table <subj> atomic weight <obj> used
+33,"Perspiration, also known as sweating or diaphoresis, is the production of fluids secreted by the sweat glands in the skin of mammals.
+",<triplet> perspiration <subj> mammals <obj> of
+34,"Perspiration, also known as sweating or diaphoresis, is the production of fluids secreted by the sweat glands in the skin of mammals.
+",<triplet> perspiration <subj> skin <obj> in
+35,"The structure of the phospholipid molecule generally consists of two hydrophobic fatty acid ""tails"" and a hydrophilic ""head"", joined together by a glycerol molecule.",<triplet> phospholipid <subj> fatty acid <obj> consists of
+36,"Green plants excludes the red and brown algae, the fungi, archaea, bacteria and animals.
+",<triplet> plant <subj> animal <obj> excludes
+37,"Outside of formal scientific contexts, the term ""plant"" implies an association with certain traits, such as being multicellular, possessing cellulose, and having the ability to carry out photosynthesis.
+
+
+",<triplet> plant <subj> cellulose <obj> possessing
+38,"With a few exceptions among the green algae, all green plants have many features in common, including cell walls containing cellulose, chloroplasts containing chlorophylls a and b, and food stores in the form of starch.",<triplet> plant <subj> starch <obj> have food stores in the form of
+39,Plants use oxygen and glucose (which may be produced from stored starch) to provide energy.,<triplet> plant <subj> glucose <obj> use to provide energy
+40,"Chemical properties
+
+
+Chemical Bonding
+Polarity of Bonds and Molecules
+Molecule Polarity
+
+",<triplet> molecules <subj> polarity <obj> being
+41,Pollen in plants is used for transferring haploid male genetic material from the anther of a single flower to the stigma of another in cross-pollination.,<triplet> pollen <subj> haploid <obj> used for transferring
+42,"Pollination is a process in which pollen is transferred to the female reproductive organs of seed plants, thereby enabling fertilization and reproduction through growth of the pollen tube and eventual release of sperm.",<triplet> pollination <subj> fertilization <obj> enabling
+43,"More commonly, the process of pollination requires pollinators: organisms that carry or move the pollen grains from the anther to the receptive part of the carpel or pistil(stigma).",<triplet> pollination <subj> pollinators <obj> requires
+44,"More commonly, the process of pollination requires pollinators: organisms that carry or move the pollen grains from the anther to the receptive part of the carpel or pistil(stigma).",<triplet> pollination <subj> pollinator <obj> requires
+45,"Pollination is a necessary step in the reproduction of flowering plants, resulting in the production of offspring that are genetically diverse.
+",<triplet> pollination <subj> flowering plant <obj> a necessary step in the reproduction of
+46,"Insect pollinators include bees, (honey bees, solitary species, bumblebees); pollen wasps (Masarinae); ants; a variety of flies including bee flies and hoverflies; lepidopterans, both butterflies and moths; and flower beetles.",<triplet> pollinator <subj> bee <obj> include
+47,"A population is a summation of all the organisms of the same group or species, which live in a particular geographical area, and have the capability of interbreeding.
+",<triplet> population <subj> geographical area <obj> live in
+48,"The main forms of precipitation include drizzle, rain, sleet, snow, graupel and hail.",<triplet> precipitation <subj> sleet <obj> includes
+49,"Though the bobcat prefers rabbits and hares, it will hunt anything from insects, chickens, geese and other birds and small rodents to deer.",<triplet> bobcat <subj> insect <obj> hunt
+50,"Though the bobcat prefers rabbits and hares, it will hunt anything from insects, chickens, geese and other birds and small rodents to deer.",<triplet> bobcat <subj> rabbit <obj> prefers
+51,"The bobcat may have external parasites, mostly ticks and fleas, and will often carry the parasites of its prey, especially those of rabbits and squirrels.",<triplet> bobcat <subj> squirrel <obj> prey
+52,"Prometaphase is the phase of mitosis following prophase and preceding metaphase, in eukaryotic somatic cells.",<triplet> prometaphase <subj> metaphase <obj> preceding
+53,"Prometaphase is the phase of mitosis following prophase and preceding metaphase, in eukaryotic somatic cells.",<triplet> prometaphase <subj> prophase <obj> following
+54,"Prometaphase is the phase of mitosis following prophase and preceding metaphase, in eukaryotic somatic cells.",<triplet> prometaphase <subj> mitosis <obj> is phase of
+55,"Once linked in the protein chain, an individual amino acid is called a residue, and the linked series of carbon, nitrogen, and oxygen atoms are known as the main chain or protein backbone.
+",<triplet> protein <subj> nitrogen <obj> links
+56,"Quantitative traits are phenotypes (characteristics) that vary in degree and can be attributed to polygenic effects, i.e., the product of two or more genes, and their environment.
+
+
+",<triplet> quantitative trait <subj> gene <obj> can be attributed to two or more
+57,"For instances, in Mediterranean Europe, rabbits are the main prey of red foxes, badgers, and Iberian lynxes.",<triplet> rabbit <subj> fox <obj> are prey of
+58,"The most important natural predators of the raccoon are bobcats, coyotes, and great horned owls, the latter mainly preying on young raccoons.",<triplet> raccoon <subj> bobcat <obj> predator
+59,"It is related to deoxyribose, which is found in DNA.",<triplet> ribose <subj> deoxyribose <obj> is related to
+60,"In bacterial cells, ribosomes are synthesized in the cytoplasm through the transcription of multiple ribosome gene operons.",<triplet> ribosome <subj> cytoplasm <obj> are synthesized in
+61,"The ribosome (/ˈraɪbəˌsoʊm, -boʊ-/) is a complex molecular machine found within all living cells, that serves as the site of biological protein synthesis (translation).",<triplet> ribosome <subj> protein synthesis <obj> serves as site of
+62,"The ribosomes in the mitochondria of eukaryotic cells (mitoribosomes), are produced from mitochondrial genes, and functionally resemble many features of those in bacteria, reflecting the likely evolutionary origin of mitochondria.
+
+
+",<triplet> ribosome <subj> eukaryotic cell <obj> in
+63,"Tree roots usually grow to three times the diameter of the branch spread, only half of which lie underneath the trunk and canopy.",<triplet> roots <subj> trunk <obj> lie underneath
+64,The outer (cytosolic) face of the rough endoplasmic reticulum is studded with ribosomes that are the sites of protein synthesis.,<triplet> rough endoplasmic reticulum <subj> protein synthesis <obj> are sites of
+65,"In Judaism, it is recommended to have either a salty bread or to add salt to the bread if this bread is unsalted when doing Kiddush for Shabbat.",<triplet> salt <subj> salty <obj> is
+66,"Seeds are used to propagate many crops such as cereals, legumes, forest trees, turfgrasses and pasture grasses.",<triplet> seed <subj> tree <obj> propagate
+67,"Angiosperm (flowering plants) seeds consist of three genetically distinct constituents: (1) the embryo formed from the zygote, (2) the endosperm, which is normally triploid, (3) the seed coat from tissue derived from the maternal tissue of the ovule.",<triplet> seed <subj> seed coat <obj> consist of
+68,"Angiosperm (flowering plants) seeds consist of three genetically distinct constituents: (1) the embryo formed from the zygote, (2) the endosperm, which is normally triploid, (3) the seed coat from tissue derived from the maternal tissue of the ovule.",<triplet> seed <subj> embryo <obj> consist of
+69,Seedling development starts with germination of the seed.,<triplet> seedling <subj> germination <obj> starts with
+70,A seedling is a young plant sporophyte developing out of a plant embryo from a seed.,<triplet> seedling <subj> embryo <obj> developing out of
+71,"In general, shrews are terrestrial creatures that forage for seeds, insects, nuts, worms, and a variety of other foods in leaf litter and dense vegetation, but some specialise in climbing trees, living underground, living under snow, or even hunting in water.",<triplet> shrew <subj> insect <obj> forage
+72,"In general, shrews are terrestrial creatures that forage for seeds, insects, nuts, worms, and a variety of other foods in leaf litter and dense vegetation, but some specialise in climbing trees, living underground, living under snow, or even hunting in water.",<triplet> shrew <subj> nut <obj> forage
+73,"In general, shrews are terrestrial creatures that forage for seeds, insects, nuts, worms, and a variety of other foods in leaf litter and dense vegetation, but some specialise in climbing trees, living underground, living under snow, or even hunting in water.",<triplet> shrew <subj> seed <obj> forage
+74,"Most predators of the Americas, such as wolves, foxes and badgers, seldom attack skunks, presumably out of fear of being sprayed.",<triplet> fox <subj> skunk <obj> attack
+75,"All snakes are strictly carnivorous, eating small animals including lizards, frogs, other snakes, small mammals, birds, eggs, fish, snails or insects.[3]",<triplet> snake <subj> insect <obj> eating
+76,"Counterexamples are provided by liquid mixtures that are not homogeneous: colloids, suspensions, emulsions are not considered solutions.
+",<triplet> emulsion <subj> solution <obj> are not considered
+77,"The solution more or less takes on the characteristics of the solvent including its phase, and the solvent is commonly the major fraction of the mixture.",<triplet> solution <subj> solvent <obj> takes on characteristics of
+78,"Rational substitutions can also be made for ""good"" solvents (effective at dissolving the solute) that are ""bad"" (expensive or hazardous to health or the environment).",<triplet> solvent <subj> dissolving <obj> is substance that
+79,"Solvents find various applications in chemical, pharmaceutical, oil, and gas industries, including in chemical syntheses and purification processes.
+
+
+",<triplet> solvent <subj> oil <obj> find applications in
+80,"Most modern textbooks follow Ernst Mayr's definition, known as the Biological Species Concept (BSC) of a species as ""groups of actually or potentially interbreeding natural populations, which are reproductively isolated from other such groups"".",<triplet> species <subj> reproductively isolated <obj> is
+81,"Squirrels' diets consist primarily of a wide variety of plants, including nuts, seeds, conifer cones, fruits, fungi, and green vegetation.",<triplet> squirrel <subj> fruit <obj> diet consists of
+82,"Squirrels' diets consist primarily of a wide variety of plants, including nuts, seeds, conifer cones, fruits, fungi, and green vegetation.",<triplet> squirrel <subj> fungi <obj> diet consists of
+83,"Squirrels' diets consist primarily of a wide variety of plants, including nuts, seeds, conifer cones, fruits, fungi, and green vegetation.",<triplet> squirrel <subj> nut <obj> diet consists of
+84,"Squirrels' diets consist primarily of a wide variety of plants, including nuts, seeds, conifer cones, fruits, fungi, and green vegetation.",<triplet> squirrel <subj> seed <obj> diet consists of
+85,A stamen typically consists of a stalk called the filament and an anther which contains microsporangia.,<triplet> stamen <subj> anther <obj> consists of
+86,A stamen typically consists of a stalk called the filament and an anther which contains microsporangia.,<triplet> stamen <subj> filament <obj> consists of
+87,These starch derivatives associate with the anionic or negatively charged paper fibers / cellulose and inorganic fillers.,<triplet> starch <subj> cellulose <obj> is in contrast to
+88,Starch or amylum is a carbohydrate consisting of a large number of glucose units joined by glycosidic bonds.,<triplet> starch <subj> glucose <obj> consisting of
+89,"Steam is invisible; however, ""steam"" often refers to wet steam, the visible mist or aerosol of water droplets formed as this water vapor condenses.",<triplet> steam <subj> visible <obj> is
+90,"The stems keep the leaves in the light and provide a place for the plant to keep its flowers and fruits.
+",<triplet> stem <subj> flower <obj> keep
+91,"The stems keep the leaves in the light and provide a place for the plant to keep its flowers and fruits.
+",<triplet> stem <subj> leaves <obj> keep in the light
+92,The style connects the stigma to the ovary.,<triplet> stigma <subj> style <obj> connects
+93,The stigma receives pollen and it is on the stigma that the pollen grain germinates.,<triplet> stigma <subj> pollen <obj> receives
+94,"The stigma (plural: stigmata) is the receptive tip of a carpel, or of several fused carpels, in the gynoecium of a flower. 
+
+
+",<triplet> stigma <subj> carpel <obj> is tip of
+95,"The stigma (plural: stigmata) is the receptive tip of a carpel, or of several fused carpels, in the gynoecium of a flower. 
+
+
+",<triplet> stigma <subj> flower <obj> in
+96,"In 1660, capillary action was still a novelty to the Irish chemist Robert Boyle, when he reported that ""some inquisitive French Men"" had observed that when a capillary tube was dipped into water, the water would ascend to ""some height in the Pipe"".",<triplet> capillary action <subj> water <obj> observed
+97,This refined form of sucrose is commonly referred to as table sugar or just sugar.,<triplet> sucrose <subj> table sugar <obj> is commonly referred to
+98,Liquid sugars are strong syrups consisting of 67% granulated sugar dissolved in water.,<triplet> sugar <subj> water <obj> dissolved in
+99,"Different phenotypic traits are caused by different forms of genes, or alleles, which arise by mutation in a single individual and are passed on to successive generations.
+
+
+",<triplet> traits <subj> mutation <obj> arise by
+100,"Adult turtles typically eat aquatic plants; invertebrates such as insects, snails and worms; and have been reported to occasionally eat dead marine animals.",<triplet> turtle <subj> insect <obj> eat
+101,"Many predators eat voles, including martens, raccoons, owls, hawks, falcons, coyotes, foxes, snakes, weasels, cats and dogs.",<triplet> vole <subj> coyote <obj> eat
+102,"Many predators eat voles, including martens, raccoons, owls, hawks, falcons, coyotes, foxes, snakes, weasels, cats and dogs.",<triplet> vole <subj> raccoon <obj> eat
+103,"Many predators eat voles, including martens, raccoons, owls, hawks, falcons, coyotes, foxes, snakes, weasels, cats and dogs.",<triplet> vole <subj> snake <obj> eat
+104,"Many predators eat voles, including martens, raccoons, owls, hawks, falcons, coyotes, foxes, snakes, weasels, cats and dogs.",<triplet> vole <subj> owl <obj> eat
+105,"A carbohydrate is a biological molecule consisting of carbon (C), hydrogen (H) and oxygen (O) atoms, usually with a hydrogen–oxygen atom ratio of 2:1 (as in water); in other words, with the empirical formula Cm(H2O)n (where m could be different from n).",<triplet> carbohydrate <subj> carbon <obj> consisting of
+106,"A carbohydrate is a biological molecule consisting of carbon (C), hydrogen (H) and oxygen (O) atoms, usually with a hydrogen–oxygen atom ratio of 2:1 (as in water); in other words, with the empirical formula Cm(H2O)n (where m could be different from n).",<triplet> carbohydrate <subj> hydrogen <obj> consisting of
+107,"A carbohydrate is a biological molecule consisting of carbon (C), hydrogen (H) and oxygen (O) atoms, usually with a hydrogen–oxygen atom ratio of 2:1 (as in water); in other words, with the empirical formula Cm(H2O)n (where m could be different from n).",<triplet> carbohydrate <subj> oxygen <obj> consisting of
+108,"Unlike other forms of water, water vapor is invisible.",<triplet> water vapor <subj> invisible <obj> is
+109,Water vapor can be produced from the evaporation or boiling of liquid water or from the sublimation of ice.,<triplet> water vapor <subj> evaporation <obj> can be produced from
+110,Water vapor can be produced from the evaporation or boiling of liquid water or from the sublimation of ice.,<triplet> water vapor <subj> boiling <obj> can be produced from
+111,Water vapor can be produced from the evaporation or boiling of liquid water or from the sublimation of ice.,<triplet> water vapor <subj> sublimation <obj> can be produced from
+112,"Liquid water that becomes water vapor takes a parcel of heat with it, in a process called evaporative cooling.",<triplet> liquid water <subj> water vapor <obj> becomes
+113,"The condensation of water vapor to the liquid or ice phase is responsible for clouds, rain, snow, and other precipitation, all of which count among the most significant elements of what we experience as weather.",<triplet> water vapor <subj> precipitation <obj> is responsible for
+114,"At 4181.3 J/(kg·K), water has a high specific heat capacity, as well as a high heat of vaporization (2257 kJ/kg), both of which are a result of the extensive hydrogen bonding between its molecules.",<triplet> water <subj> hydrogen bonding <obj> has
+115,Water also can form an unusually large number of intermolecular hydrogen bonds (four) for a molecule of its size.,<triplet> water <subj> hydrogen bonds <obj> can form
+116,Water is a good polar solvent and is often referred to as the universal solvent.,<triplet> water <subj> universal solvent <obj> is referred to as
+117,"As a result, water is a polar molecule with an electrical dipole moment.",<triplet> water <subj> polar molecule <obj> is
+118,"Water on Earth moves continually through the water cycle of evaporation and transpiration (evapotranspiration), condensation, precipitation, and runoff, usually reaching the sea.",<triplet> water <subj> precipitation <obj> moves continually through
+119,"Water on Earth moves continually through the water cycle of evaporation and transpiration (evapotranspiration), condensation, precipitation, and runoff, usually reaching the sea.",<triplet> water <subj> condensation <obj> moves continually through
+120,"These factors lead to strong attractive forces between molecules of water, giving rise to water's high surface tension and capillary forces.",<triplet> water <subj> surface tension <obj> high
+121,"At 4181.3 J/(kg·K), water has a high specific heat capacity, as well as a high heat of vaporization (2257 kJ/kg), both of which are a result of the extensive hydrogen bonding between its molecules.",<triplet> water <subj> high specific heat <obj> has
+122,The capillary action refers to the tendency of water to move up a narrow tube against the force of gravity.,<triplet> capillary action <subj> water <obj> refers to tendency to move up
+123,"The diet of woodpeckers consists mainly of insects and their grubs taken from living and dead trees, and other arthropods, along with fruit, nuts and sap from live trees.",<triplet> woodpecker <subj> insect <obj> dist consists of
+124,"The diet of woodpeckers consists mainly of insects and their grubs taken from living and dead trees, and other arthropods, along with fruit, nuts and sap from live trees.",<triplet> woodpecker <subj> nut <obj> dist consists of
+125,The simplest form of an organic molecule is the hydrocarbon—a large family of organic molecules that are composed of hydrogen atoms bonded to a chain of carbon atoms.,<triplet> carbon <subj> organic molecule <obj> bonded to
+126,"Adaptive radiations commonly follow mass extinctions: following an extinction, many niches are left vacant.",<triplet> adaptive radiation <subj> mass extinction <obj> follow
+127,"In cells with a nucleus, as in eukaryotes, the cell cycle is also divided into three periods: interphase, the mitotic (M) phase, and cytokinesis.",<triplet> cell cycle <subj> interphase <obj> is divided into
+128,"In cells with a nucleus, as in eukaryotes, the cell cycle is also divided into three periods: interphase, the mitotic (M) phase, and cytokinesis.",<triplet> cell cycle <subj> cytokinesis <obj> is divided into
+129,"The cell membrane, or plasma membrane, is a biological membrane that surrounds the cytoplasm of a cell.",<triplet> cell membrane <subj> cell <obj> surrounds
+130,"Cellulose has no taste, is odorless, is hydrophilic with the contact angle of 20–30, is insoluble in water and most organic solvents, is chiral and is biodegradable.",<triplet> cellulose <subj> insoluble <obj> is
+131,"Ether derivatives include:
+The sodium carboxymethyl cellulose can be cross-linked to give the croscarmellose sodium (E468) for use as a disintegrant in pharmaceutical formulations.
+
+
+",<triplet> cellulose <subj> cross-linked <obj> can be
+132,"Centipedes and spiders may frequently prey on one another.
+",<triplet> centipede <subj> spider <obj> prey on
+133,"There are also animal cells that do not have any vacuoles.
+",<triplet> animal cell <subj> vacuole <obj> do not have
+134,"Each chromosome has one centromere, with one or two arms projecting from the centromere, although, under most circumstances, these arms are not visible as such.",<triplet> chromosome <subj> centromere <obj> has
+135,"In DNA, adenine binds to thymine via two hydrogen bonds to assist in stabilizing the nucleic acid structures.",<triplet> adenine <subj> thymine <obj> binds to
+136,"In RNA, which is used for protein synthesis, adenine binds to uracil.
+",<triplet> adenine <subj> uracil <obj> binds to
+137,"In other words, cohesion allows for surface tension, creating a ""solid-like"" state upon which light (in weight) or low-density materials can be placed.
+",<triplet> cohesion <subj> surface tension <obj> allows for
+138,"Cohesion, along with adhesion (attraction between unlike molecules), helps explain phenomena such as meniscus, surface tension and capillary action.
+",<triplet> cohesion <subj> capillary action <obj> helps explain
+139,"A community is a social unit of any size that shares common values, or that is situated in a given geographical area (e.g. a village or town).",<triplet> community <subj> geographical area <obj> is situated in
+140,"Interspecific competition has the potential to alter populations, communities and the evolution of interacting species.
+",<triplet> competition <subj> population <obj> has potential to alter
+141,"According to evolutionary theory, this competition within and between species for resources plays a very relevant role in natural selection, however, competition may play less of a role than expansion among larger clades, this is termed the 'Room to Roam' hypothesis.
+
+
+",<triplet> competition <subj> natural selection <obj> plays role in
+142,Studies show that intraspecific competition can regulate population dynamics (changes in population size over time).,<triplet> competition <subj> population size <obj> can regulate
+143,"Because condensation is a naturally occurring phenomenon, it can often be used to generate water in large quantities for human use.",<triplet> condensation <subj> water <obj> can be used to generate
+144,"Cytokinesis (from the Greek κύτος, ""container"" and κίνησις, ""motion"") is the process during cell division in which the cytoplasm of a single eukaryotic cell is divided to form two daughter cells.",<triplet> cytokinesis <subj> daughter cells <obj> form
+145,"In DNA and RNA, cytosine is paired with guanine.",<triplet> cytosine <subj> guanine <obj> is paired with
+146,"Rather than eating and digesting vast quantities of low-grade fibrous food as, for example, sheep and cattle do, deer select easily digestible shoots, young leaves, fresh grasses, soft twigs, fruit, fungi, and lichens.",<triplet> deer <subj> fruit <obj> select
+147,"Rather than eating and digesting vast quantities of low-grade fibrous food as, for example, sheep and cattle do, deer select easily digestible shoots, young leaves, fresh grasses, soft twigs, fruit, fungi, and lichens.",<triplet> deer <subj> fungi <obj> select
+148,"Rather than eating and digesting vast quantities of low-grade fibrous food as, for example, sheep and cattle do, deer select easily digestible shoots, young leaves, fresh grasses, soft twigs, fruit, fungi, and lichens.",<triplet> deer <subj> grass <obj> select
+149,"Clearing open areas within forests to some extent may actually benefit deer populations by exposing the understory and allowing the types of grasses, weeds, and herbs to grow that deer like to eat.",<triplet> deer <subj> herb <obj> like to eat
+150,Diffusion is the net movement of molecules or atoms from a region of high concentration (or high chemical potential) to a region of low concentration (or low chemical potential).,<triplet> diffusion <subj> movement of molecules <obj> is
+151,"The force under isothermal conditions consists of two parts:
+Diffusion force caused by concentration gradient: 
+Electrostatic force caused by electric potential gradient: 
+Here R is the gas constant, T is the absolute temperature, n is the concentration, the equilibrium concentration is marked by a superscript ""eq"", q is the charge and φ is the electric potential.
+",<triplet> diffusion <subj> concentration gradient <obj> caused by
+152,Digestion is a form of catabolism that is often divided into two processes based on how food is broken down: mechanical and chemical digestion.,<triplet> digestion <subj> catabolism <obj> is form of
+153,"An ecosystem is a community of living organisms in conjunction with the nonliving components of their environment (things like air, water and mineral soil), interacting as a system.",<triplet> ecosystem <subj> community <obj> is
+154,"Dmitri Mendeleev had sixty-six elements in his periodic table of 1869.
+
+
+From Boyle until the early 20th century, an element was defined as a pure substance that could not be decomposed into any simpler substance.",<triplet> element <subj> pure substance <obj> was defined as
+155,"An embryo is a multicellular diploid eukaryote in an early stage of embryogenesis, or development.",<triplet> embryo <subj> diploid <obj> is a
+156,"In general, in organisms that reproduce sexually, an embryo develops from a zygote, the single cell resulting from the fertilization of the female egg cell by the male sperm cell.",<triplet> embryo <subj> zygote <obj> develops from
+157,"A eukaryote (/juːˈkæri.oʊt/ or /juːˈkæriət/ yoo-KARR-ee-oht or yoo-KARR-ee-ət) is any organism whose cells contain a nucleus and other organelles enclosed within membranes.
+",<triplet> eukaryote <subj> organelle <obj> contain
+158,"Evaporation that occurs directly from the solid phase below the melting point, as commonly observed with ice at or below freezing or moth crystals (napthalene or paradichlorobenzene), is called sublimation.
+",<triplet> evaporation <subj> sublimation <obj> that occurs directly from the solid phase is called
+159,"Evaporation of water occurs when the surface of the liquid is exposed, allowing molecules to escape and form water vapor; this vapor can then rise up and form clouds.",<triplet> evaporation <subj> water vapor <obj> form
+160,The modern evolutionary synthesis defines evolution as the change over time in this genetic variation.,<triplet> evolution <subj> time <obj> defines as change over
+161,"Consumption of such trans fats has shown to increase the risk of coronary heart disease[2][3]
+Saturated fats can stack themselves in a closely packed arrangement, so they can solidify easily and are typically solid at room temperature.",<triplet> fat <subj> solid at room temperature <obj> are
+162,Fatty acids are usually derived from triglycerides or phospholipids.,<triplet> fatty acid <subj> phospholipid <obj> are derived from
+163,"The gametes that participate in fertilization of plants are the sperm (male), and the egg cell, and in flowering plants a second fertilization event involves another sperm cell and the central cell which is a second female gamete.",<triplet> fertilization <subj> flowering plant <obj> in
+164,"The word Filament, which is descended from Latin filum = ""thread"", is used in English for a variety of thread-like structures, including:
+
+
+Myofilament, filaments of myofibrils constructed from proteins
+Protein filament, a long chain of protein subunits, such as those found in hair, muscle, or in flagella
+Part of a stamen, the male part of a flower
+A chain of cells connected end-to-end
+Hypha, a thread-like cell in fungi and Actinobacteria
+Filamentation, an elongation of individual bacterial cells
+Fine root hair on plants, natural fibers on plants, and other hair-like growths on plants
+
+
+",<triplet> filament <subj> male part <obj> part of
+165,"The word Filament, which is descended from Latin filum = ""thread"", is used in English for a variety of thread-like structures, including:
+
+
+Myofilament, filaments of myofibrils constructed from proteins
+Protein filament, a long chain of protein subunits, such as those found in hair, muscle, or in flagella
+Part of a stamen, the male part of a flower
+A chain of cells connected end-to-end
+Hypha, a thread-like cell in fungi and Actinobacteria
+Filamentation, an elongation of individual bacterial cells
+Fine root hair on plants, natural fibers on plants, and other hair-like growths on plants
+
+
+",<triplet> filament <subj> stamen <obj> part of
+166,"The word Filament, which is descended from Latin filum = ""thread"", is used in English for a variety of thread-like structures, including:
+
+
+Myofilament, filaments of myofibrils constructed from proteins
+Protein filament, a long chain of protein subunits, such as those found in hair, muscle, or in flagella
+Part of a stamen, the male part of a flower
+A chain of cells connected end-to-end
+Hypha, a thread-like cell in fungi and Actinobacteria
+Filamentation, an elongation of individual bacterial cells
+Fine root hair on plants, natural fibers on plants, and other hair-like growths on plants
+
+
+",<triplet> filament <subj> flower <obj> part of
+167,The frequency of alleles in a diploid population can be used to predict the frequencies of the corresponding genotypes (see Hardy-Weinberg principle).,<triplet> allele <subj> genotype <obj> can be used to predict
+168,"Diploid organisms have one copy of each gene (and, therefore, one allele) on each chromosome.",<triplet> diploid organism <subj> allele <obj> have one copy of each
+169,"Male and female reproductive organs are generally found in separate flowers, the male flowers having a number of long filaments terminating in exposed stamens, and the female flowers having long, feather-like stigmas.",<triplet> flower <subj> filament <obj> having
+170,"A flower, sometimes known as a bloom or blossom, is the reproductive structure found in flowering plants (plants of the division Magnoliophyta, also called angiosperms).",<triplet> flower <subj> angiosperm <obj> is reproductive structure found in
+171,Flowers give rise to fruit and seeds.,<triplet> flower <subj> fruit <obj> give rise to
+172,"The gynoecium of a flower is also described using an alternative terminology wherein the structure one sees in the innermost whorl (consisting of an ovary, style and stigma) is called a pistil.",<triplet> flower <subj> stigma <obj> consisting of
+173,"The gynoecium of a flower is also described using an alternative terminology wherein the structure one sees in the innermost whorl (consisting of an ovary, style and stigma) is called a pistil.",<triplet> flower <subj> style <obj> consisting of
+174,"The gynoecium of a flower is also described using an alternative terminology wherein the structure one sees in the innermost whorl (consisting of an ovary, style and stigma) is called a pistil.",<triplet> flower <subj> ovary <obj> consisting of
+175,"The gynoecium of a flower is also described using an alternative terminology wherein the structure one sees in the innermost whorl (consisting of an ovary, style and stigma) is called a pistil.",<triplet> flower <subj> pistil <obj> consisting of

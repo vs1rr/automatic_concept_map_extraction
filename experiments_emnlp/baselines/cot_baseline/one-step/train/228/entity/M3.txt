@@ -1,0 +1,8 @@
+entity;surface
+Sam Houston;Sam Houston
+Texas history;Texas history
+Cherokee Indians;Cherokee Indians
+Texas Revolution;Texas Revolution
+Republic of Texas;Republic of Texas
+secession;secession
+Huntsville, Texas;Huntsville, Texas

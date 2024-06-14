@@ -1,0 +1,11 @@
+subject;predicate;object
+Alien & Sedition Acts;passed amidst;concerns
+Alien & Sedition Acts;seen as contradicting;principles of the First Amendment
+Alien & Sedition Acts;perceived as;a response to the perceived threat from France
+James Madison;criticized;Sedition Act
+James Madison;criticized;Sedition Act as unconstitutional
+James Madison;criticized;Sedition Act due to its potential to restrict freedoms
+James Madison;rooted in;preventing prior restraints on speech and press
+United States;preparing for;war against France
+Alien & Sedition Acts;passed during;a time of strained foreign relations
+Alien & Sedition Acts;perceived as;a response to support for President John Adams' stance

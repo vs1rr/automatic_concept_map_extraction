@@ -1,0 +1,16 @@
+entity;surface
+British;British
+Manhattan Project;Manhattan Project
+James B. Conant;James B. Conant
+US;US
+British;British
+Conant;Conant
+British;British
+US;US
+British;British
+Quebec Agreement;Quebec Agreement
+Conant;Conant
+British;British
+Klaus Fuchs;Klaus Fuchs
+British;British
+Los Alamos;Los Alamos

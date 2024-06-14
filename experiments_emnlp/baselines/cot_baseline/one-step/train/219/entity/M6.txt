@@ -1,0 +1,30 @@
+entity;surface
+Manhattan Project;The Manhattan Project
+nuclear science;nuclear science
+Albert Einstein;Albert Einstein
+President Roosevelt;President Roosevelt
+nuclear chain reactions;nuclear chain reactions
+top-secret nature;top-secret nature
+safety measures;safety measures
+employees;employees
+Little Boy;Little Boy
+Fat Man;Fat Man
+Hiroshima;Hiroshima
+Nagasaki;Nagasaki
+British experts;British experts
+security measures;security measures
+punishments;punishments
+completion;completion
+construction sites;construction sites
+testing sites;testing sites
+United States;United States
+tragic events;tragic events
+Hiroshima;Hiroshima
+Nagasaki;Nagasaki
+experiments;experiments
+Tickling the dragon's tail;Tickling the dragon's tail
+casualties;casualties
+atomic test;atomic test
+Trinity;Trinity
+significant milestone;significant milestone
+nuclear history;nuclear history

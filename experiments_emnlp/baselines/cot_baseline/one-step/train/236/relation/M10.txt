@@ -1,0 +1,11 @@
+subject;predicate;object
+Pedro I;established;1824 Constitution
+1824 Constitution;highlighted;struggle between liberal democracy and constitutional monarchy
+1891 Constitution;influenced by;U.S. model
+1891 Constitution;marked;Brazil's transition to a republic
+1934 Constitution;emphasized;social law elements
+1937 Constitution;established;under Vargas
+1946 Constitution;restored;individual rights
+1960s and 1970s;led to;1988 Constitution
+1988 Constitution;known for;democratic principles
+1988 Constitution;emphasized;justice and stability

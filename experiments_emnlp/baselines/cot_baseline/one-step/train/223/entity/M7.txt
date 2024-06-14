@@ -1,0 +1,10 @@
+entity;surface
+1453;1453
+Constantinople;Constantinople
+Sultan Mehmed II;Sultan Mehmed II
+Ottoman Turks;Ottoman Turks
+Byzantine;Byzantine
+Turkish;Turkish
+Turks;Turks
+Islamic;Islamic
+Istanbul;Istanbul

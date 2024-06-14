@@ -1,0 +1,15 @@
+subject;predicate;object
+Edward I;built;Welsh Castles
+James of St. George;was master mason of;Welsh Castles
+Welsh Castles;had functions including;socio-economic roles
+Welsh Castles;had functions including;administrative roles
+Welsh Castles;had functions including;military roles
+Welsh Castles;had functions including;propagandist roles
+Welsh Castles;were instrumental in;incorporating Wales into English governance
+Welsh Castles;were instrumental in;attracting settlers
+Welsh Castles;symbolized;English power
+castles;served as centers of;legal enforcement
+castles;served as centers of;governmental outposts
+castles;played;a crucial role in enforcing English regal rights upon Wales
+castles;played;a crucial role in maintaining English supremacy
+Glyn Dwr Revolt;occurred during;English supremacy

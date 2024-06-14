@@ -1,0 +1,6 @@
+subject;predicate;object
+King Dom João VI;arrived in;Brazil
+King Dom João VI;made;Brazil a kingdom
+Dom Pedro;took charge in;Brazil
+Dom Pedro;declared independence in;1822
+Dom Pedro;became;Emperor of Brazil

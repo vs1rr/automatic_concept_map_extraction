@@ -1,0 +1,12 @@
+subject;predicate;object
+CSI Effect;explores;influence of forensic-focused TV shows on jurors' expectations of scientific evidence in criminal trials
+studies;have shown;watching shows like CSI does not necessarily make jurors less likely to convict without scientific evidence
+expectations;are attributed to;broader cultural changes rather than TV shows
+text;highlights;discrepancies in the reliability of various forensic science disciplines
+DNA analysis;is;highly accurate
+fingerprint analysis;lack;scientific validity
+inaccuracies;portrayed in;crime dramas
+crime dramas;have sparked;public interest in forensic science
+crime dramas;have inspired;educational initiatives like CSI: The Experience
+text;emphasizes;importance of realistic representations of forensic science limitations in TV shows
+text;acknowledges;educational impact of crime dramas on viewers

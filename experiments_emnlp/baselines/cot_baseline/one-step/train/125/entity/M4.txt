@@ -1,0 +1,4 @@
+entity;surface
+Church;Capon Chapel United Methodist Church
+Location;Capon Bridge, West Virginia
+Phone Number;(304) 856-2483

@@ -1,0 +1,17 @@
+entity;surface
+Byzantine Empire;Byzantine Empire, the empire
+Constantine I;Constantine I
+Constantinople;Constantinople
+Roman capital;new Roman capital
+western Roman Empire;fall of the western Roman Empire
+Europe;Europe
+Asia;Asia
+Germanic tribes;Germanic tribes
+Islamic forces;Islamic forces
+Justinian I;Justinian I
+Macedonian dynasty;Macedonian dynasty
+Western intellectual tradition;Western intellectual tradition
+Italian Renaissance;Italian Renaissance
+Orthodox Christianity;Orthodox Christianity
+Constantinople;Constantinople
+Ottoman Empire;Ottoman Empire

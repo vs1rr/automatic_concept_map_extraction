@@ -1,0 +1,16 @@
+subject;predicate;object
+Brazilian Independence;occurred in;1822
+Empire of Brazil;includes;First Reign
+Empire of Brazil;includes;Regency Period
+Empire of Brazil;includes;Second Reign
+Regency Period;involves;conflicts
+Empire of Brazil;involves;abolition of slavery
+Empire of Brazil;involves;Paraguayan War
+Empire of Brazil;involves;economic cycles
+economic cycles;involves;coffee
+economic cycles;involves;rubber
+monarchy;ended due to;dissatisfaction with laws restricting the slave trade
+monarchy;ended due to;economic crises
+monarchy;ended due to;role of the military
+monarchy;ended due to;political centralization
+monarchy;ended due to;international influences

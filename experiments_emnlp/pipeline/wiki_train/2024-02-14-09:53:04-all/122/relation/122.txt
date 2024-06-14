@@ -1,0 +1,25 @@
+Bruce Castle Park, located in the administrative, Haringey
+Tottenham Hot, located in the administrative, Tottenham
+Tottenham Hot, depicts, Tottenham
+Sir Thomas Leigh, occupation, Monasteries
+Tottenham, located in the administrative, Haringey
+Bruce Castle Park, located in the administrative territorial, Haringey
+castle, surrounded by, garden
+Bruce Castle Museum, Archives, and Park, located in the administrative, Tottenham
+Windsor Castle, located in the administrative territorial entity, Windsor, Berkshire
+Henry VIII, spouse, Elizabeth I
+Rowland Hill, located in the administrative territorial entity, London Borough of Haringey
+Tottenham Hot, location, Tottenham
+Henry VIII, spouse, Elizabeth I.
+Tottenham, instance of, manor
+Haringey, contains administrative territorial entity, Tottenham
+Sir Thomas Leigh, owned by, Monasteries
+Bruce Castle Park, located in the administrative territorial entity, Haringey
+Windsor Castle, located in the administrative territorial entity, Windsor
+Tottenham, located in the administrative territorial entity, Haringey
+Bruce Castle Museum, location, Tottenham
+Tottenham, owned by, Bruce family
+Windsor Castle, instance of, castle
+Post Office, located in the administrative territorial entity, London Borough of Haringey
+castle, surrounded by, gardens
+Bruce Castle Museum, located in the administrative territorial entity, Tottenham
