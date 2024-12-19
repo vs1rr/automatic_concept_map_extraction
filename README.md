@@ -1,6 +1,6 @@
 # ConceptMapsSummaries
 
-Anonymised Code for Paper submitted to EMNLP 2024 - Call for Main Conference Papers
+Anonymised Code for Paper submitted to ESWC - Research Track
 
 ## Quick Start 
 
