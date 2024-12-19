@@ -8,7 +8,7 @@ Anonymised Code for Paper submitted to ESWC - Research Track
 
 (All scripts are run from the root directory of this repository)
 
-We run our code on both Mac M1 and Ubuntu machines, with conda for virtual environment and python version 3.11.3.
+Also, to add the symbolic/semantic into the Table 1 comparison with the SOTA.![Uploading image.png…]()
 
 (I) you need to  install the requirements
 ```bash
@@ -123,10 +123,10 @@ Regrettably, we are unable to provide access to the corpus as it is not within o
 
 * For our experiments, we fine-tuned the REBEL model available on [Hugging Face](https://huggingface.co/Babelscape/rebel-large). All the related code can be found in the `src/fine_tune_rebel` folder, including a more detailed [notes](./src/fine_tune_rebel/notes.md). The fine-tuned model is big and can be sent upon demand.
 
-* We then several experiments on the WIKI datasets. All the scripts used can be found in the `experiments_emnlp` folder:
+* We then several experiments on the WIKI datasets. All the scripts used can be found in the `experiments_eswc` folder:
     * `pipeline/make_summaries.py`: retrieve and store summaries from OpenAI
     ```bash
-    python experiments_emnlp/make_summaries.py <data-path> <output-folder> <type-data> <dataset>
+    python experiments_eswc/make_summaries.py <data-path> <output-folder> <type-data> <dataset>
     ```
     * `pipeline/run_train.py`: run all experiments for the hyperparameters. Update parameters on the top of the file, and run:
     ```bash
@@ -141,7 +141,7 @@ Regrettably, we are unable to provide access to the corpus as it is not within o
     ```bash
     python experiments_acl/run_single_and_ablation.py <data-path> <save-folder> <summary-folder>
 
-    python experiments_emnlp/pipeline/run_single_and_ablation.py ./data/Corpora_Falke/Wiki/train experiments_emnlp/pipeline/final_exps/wiki_train/ experiments_emnlp/summaries/wiki_train/
+    python experiments_eswc/pipeline/run_single_and_ablation.py ./data/Corpora_Falke/Wiki/train experiments_eswc/pipeline/final_exps/wiki_train/ experiments_eswc/summaries/wiki_train/
     ```
     * `pipeline/wiki_test` and `pipeline/wiki_train`: results on the test and train sets of WIKI
     * `pipeline/get_final_results.py`: analyse final results
@@ -150,8 +150,8 @@ Regrettably, we are unable to provide access to the corpus as it is not within o
     python experiments_acl/get_final_results.py experiments_acl/wiki_test
     ```
 
-* We also make the summaries that we used available in the `experiments_emnlp/summaries` folder.
-* We also make the evaluation metrics that we used available in the `experiments_emnlp/baselines` folder: 
+* We also make the summaries that we used available in the `experiments_eswc/summaries` folder.
+* We also make the evaluation metrics that we used available in the `experiments_eswc/baselines` folder: 
 - in `cot_baseline` Results for each cluster using the chain of thoughts baseline.
 - in `one_baseline` Results for each cluster using the one-shot baseline.
 - in `zero_baseline` Results for each cluster using the zero-shot baseline.
