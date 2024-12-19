@@ -1,8 +1,0 @@
-subject;predicate;object
-Nile River;played a crucial role;ancient Egypt
-Nile River;allowed;civilization
-Nile River;influenced;Egyptian beliefs
-Nile River;shaping;religious practices
-Nile River;provided;resources
-Nile River;influenced;development
-Nile River;continues to impact;region

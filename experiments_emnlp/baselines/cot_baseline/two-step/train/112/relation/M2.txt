@@ -1,7 +1,0 @@
-subject;predicate;object
-Washington-Centerville Public Library;showcasing;rare facsimile edition of the Book of Kells
-Book of Kells;displayed;for visitors
-Book of Kells;is;a renowned 9th-century illuminated manuscript
-Book of Kells;mirroring;tradition at Trinity College in Dublin
-initiative;allows;people
-people;delve into;history and beauty of exceptional work

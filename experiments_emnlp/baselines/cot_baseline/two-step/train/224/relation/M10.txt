@@ -1,5 +1,0 @@
-subject;predicate;object
-"forty-niners";participated in;California Gold Rush
-James W. Marshall;discovered;gold nuggets
-"forty-niners";experienced;California Gold Rush
-California Gold Rush;occurred in;1849

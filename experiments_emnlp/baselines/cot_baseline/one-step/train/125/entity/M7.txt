@@ -1,9 +1,0 @@
-entity;surface
-Capon Chapel;Capon Chapel
-Levels;Levels
-West Virginia;West Virginia
-Pastor Chris Leatherman;Pastor Chris Leatherman
-Sunday School;Sunday School
-Worship Service;Worship Service
-church;church
-304.492.5838;304.492.5838

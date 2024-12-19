@@ -1,8 +1,0 @@
-entity;surface
-Byzantine-Sassanid War;Byzantine-Sassanid War
-Byzantine Empire;Byzantine
-Sassanid Empire;Sassanid
-Khosrau II;Khosrau II
-Emperor Maurice;Emperor Maurice
-Heraclius;Emperor Heraclius, Heraclius
-Constantinople;Constantinople

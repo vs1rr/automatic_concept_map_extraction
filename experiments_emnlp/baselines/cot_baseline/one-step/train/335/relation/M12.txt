@@ -1,7 +1,0 @@
-subject;predicate;object
-Pendle Hill hangings;occurred in;1612
-Pendle Hill hangings;involved;Pendle witches
-first witch execution in Wales;occurred in;1594
-first witch execution in Wales;involved;Wales
-Eleanor Cobham;was accused in;witchcraft cases
-King James VI;had involvement in;witchcraft cases

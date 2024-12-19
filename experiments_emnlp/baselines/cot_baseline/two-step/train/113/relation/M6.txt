@@ -1,6 +1,0 @@
-subject;predicate;object
-Borobudur;located near;Yogyakarta
-Borobudur;built between;AD 750 and 842
-Borobudur;recognized as;UNESCO World Heritage site
-Borobudur;tall;34.5 meters
-Borobudur;base measuring;123 x 123 meters

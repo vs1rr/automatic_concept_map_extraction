@@ -1,9 +1,0 @@
-entity;surface
-Bruce Castle;Bruce Castle
-Tottenham;Tottenham
-White Hart Lane Stadium;White Hart Lane Stadium
-Norman Conquest;Norman Conquest
-Lord Coleraine;Lord Coleraine
-17th century;17th century
-Rowland Hill;Rowland Hill
-Georgian;Georgian

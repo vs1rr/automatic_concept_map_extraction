@@ -1,6 +1,0 @@
-subject;predicate;object
-castles;served;offensive and defensive military roles
-castles;served;social and administrative functions
-castles;evolution;construction from wood to stone
-castles;decline;advancements in weaponry, particularly gunpowder
-castles;remain;popular tourist attractions

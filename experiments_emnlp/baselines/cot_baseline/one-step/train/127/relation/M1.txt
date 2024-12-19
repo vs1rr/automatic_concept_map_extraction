@@ -1,4 +1,0 @@
-subject;predicate;object
-castles;refer to;large building
-castles;refer to;impressive old mansion
-castles;refer to;rook in chess

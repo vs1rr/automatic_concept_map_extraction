@@ -1,9 +1,0 @@
-entity;surface
-California;California
-United States;United States
-California Gold Rush;California Gold Rush
-American;American
-James W. Marshall;James W. Marshall, Marshall
-Gold;Gold
-Latin America;Latin America
-San Francisco;San Francisco

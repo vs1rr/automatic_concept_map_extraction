@@ -1,8 +1,0 @@
-subject;predicate;object
-castles;feature;knights
-castles;feature;princesses
-castles;feature;scenes
-knights;wear;armor
-princesses;wear;dresses
-princesses;appear;in fairy tale settings
-knights;ride;horseback

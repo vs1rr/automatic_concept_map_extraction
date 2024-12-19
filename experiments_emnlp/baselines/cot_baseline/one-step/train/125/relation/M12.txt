@@ -1,7 +1,0 @@
-subject;predicate;object
-William C. Nixon;born in;1789
-William C. Nixon;served in;War of 1812
-William C. Nixon;married;Mary Ann Caudy
-William C. Nixon;had children;Lemuel Nixon
-Capon Chapel;associated with;Primitive Baptists
-Mary Ann Caudy;buried in;Capon Chapel cemetery

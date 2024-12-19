@@ -1,8 +1,0 @@
-subject;predicate;object
-Sam Houston;was born in;Texas
-Sam Houston;was associated with;Cherokee Indians
-Sam Houston;served in;military
-Sam Houston;was the first president of;Republic of Texas
-Sam Houston;opposed;secession
-Sam Houston;is celebrated through;monuments and exhibitions
-monuments and exhibitions;are located near;Huntsville, Texas

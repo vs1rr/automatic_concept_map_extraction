@@ -1,8 +1,0 @@
-subject;predicate;object
-San Felipe de Austin;served as;colonial capital
-Conventions of 1832 and 1833;led by;Stephen F. Austin
-Conventions of 1832 and 1833;addressed;grievances
-Conventions of 1832 and 1833;proposed changes to;Mexican government
-Stephen F. Austin;imprisoned in;1834
-imprisonment;fueled support for;independent Texas
-San Felipe de Austin;established;provisional state government

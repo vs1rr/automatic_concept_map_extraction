@@ -1,9 +1,0 @@
-subject;predicate;object
-Brougham Castle;originally built by;Robert de Vieuxpont
-Brougham Castle;located on site of;former Roman fort known as Brocavum
-Brougham Castle;played role in;various historical events
-Brougham Castle;restored by;Lady Anne Clifford
-Brougham Castle;inspired;William Wordsworth's poem 'The Prelude'
-Brougham Castle;owned by;government
-Brougham Castle;preserved by;English Heritage
-Brougham Castle;open to;visitors

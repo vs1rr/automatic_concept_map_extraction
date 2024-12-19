@@ -1,9 +1,0 @@
-CSI Effect, facet of, CSI
-CSI Effect, main subject, forensic evidence
-forensic science, studies, scientific evidence
-misconceptions, facet of, forensic science
-CSI Effect, facet of, forensic evidence
-forensic science, uses, scientific evidence
-scientific evidence, studied by, forensic science
-CSI Effect theory, facet of, CSI
-CSI Effect, facet of, forensic evidence in criminal trials

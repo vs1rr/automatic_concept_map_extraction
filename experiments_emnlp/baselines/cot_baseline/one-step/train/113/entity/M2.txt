@@ -1,4 +1,0 @@
-entity;surface
-Borobudur;Borobudur
-9th century;9th century
-Buddhist monument;Buddhist monument

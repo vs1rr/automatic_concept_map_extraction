@@ -1,9 +1,0 @@
-subject;predicate;object
-British Empire;highlighted;origins and growth
-British Empire;had;global reach
-British Empire;had;significance of the Royal Navy
-British Empire;had;diverse governance structures
-British Empire;transitioned into;modern Commonwealth of Nations
-British Empire;had;vast extent
-British Empire;had;impact on global trade and communication
-modern Commonwealth of Nations;evolved into;voluntary association focused on human rights and democracy

@@ -1,8 +1,0 @@
-entity;surface
-Otto Robert Frisch;Otto Robert Frisch, Frisch
-Austrian-British physicist;Austrian-British physicist
-Rudolf Peierls;Rudolf Peierls
-atomic bomb;atomic bomb
-nuclear fission;nuclear fission
-atomic weapons;atomic weapons
-atomic physics;atomic physics

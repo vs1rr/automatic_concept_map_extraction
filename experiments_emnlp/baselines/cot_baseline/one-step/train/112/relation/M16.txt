@@ -1,7 +1,0 @@
-subject;predicate;object
-Book of Kells;discusses;theory
-seventh- and eighth-century illuminators;used;stereoscopic images
-illuminators;used;technique
-artists;achieve;microscopic detail
-designs;compared to;others
-manuscripts;from;same period

@@ -1,7 +1,0 @@
-subject;predicate;object
-California Gold Rush;started in;1848
-California Gold Rush;discovered by;James W. Marshall
-James W. Marshall;discovered;gold
-James W. Marshall;discovered at;Sutter's Mill
-Sutter's Mill;located in;Coloma
-Coloma;located in;California

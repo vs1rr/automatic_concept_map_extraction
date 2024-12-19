@@ -1,8 +1,0 @@
-subject;predicate;object
-Egypt;has;7000 years of culture
-Egypt;has;diverse monuments and memoirs
-Egypt;overlooks;Mediterranean and Red Seas
-Cairo;offers;mix of Pharaonic, Islamic, and Coptic monuments
-Cairo;offers;vibrant streets and European-style architecture
-Fayoum;offers;natural beauty and scenic landscapes
-Tour Egypt;provides;customized packages

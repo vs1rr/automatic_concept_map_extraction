@@ -1,4 +1,0 @@
-entity;surface
-Capon Chapel;mid-19th-century Capon Chapel
-Capon Bridge;Capon Bridge
-October 2 Wikipedia featured article;October 2 Wikipedia featured article

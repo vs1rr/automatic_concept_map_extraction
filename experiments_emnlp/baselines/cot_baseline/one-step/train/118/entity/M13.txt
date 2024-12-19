@@ -1,9 +1,0 @@
-entity;surface
-Brougham Castle;Brougham Castle
-Robert de Vieuxpont;Robert de Vieuxpont
-King John;King John
-Cliffords;Cliffords
-Scottish;Scottish
-Anglo-Scottish wars;Anglo-Scottish wars
-1388;1388
-1421;1421

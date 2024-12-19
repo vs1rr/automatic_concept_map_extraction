@@ -1,6 +1,0 @@
-subject;predicate;object
-UK;skepticism;uranium fission
-Frisch-Peierls memorandum;predicted;feasibility of a bomb
-British scientists;contributed to;Manhattan Project
-British Mission;hosted;celebratory party
-collaboration;had;long-term impact on British nuclear program

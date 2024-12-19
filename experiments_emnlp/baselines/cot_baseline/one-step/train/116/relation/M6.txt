@@ -1,8 +1,0 @@
-subject;predicate;object
-Bramshill House;is_located_in;Bramshill
-Bramshill House;has_design_element;friezes
-Bramshill House;has_design_element;chimneypieces
-Bramshill House;has_design_element;arcades
-Bramshill House;has_design_element;ceilings
-Bramshill House;has_design_element;screens
-Bramshill House;has_design_element;decorative elements

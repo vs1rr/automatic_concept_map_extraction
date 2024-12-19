@@ -1,9 +1,0 @@
-subject;predicate;object
-trip;took place in;Java Island
-trip;included;visit to Borobudur Temple
-trip;lasted for;two days
-Borobudur Temple;located in;Java Island
-Borobudur Temple;hashtag;#borobudur
-Borobudur Temple;visited on;second day of the trip
-Borobudur Temple;associated with;happymoment
-Borobudur Temple;associated with;enjoy

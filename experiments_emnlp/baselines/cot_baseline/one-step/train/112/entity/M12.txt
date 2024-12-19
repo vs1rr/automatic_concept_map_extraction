@@ -1,9 +1,0 @@
-entity;surface
-Book of Kells;The Book of Kells
-800 AD;around 800 AD
-Irish visual art;Irish visual art
-Sistine Chapel;Sistine Chapel
-Old Library;Old Library
-Trinity College Dublin;Trinity College Dublin
-interactive app;interactive app
-ebook;'Ireland in 100 Objects'

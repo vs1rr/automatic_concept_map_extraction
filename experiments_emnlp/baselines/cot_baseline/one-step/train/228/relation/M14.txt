@@ -1,9 +1,0 @@
-subject;predicate;object
-David Crockett;born in;1800s
-Sam Houston;born in;1800s
-Antonio López de Santa Anna;born in;1800s
-Mexico;gained independence from;Spain
-Stephen F. Austin;involved in;Texas Revolution
-George Fisher;involved in;Texas Revolution
-Texas Revolution;led to;Texas declaring independence
-Texas Revolution;led to;fall of the Alamo

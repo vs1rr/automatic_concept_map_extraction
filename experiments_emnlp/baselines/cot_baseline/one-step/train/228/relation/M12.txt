@@ -1,6 +1,0 @@
-subject;predicate;object
-Convention of 1832;adopted resolutions;organization of a militia
-Convention of 1833;petitioned for;separation of Coahuila and Texas
-Convention of 1833;prepared;constitution for the state of Texas
-Stephen F. Austin;presented;memorial
-memorial;outlined virtues of;new state organization and constitution

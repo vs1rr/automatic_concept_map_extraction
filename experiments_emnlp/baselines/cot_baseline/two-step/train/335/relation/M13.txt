@@ -1,8 +1,0 @@
-subject;predicate;object
-"The Late Lancashire Witches";is described as;comedy filled with ribaldry, magic, and social commentary
-"The Late Lancashire Witches";focuses on;witchcraft, transformations, and gender dynamics
-"The Late Lancashire Witches";subverts;traditional gender roles
-"The Late Lancashire Witches";mocks;male authority
-"The Late Lancashire Witches";challenges;societal norms
-witches;have interactions with;men
-play;explores;themes of hospitality, social dynamics, and power dynamics between men and women

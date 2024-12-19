@@ -1,8 +1,0 @@
-subject;predicate;object
-Bramshill House;serves as;a police staff training college
-Bramshill House;features;symmetrical elevations
-Bramshill House;features;a narrow interior court
-Bramshill House;features;red brick construction with stone details
-Bramshill House;became;the principal police training college in the UK in 1960
-Bramshill House;housed;part of the National Policing Improvement Agency
-the project;is set to be completed by;2014

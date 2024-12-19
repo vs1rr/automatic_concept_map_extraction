@@ -1,7 +1,0 @@
-subject;predicate;object
-CSI effect;explores;influence of forensic-focused TV shows on jurors' expectations of scientific evidence in criminal trials
-TV shows;may not directly impact;jurors' decisions
-TV shows;have sparked;public interest and education in the field
-TV shows;portrayal of;forensic science
-forensic science;lack;scientific validity
-forensic science;is;accurate

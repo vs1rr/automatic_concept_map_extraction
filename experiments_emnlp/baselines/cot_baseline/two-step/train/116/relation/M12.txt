@@ -1,8 +1,0 @@
-subject;predicate;object
-Marta Andreasen;calling for closure of;European Police College
-Marta Andreasen;claims that;over £20,000 of EU money was used for personal items
-European Police College;located near;Hook
-Andreasen;questioning ethics of;college
-college;aimed to educate;police officers
-college;aimed to fight;cross-border crime
-European Parliament;refusing to sign off on;Cepol's accounts

@@ -1,3 +1,0 @@
-subject;predicate;object
-Pendle witches;executed in;1612
-participants;participated in;Pendle Witch Walk 2012

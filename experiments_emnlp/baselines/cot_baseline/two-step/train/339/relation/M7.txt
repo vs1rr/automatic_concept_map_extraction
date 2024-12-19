@@ -1,8 +1,0 @@
-subject;predicate;object
-nullification deniers;claim;nullification by States of unconstitutional acts of the federal government
-deniers;make;false assertions
-deniers;contradict;historical documents and the principles of the Founding Fathers
-text;explains;conditions necessary for nullification to be proper and possible
-text;addresses;misperceptions and false assertions made by nullification deniers
-text;emphasizes;natural right of self-defense and the reserved power of nullification within the 10th Amendment
-text;concludes;urging readers to reject misinformation, learn from the Founding Documents, and stand against the encroaching tyranny of the federal government

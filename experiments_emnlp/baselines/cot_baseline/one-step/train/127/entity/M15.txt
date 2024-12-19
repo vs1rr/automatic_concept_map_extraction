@@ -1,7 +1,0 @@
-entity;surface
-Harewood Castle;Harewood Castle, the castle
-Harewood;Harewood
-English Heritage;English Heritage
-Harewood Estate;Harewood Estate
-license to crenellate;license to crenellate
-Wharfedale;Wharfedale

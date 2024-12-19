@@ -1,8 +1,0 @@
-subject;predicate;object
-Caernarfon Castle;located in;Wales
-castles;inspiration for;historical forum members
-castles;have purpose;protection
-castle-building;evolved over time;
-Neuschwanstein;example of;royal castle
-Rothenburg;recommended for;exploring
-Pontefract Castle;destroyed in;England

@@ -1,8 +1,0 @@
-entity;surface
-British Empire;British Empire, Empire
-Commonwealth of Nations;Commonwealth of Nations
-maritime power;maritime power
-dominion status;dominion status
-global trade;global trade
-communication;communication
-former colonies;former colonies

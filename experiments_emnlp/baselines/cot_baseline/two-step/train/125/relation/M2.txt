@@ -1,3 +1,0 @@
-subject;predicate;object
-Old Pine Church;located in;Lewisburg, West Virginia
-Old Pine Church;is a;historic Presbyterian church

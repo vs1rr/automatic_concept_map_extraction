@@ -1,5 +1,0 @@
-subject;predicate;object
-Stephen Hill;escaped from;owner
-California;allowed for;capture of fugitive slaves
-California;denied civil rights to;African Americans
-California;denied civil rights to;Native Americans

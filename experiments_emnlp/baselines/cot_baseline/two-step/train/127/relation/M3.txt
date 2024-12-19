@@ -1,9 +1,0 @@
-subject;predicate;object
-castles;originated in;Europe
-castles;served as;status symbols
-castles;served as;administrative centers
-castles;became;symbol of wealth and power
-castles;are;popular tourist attractions
-castles;appeal to;families
-castles;appeal to;historians
-castles;highlighted in;list of castles worldwide

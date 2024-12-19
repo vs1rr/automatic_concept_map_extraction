@@ -1,6 +1,0 @@
-entity;surface
-King Dom João VI;King Dom João VI
-Brazil;Brazil
-Portugal;Portugal
-Dom Pedro;Dom Pedro
-Emperor of Brazil;Emperor of Brazil

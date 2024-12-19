@@ -1,9 +1,0 @@
-subject;predicate;object
-Pendle Witch trials;involved;twelve accused individuals
-Pendle Witch trials;took place in;1612
-accused individuals;charged with;using witchcraft to murder ten people
-accused individuals;were tried at;Lancaster Assizes
-Lancaster Assizes;resulted in;ten executions
-trials;documented in;"The Wonderfull Discoverie of Witches in the Countie of Lancaster"
-accused;came from;two families
-disputes;possibly fueled by;competition for livelihoods involving healing and extortion

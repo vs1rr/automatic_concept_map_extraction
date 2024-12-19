@@ -1,7 +1,0 @@
-subject;predicate;object
-Capon Bridge United Methodist Charge;organizes;food pantry
-Capon Bridge United Methodist Charge;organizes;clothing closet
-Capon Bridge United Methodist Charge;organizes;Bible study
-Heather Rogers;is a;Certified Lay Minister
-Louise Link;was honored for;50 years of service
-Jane Arnold;participated in;mission team

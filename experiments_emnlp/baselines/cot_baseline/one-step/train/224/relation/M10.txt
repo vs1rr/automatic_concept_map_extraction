@@ -1,7 +1,0 @@
-subject;predicate;object
-forty-niner;traveled to;California
-forty-niner;sought fortune in;California
-forty-niner;traveled in;1849
-forty-niner;traveled to;California
-forty-niner;sought fortune in;California
-forty-niner;highlighting experiences of;individuals

@@ -1,6 +1,0 @@
-subject;predicate;object
-James Madison;views on;division of powers
-Tenth Amendment;serving as;textual basis
-Gregory v. Ashcroft;emphasize;narrow construction
-New York v. United States;emphasize;narrow construction
-James Madison;referenced to support;interpretation

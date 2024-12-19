@@ -1,7 +1,0 @@
-subject;predicate;object
-Ancient Egypt;divided into;distinct time periods
-Ancient Egypt;characterized by;different dynasties and powerful rulers
-Early Dynastic Period;with;rulers Menes and Djoser
-New Kingdom;with;rulers Hatshepsut and Ramesses II
-Greco-Roman Period;with;figures Alexander the Great and Cleopatra
-Intermediate Periods;faced challenges in;maintaining central government control

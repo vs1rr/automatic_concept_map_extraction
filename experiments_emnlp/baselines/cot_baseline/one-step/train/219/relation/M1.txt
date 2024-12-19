@@ -1,9 +1,0 @@
-subject;predicate;object
-British;played a significant role;Manhattan Project
-James B. Conant;believed;US
-Conant;argued;sharing information
-British;were not producing;fissile material
-US;agreed to;full cooperation
-Conant's concerns;proved valid;secrecy
-British delegate;became;significant atomic spy
-British delegation;made;important contributions

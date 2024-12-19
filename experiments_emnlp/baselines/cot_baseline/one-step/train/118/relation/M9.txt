@@ -1,7 +1,0 @@
-subject;predicate;object
-Lady Anne Clifford;fought for;40 years
-Lady Anne Clifford;spent her life restoring;Brougham Castle
-Lady Anne Clifford;spent her life restoring;churches in Penrith
-Lady Anne Clifford;is known for;efforts in rebuilding Brougham Castle
-Lady Anne Clifford;is known for;efforts in rebuilding other historical sites
-Lady Anne Clifford;left;a lasting legacy

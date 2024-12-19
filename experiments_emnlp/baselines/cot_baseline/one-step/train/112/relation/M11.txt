@@ -1,7 +1,0 @@
-subject;predicate;object
-Trinity College;is part of;University of Dublin
-Trinity College;houses;Book of Kells
-Book of Kells;is believed to have been created around;800 AD
-Book of Kells;is;a masterpiece of Western calligraphy and insular illumination
-Book of Kells;is considered;Ireland's finest national treasure
-Book of Kells;features;intricate decorations blending Christian iconography with Celtic motifs

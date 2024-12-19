@@ -1,5 +1,0 @@
-entity;surface
-Old Pine Church;Old Pine Church
-Presbyterian church;Presbyterian church
-Lewisburg;Lewisburg
-West Virginia;West Virginia

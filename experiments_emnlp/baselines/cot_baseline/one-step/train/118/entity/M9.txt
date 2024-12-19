@@ -1,5 +1,0 @@
-entity;surface
-Lady Anne Clifford;Lady Anne Clifford
-17th century;17th century
-Penrith;Penrith
-Brougham Castle;Brougham Castle

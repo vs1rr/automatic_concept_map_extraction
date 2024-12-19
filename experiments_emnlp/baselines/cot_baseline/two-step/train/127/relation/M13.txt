@@ -1,9 +1,0 @@
-subject;predicate;object
-castles;included;development of tower houses
-tower houses;built for;political, economic, and defensive purposes
-tower houses;served as;homes, defensive fortifications, and administrative centers
-tower houses;were common in;England, Scotland, Wales, Ireland, France, Italy, and Central Europe
-region;adding;own unique features
-Surviving examples;showcase;architectural and historical significance
-Longthorpe Tower;is in;England
-Hallbar;is in;Scotland

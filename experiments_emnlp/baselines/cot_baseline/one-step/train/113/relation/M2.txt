@@ -1,3 +1,0 @@
-subject;predicate;object
-Borobudur;was built in;9th century
-Borobudur;is;a significant Buddhist monument

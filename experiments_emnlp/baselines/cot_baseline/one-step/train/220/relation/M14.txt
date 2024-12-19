@@ -1,7 +1,0 @@
-subject;predicate;object
-British Empire;covered;significant portion of the Earth's land area in the 1930s
-Order of the British Empire;honors;those who contributed to the UK's economy, culture, and sport
-British Empire tea;includes;blend of Ceylon and Indian teas
-British Empire tea;offers;consistent, astringent taste with a rich aroma and a sweet, malty aftertaste
-British Empire tea;features;British Empire breakfast tea, Captain Woodget Ceylon tea, and Lord Grey black tea with bergamot
-British Empire tea;enjoyed with;milk

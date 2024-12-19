@@ -1,9 +1,0 @@
-subject;predicate;object
-Alnwick Castle;located in;Northumberland
-Tamworth Castle;located in;Staffordshire
-Alnwick Castle;historical significance;Tudor England
-Tamworth Castle;historical significance;Tudor England
-Alnwick Castle;related to;Anne Stafford
-Tamworth Castle;related to;Cardinal Wolsey
-Alnwick Castle;year;1528
-Tamworth Castle;year;1528

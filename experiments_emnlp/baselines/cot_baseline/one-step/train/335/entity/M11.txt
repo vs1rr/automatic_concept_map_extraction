@@ -1,6 +1,0 @@
-entity;surface
-Lancaster;Lancaster
-Pendle Witches;Pendle Witches
-Pendle Forest;Pendle Forest
-Alison Device;Alison Device
-peddler;peddler

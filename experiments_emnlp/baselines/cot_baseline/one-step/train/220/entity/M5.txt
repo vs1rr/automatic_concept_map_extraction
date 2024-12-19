@@ -1,9 +1,0 @@
-entity;surface
-Britain;Britain, British
-Napoleon;Napoleon
-1815;1815
-North America;North America
-South Africa;South Africa
-Caribbean;Caribbean
-India;India
-British Empire;British Empire

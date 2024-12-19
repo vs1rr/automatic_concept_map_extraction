@@ -1,8 +1,0 @@
-subject;predicate;object
-Brougham Castle;built by;Robert de Vieuxpont
-Brougham Castle;defend against;King John's enemies
-Brougham Castle;strategically located near;rivers and roads
-Brougham Castle;improved by;the Cliffords
-Brougham Castle;strengthened against;Scottish attacks
-Brougham Castle;saw activity in;1421
-Brougham Castle;accused of;forging coins

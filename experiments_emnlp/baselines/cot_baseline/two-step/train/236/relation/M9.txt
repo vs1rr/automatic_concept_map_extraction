@@ -1,9 +1,0 @@
-subject;predicate;object
-King Dom João VI;arrived in;1808
-King Dom João VI;was part of;United Kingdom of Portugal
-Portugal;had;Constitutional Revolution
-Constitutional Revolution;led to;demands for the king's return
-Portuguese court;tried to subdue;Brazil
-Cortes;tried to subdue;Brazil
-Dom Pedro;declared;Brazil's independence
-Dom Pedro;became;Emperor Dom Pedro I

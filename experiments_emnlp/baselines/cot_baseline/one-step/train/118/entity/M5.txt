@@ -1,9 +1,0 @@
-entity;surface
-Robert de Vieuxpont;Robert de Vieuxpont
-Brocavum;Brocavum
-Scotland;Scotland
-War of the Roses;War of the Roses
-Lady Anne Clifford;Lady Anne Clifford
-William Wordsworth;William Wordsworth
-The Prelude;The Prelude
-English Heritage;English Heritage

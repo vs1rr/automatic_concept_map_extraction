@@ -1,6 +1,0 @@
-subject;predicate;object
-California Gold Rush;followed by;discovery of gold by James W. Marshall
-James W. Marshall;made;discovery of gold in California
-Marshall;changed demographic landscape of;California
-San Francisco;named for;prospectors of gold rush
-gold rush;altered;region's population and economy

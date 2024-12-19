@@ -1,8 +1,0 @@
-subject;predicate;object
-Constantinople;fall;1453
-Constantinople;mark;turning point
-Constantinople;lead to;shift of power dynamics in Europe
-Constantinople;lead to;flight of Greek scholars to Italy
-Constantinople;lead to;emergence of conflicts between empires in southeastern Europe
-Muslim conquest;preserve;doctrinal integrity of eastern Christendom
-fall of Constantinople;influence;relationships and alliances in the region

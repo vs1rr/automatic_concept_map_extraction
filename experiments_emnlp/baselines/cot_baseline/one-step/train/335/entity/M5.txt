@@ -1,7 +1,0 @@
-entity;surface
-Pendle Witches;Pendle Witches
-Lancashire;Lancashire
-witches;witches, women
-herbal medicine;herbal medicine
-witchcraft;witchcraft
-GCSE History students;GCSE History students

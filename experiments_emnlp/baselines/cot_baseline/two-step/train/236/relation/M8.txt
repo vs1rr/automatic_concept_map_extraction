@@ -1,9 +1,0 @@
-subject;predicate;object
-Portuguese court;moved to;Rio de Janeiro
-Portuguese court;escaped from;Napoleon's troops
-Portuguese court;led to;Brazil's elevation
-Brazil;remained independent from;king
-son;declared independence of;Brazil
-son;kept under;Orleans-Braganza royal family
-Portuguese branch;is more royalist than;Orleans-Braganza royal family
-attitudes;may be shifting towards;Portuguese branch

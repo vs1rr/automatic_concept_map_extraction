@@ -1,6 +1,0 @@
-entity;surface
-Capon Chapel;Capon Chapel, Capon Baptist Chapel, Capon Chapel Church
-West Virginia;West Virginia
-Hampshire County;Hampshire County
-869 feet, 265 meters;869 feet, 265 meters
-Latitude: 39.2698239, Longitude: -78.4444521;Latitude: 39.2698239, Longitude: -78.4444521

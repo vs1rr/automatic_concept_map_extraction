@@ -1,8 +1,0 @@
-subject;predicate;object
-Convention of 1833;took place in;San Felipe
-Convention of 1833;had focus on;drafting a constitution
-Stephen F. Austin;chosen to deliver;petitions
-Stephen F. Austin;was imprisoned without charges;Austin
-Austin;imprisoned;charges
-Austin;returned to;Texas
-Austin;returned just before;Texas Revolution

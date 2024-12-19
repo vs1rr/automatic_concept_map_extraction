@@ -1,3 +1,0 @@
-subject;predicate;object
-Borobudur Temple;located in;Yogyakarta, Indonesia
-trip;took place in;Yogyakarta, Indonesia

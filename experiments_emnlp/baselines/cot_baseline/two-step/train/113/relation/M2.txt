@@ -1,3 +1,0 @@
-subject;predicate;object
-Borobudur;dates back to;9th century
-Borobudur;is located in;Indonesia

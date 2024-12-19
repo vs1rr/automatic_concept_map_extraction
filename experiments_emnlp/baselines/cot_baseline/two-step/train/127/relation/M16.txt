@@ -1,8 +1,0 @@
-subject;predicate;object
-Caernarfon Castle;located in;Wales
-castles;inspiration for;historical forum members
-castles;have purpose;defense
-Rothenburg;located in;Germany
-Pontefract Castle;located in;England
-Pontefract Castle;was;one of the largest castles in Western Europe
-Pontefract Castle;destroyed;before

@@ -1,7 +1,0 @@
-subject;predicate;object
-Pendle Witch trials;took place in;1612
-accused individuals;charged with;murder by witchcraft
-accused individuals;came from;two families
-allegations;stemming from;competition between families
-English witch trial executions;attributed to;Pendle Witch trials
-trials;documented in;"The Wonderfull Discoverie of Witches in the Countie of Lancaster"

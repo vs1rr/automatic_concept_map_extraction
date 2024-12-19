@@ -1,8 +1,0 @@
-subject;predicate;object
-Egypt;offers;diverse range of beaches, resorts, and cities
-Egypt;is located along;the Nile and the Mediterranean and Red Seas
-Cairo;is;a vibrant city
-Cairo;has;mix of Pharaonic, Islamic, and Coptic monuments
-Cairo;has;European-style architecture
-Tour Egypt;offers;customizable packages
-Tour Egypt;ensures;an unforgettable visit

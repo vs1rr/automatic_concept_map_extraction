@@ -1,9 +1,0 @@
-subject;predicate;object
-Pembroke Castle;has features;cylindrical tower with a stone dome
-Pembroke Castle;has features;circular rooms
-Pembroke Castle;has features;gatehouse with multiple portcullises
-Pembroke Castle;is birthplace of;Henry VII
-Pembroke Castle;endured attacks during;reign of King Charles I
-Pembroke Castle;is owned by;Private Charitable Trust
-Pembroke Castle;offers;visitors an immersive experience
-Pembroke Castle;depicts;key moments in its history

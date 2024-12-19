@@ -1,9 +1,0 @@
-entity;surface
-Marta Andreasen;Marta Andreasen
-UKIP MEP;UKIP MEP
-European Police College;European Police College, Cepol, the college
-Hook;Hook
-EU;EU
-European Parliament's Budgetary Control Committee;European Parliament's Budgetary Control Committee
-2008;2008
-8 million euros;8 million euros

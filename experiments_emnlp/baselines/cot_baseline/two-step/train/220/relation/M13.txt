@@ -1,7 +1,0 @@
-subject;predicate;object
-France;relying on;wealth
-France;sustain;large army
-Britain;saw;colonies
-Britain;colonies;valuable asset
-French colonial empire;size;vast difference
-British colonial empire;size;vast difference

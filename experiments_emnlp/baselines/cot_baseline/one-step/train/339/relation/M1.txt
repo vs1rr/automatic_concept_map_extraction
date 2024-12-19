@@ -1,9 +1,0 @@
-subject;predicate;object
-Rehnquist Court;era during;Federalism Revolution
-Federalism Revolution;highlighted;resurgence of federalism
-Federalism Revolution;highlighted;limited federal power
-Cases;emphasized;narrow construction of federal power
-Cases;emphasized;Tenth Amendment
-James Madison's views;referenced to support;argument for state sovereignty
-James Madison;views on;division of powers
-James Madison;views on;federal and state governments

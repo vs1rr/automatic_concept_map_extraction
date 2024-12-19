@@ -1,2 +1,0 @@
-subject;predicate;object
-British Empire;established through;immigration

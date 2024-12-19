@@ -1,9 +1,0 @@
-subject;predicate;object
-France;have;abundant food resources
-France;maintain;sizable army
-Britain;have;abundant food resources
-Britain;lead to;larger army
-Britain;have;abundant food resources
-Britain;lead to;larger army
-France;have;wealth
-France;maintain;sizable army

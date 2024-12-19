@@ -1,9 +1,0 @@
-entity;surface
-"Manhattan";"Manhattan"
-"Thin Man project";"Thin Man project"
-"plutonium";"plutonium"
-"Charlie Isaacs";"Charlie Isaacs"
-"Nazis";"Nazis"
-"British scientists";"British scientists"
-"women";"women"
-"Los Alamos";"Los Alamos"

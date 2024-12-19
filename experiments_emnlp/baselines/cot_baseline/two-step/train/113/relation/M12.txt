@@ -1,9 +1,0 @@
-subject;predicate;object
-Indonesia;boasts;UNESCO World Heritage Sites
-Borobudur Temple Compounds;represent;blend of indigenous ancestor worship and Buddhist concepts
-Borobudur Temple Compounds;faces;threats from development, tourism pressure, and natural decay
-management efforts;aim to ensure;sustainability
-Komodo National Park;faces;challenges related to tourism impacts and conservation conflicts
-efforts;are made to balance;preservation and commercialization
-efforts;are made to address;threats like destructive fishing practices
-sites;use;unique features to promote themselves as remarkable tourist destinations

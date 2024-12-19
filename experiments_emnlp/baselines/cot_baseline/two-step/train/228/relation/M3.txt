@@ -1,7 +1,0 @@
-subject;predicate;object
-Sam Houston;was born in;Huntsville, Texas
-Sam Houston;was involved in;Texas Revolution
-Sam Houston;was the first president of;Republic of Texas
-Sam Houston;opposed;secession
-Sam Houston;was removed from office for;refusing to pledge loyalty to the Confederacy
-Sam Houston;died in;1863

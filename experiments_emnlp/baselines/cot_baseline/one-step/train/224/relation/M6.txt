@@ -1,7 +1,0 @@
-subject;predicate;object
-gold;discovered at;Sutter's Mill
-John Sutter;established;Sutter's Fort
-James Marshall;hired to build;Sawmill at Coloma
-gold;discovered in;Coloma
-news;reached;President James Polk
-discovery;made a national sensation in;California

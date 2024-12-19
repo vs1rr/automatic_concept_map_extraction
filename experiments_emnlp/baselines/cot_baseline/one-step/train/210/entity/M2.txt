@@ -1,7 +1,0 @@
-entity;surface
-Lent;Lent
-Egypt;Egypt
-Israelites;Israelites
-sin;sin
-desert;desert
-God;God

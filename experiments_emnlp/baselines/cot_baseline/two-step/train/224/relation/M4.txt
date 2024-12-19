@@ -1,9 +1,0 @@
-subject;predicate;object
-California Gold Rush;began with;discovery of gold by James W. Marshall
-California Gold Rush;led to;massive influx of immigrants known as "'49ers"
-California;incorporated as;31st state in 1850
-California Gold Rush;attracted;fortune-seekers from around the world
-California Gold Rush;transformed;California into one of the most ethnically diverse states
-foreign laborers;led to;ethnic tensions
-foreign laborers;led to;enactment of the Foreign Miners Tax in 1850
-Gold Rush;transformed;California into one of the most ethnically diverse states

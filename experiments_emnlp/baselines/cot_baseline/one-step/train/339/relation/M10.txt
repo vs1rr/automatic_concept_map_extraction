@@ -1,9 +1,0 @@
-subject;predicate;object
-Thomas Jefferson;endorsement of;nullification
-James Madison;support for;interposition
-nullification;goes against;purpose of the Constitution
-nullification;risks returning;country to a confederate system
-states;have;alternative legal means
-states;challenge;federal laws
-nullification;is;unconstitutional approach
-nullification;is;disorderly approach

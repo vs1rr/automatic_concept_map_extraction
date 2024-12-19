@@ -1,3 +1,0 @@
-subject;predicate;object
-Canadians;live in;igloos
-Book of Kells;dates back to;around 800 AD

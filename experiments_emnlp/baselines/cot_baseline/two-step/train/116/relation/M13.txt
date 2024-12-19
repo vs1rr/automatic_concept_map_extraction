@@ -1,6 +1,0 @@
-subject;predicate;object
-Bramshill House;used as;police training college
-Bramshill House;set to be;sold
-Home Office;sold to;City and Country
-Bramshill House;transformed into;residential site
-sale price;will be disclosed at;Land Registry

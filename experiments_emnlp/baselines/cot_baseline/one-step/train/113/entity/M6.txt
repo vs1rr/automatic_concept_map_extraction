@@ -1,8 +1,0 @@
-entity;surface
-Borobudur;Borobudur
-Yogyakarta;Yogyakarta
-Java;central Java
-Indonesia;Indonesia
-AD 750;AD 750
-AD 842;AD 842
-UNESCO World Heritage site;UNESCO World Heritage site

@@ -1,9 +1,0 @@
-subject;predicate;object
-San Felipe de Austin;served as;colonial capital
-Stephen F. Austin;played a significant role in;conventions
-colonists;discussed;grievances and proposed changes
-resolutions;were never presented to;Mexico
-Austin's imprisonment in 1834;led to;support for an independent Texas
-movement;gained;momentum
-provisional state government;established in;San Felipe
-events leading to Texas independence;were closely tied to;Austin's headquarters

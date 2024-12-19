@@ -1,9 +1,0 @@
-subject;predicate;object
-Bruce Castle Park;located in;Tottenham
-Tottenham Cemetery;located in;Tottenham
-Bruce Castle Park;features;museum
-museum;owned by;Sir Rowland Hill
-museum;holds;archive
-archive;contains;Wood Green Empire
-Wood Green Empire;related to;father
-High Street;location of;recent riots

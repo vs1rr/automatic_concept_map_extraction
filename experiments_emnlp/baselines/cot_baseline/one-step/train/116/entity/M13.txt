@@ -1,7 +1,0 @@
-entity;surface
-Bramshill House;Bramshill House
-Home Office;Home Office
-City and Country;City and Country
-Jacobean building;Jacobean building
-Government;Government
-Land Registry;Land Registry
