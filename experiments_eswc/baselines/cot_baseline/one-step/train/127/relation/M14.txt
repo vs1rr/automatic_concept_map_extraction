@@ -1,0 +1,7 @@
+subject;predicate;object
+Concentric castles;characterized by;having two or more curtain walls
+Concentric castles;designed to;withstand advances in siege technology
+Concentric castles;vary based on;terrain
+Concentric castles;were costly to build and maintain
+Concentric castles;accessible only to;powerful military orders or kings
+Concentric defense;was seen in;fortified cities and later fortifications

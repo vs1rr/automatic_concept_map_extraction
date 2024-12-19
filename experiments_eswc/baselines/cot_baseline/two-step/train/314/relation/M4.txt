@@ -1,0 +1,14 @@
+subject;predicate;object
+CSI effect;influences;legal decisions
+TV shows;influence;legal decisions
+TV shows;are;questioned
+TV shows;are;examined
+TV shows;have;effects
+viewers;have;effects
+viewers;are;found
+viewers;are;capable
+viewers;distinguish;fantasy and reality
+viewers;are;affected
+evidence;is;minimal
+evidence;is;compelling
+evidence;emerges;there is no need

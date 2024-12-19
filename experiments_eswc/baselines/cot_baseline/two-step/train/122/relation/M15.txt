@@ -1,0 +1,10 @@
+subject;predicate;object
+Bruce Castle Park;located in;Haringey
+Bruce Castle Park;established in;1892
+Bruce Castle Park;features;house
+house;became;a museum
+museum;houses;local history collection
+park;maintains;C19th layout
+park;has won;Green Flag Award
+trees;date back to;C19th
+oak;over;400 years old

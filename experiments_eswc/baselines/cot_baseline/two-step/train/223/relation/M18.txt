@@ -1,0 +1,13 @@
+subject;predicate;object
+Byzantine Empire;thrived for;over a thousand years
+Byzantine Empire;evolved into;powerful economic, cultural, and military force in Europe
+Byzantine Empire;shifted to;Greek culture
+Byzantine Empire;shifted to;Orthodox Christianity
+Byzantine Empire;reached its peak under;rulers like Justinian I
+Byzantine Empire;left;a lasting legacy on European civilization
+Byzantine Empire;shaping;Orthodox Christianity
+Byzantine Empire;shaping;Renaissance humanism
+Byzantine Empire;preserving;classical knowledge
+Ottomans;conquered;Constantinople in 1453
+Ottomans;saw themselves as;heirs to the Byzantine legacy
+Ottomans;preserving;aspects of its tradition

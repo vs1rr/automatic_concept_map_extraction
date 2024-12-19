@@ -1,0 +1,20 @@
+entity;surface
+James Madison;James Madison, he
+Virginia;Virginia
+politics;politics
+Constitution;Constitution
+Virginia Convention of 1776;Virginia Convention of 1776
+Continental Congress;Continental Congress
+Alexander Hamilton;Alexander Hamilton
+political parties;political parties
+Secretary of State;Secretary of State
+Jefferson;Jefferson
+Louisiana Purchase;Louisiana Purchase
+France;France
+Great Britain;Great Britain
+War of 1812;War of 1812
+presidency;presidency
+Montpelier;Montpelier
+national bank recharter;national bank recharter
+constitutional amendments;constitutional amendments
+farming;farming

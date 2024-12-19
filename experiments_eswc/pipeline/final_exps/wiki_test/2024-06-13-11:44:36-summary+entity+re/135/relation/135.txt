@@ -1,0 +1,143 @@
+photographs, part of, Cottingley Fairies
+fairy, subclass of, human-like
+Arthur Conan Doyle, occupation, novelist
+Cottingley, historic county, England
+Cottingley fairy photos, instance of, fraud
+book about them, author, Arthur Conan Doyle
+Conan Doyle, date of death, 1930
+Church Open Day, subclass of, visitors to explore the tower
+Cottingley Fairies, creator, Frances Griffiths
+Cottingley Fairies hoax, start time, 1917
+Cottingley Fairies, has part, photographs
+The Strand Magazine, main subject, photographic
+Sherlock Holmes, field of work, occult
+fairy, subclass of, supernatural beings
+fairy, instance of, belief
+Cottingley, inception, 1917
+Yeomen Warders, subclass of, military personnel
+fairies, subclass of, spiritualism
+Spiritualism, country, United States
+Cottingley Fairies, point in time, 1917
+fairy, different from, butterflies
+Strand Magazine, editor, Sir Arthur Conan Doyle
+spiritualism, instance of, belief
+Sir Arthur Conan Doyle, field of work, spiritualists
+Cottingley Fairies photographs, depicts, fairies
+Elsie Wright, spouse, Frances Griffith
+Arthur Conan Doyle, influenced by, Edward Gardner
+Sir Conan Doyle, occupation, author
+Elsie Wright, spouse, Arthur Conan Doyle
+Sir Arthur Conan Doyle, field of work, spiritualist
+murdered peddler, place of death, Hydesville, New York
+Will-O-Wisp, instance of, hair net
+Arthur Conan Doyle, spouse, Elsie Wright
+Cottingley fairies, instance of, hoax
+Lord Uxbridge, conflict, Battle of Waterloo
+Spiritualism, country of origin, United States
+fairy, subclass of, human
+Doyle, student, Edward Gardner
+Chesterholm Museum, located in the administrative territorial entity, Hexham, Northumberland
+Doyle's belief in spiritualism, creator, Doyle's
+fairy photos, named after, Cottingley
+Arthur Conan Doyle, field of work, spiritualism
+interacting, practiced by, fairy
+fairy, subclass of, photograph
+Lord Uxbridge's wooden leg, conflict, Battle of Waterloo
+Crown Jewels, location, Tower of London
+Crown Jewels, headquarters location, Tower of London
+fairy, subclass of, otherworldly beings
+Yeomen Warders, subclass of, guides
+Edward Gardner, field of work, spiritualism
+Sir Arthur Conan Doyle, member of, Theosophical Society
+The Strand, instance of, Magazine
+Sherlock Holmes, creator, Sir Arthur Conan Doyle
+Arthur Conan Doyle, member of, Theosophical Society
+mummified fairy remains, creator, Dan Baines
+Sir Arthur Conan Doyle, instance of, fairy
+fairy, subclass of, photographs
+Cottingley Fairies, instance of, nature spirits
+unseasoned timber, has effect, Black Death
+fraudulent practices, facet of, spiritualism
+Sir Arthur Conan Doyle, influenced by, Edward Gardner
+butterflies, different from, fairy
+Hexham, located in the administrative territorial entity, Northumberland
+Elsie Wright, residence, Cottingley
+fairies, located in the administrative territorial entity, England
+Elsie Wright, spouse, Frances Griffiths
+Sherlock Holmes, creator, Arthur Conan Doyle
+Sir Conan Doyle, field of work, author
+fairies, instance of, spiritualism
+fairy pictures, depicts, fairy
+World War II, follows, World War I
+University of Edinburgh, location, Edinburgh
+Scotland, capital, Edinburgh
+Sherlock Holmes, creator, Conan Doyle
+unseasoned timber, has cause, Black Death
+Cottingley Fairies hoax, instance of, hoax
+Cottingley Fairies, main subject, fairies
+Cottingley Fairies hoax, inception, 1917
+Hydesville, located in the administrative territorial entity, New York
+Frances Griffith, residence, Cottingley
+Cottingley Fairies, depicts, fairies
+Arthur Conan Doyle, religion, spiritualism
+Holmes, creator, Joseph Bell
+Edward Gardner, influenced by, Sir Arthur Conan Doyle
+Cottingley Fairies Camera, collection, National Media Museum
+Fairies, subclass of, fairy
+Conan Doyle, field of work, spiritualist
+Cottingley Fairies case, instance of, cautionary tale
+Strand magazine, instance of, subscription
+fairy, field of this occupation, interacting
+Conan Doyle, occupation, author
+Cottingley Fairies, inception, 1917
+Bradford, located in the administrative territorial entity, Bradford United
+Boer War, award received, knighted
+fairy photos, location, Cottingley
+Parish Church of Saint Mary and All Saints, located in the administrative territorial entity, Chesterfield
+Arthur Conan Doyle, instance of, fairy
+Cottingley Fairies, use, prank
+The Strand Magazine, field of work, photographic
+fairies, creator, Arthur Conan Doyle
+Strand, instance of, magazine
+Cottingley Fairies, instance of, hoax
+fairies, facet of, spiritualism
+fairy, instance of, belief in
+Frances Griffiths, notable work, Cottingley Fairies
+World War I, followed by, World War II
+fairies, named after, Cottingley
+Spiritualism, main subject, afterlife
+Cottingley Fairies, instance of, prank
+Frances Griffiths, spouse, Elsie Wright
+Sir Arthur Conan Doyle, movement, Theosophist
+Strand Magazine, publisher, Sir Arthur Conan Doyle
+Conan Doyle, notable work, Sherlock Holmes
+fairy, subclass of, human-like creature
+a book about them, author, Arthur Conan Doyle
+Edward Gardner, student of, Doyle
+spiritualism, subclass of, belief
+Cottingley Fairies, subclass of, hoax
+Cottingley, country, England
+Dan Baines, notable work, mummified fairy remains
+Frances, instance of, fairy
+Doyle and Edward Gardner, field of work, spiritualism
+Cottingley Fairies, has effect, photographs
+fairy picture, depicts, fairy
+Will-O-Wisp hair net, named after, foolish fire
+unseasoned timber, facet of, Black Death
+fairy pictures, depicts, fairies
+Tower of London, has part, Crown Jewels
+Cottingley Fairies, subclass of, prank
+Arthur Conan Doyle, notable work, Sherlock Holmes
+Will-O-Wisp, has part, hair net
+Frances Griffith, spouse, Elsie Wright
+debunking, facet of, fairy photos
+Cottingley Village, inception, 1917
+mummified fairy remains, instance of, fairy hoax
+Boer War, instance of, knighted
+Boer War, award received, knighted for his work
+Cottingley fairies, creator, Elsie Wright
+fairies, part of, spiritualism
+The Strand Magazine, editor, Arthur Conan Doyle
+Cottingley, located in the administrative territorial entity, England
+Fox family, residence, Hydesville, New York
+Elsie Wright, influenced by, Arthur Conan Doyle

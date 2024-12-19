@@ -1,0 +1,9 @@
+entity;surface
+Indonesian World Heritage Sites;two Indonesian World Heritage Sites
+Borobudur Temple Compounds;Borobudur Temple Compounds
+Komodo National Park;Komodo National Park
+Borobudur;Borobudur
+Syailendra Dynasty;Syailendra Dynasty
+Central Java;Central Java
+Komodo Dragon;Komodo Dragon
+UNESCO;UNESCO

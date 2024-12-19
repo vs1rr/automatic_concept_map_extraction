@@ -1,0 +1,8 @@
+subject;predicate;object
+British;played a significant role in;Manhattan Project
+James B. Conant;believed;US
+Conant;argued;sharing information with British
+US;agreed to;full cooperation with British
+Conant's concerns;proved;valid
+British delegate Klaus Fuchs;became;significant atomic spy
+British delegation at Los Alamos;made;important contributions to project

@@ -1,0 +1,8 @@
+subject;predicate;object
+Albert Einstein;write_letter;President Roosevelt
+President Roosevelt;approve;uranium research
+Manhattan Project;succeed in;building atomic bomb
+Manhattan Project;involve;British
+Manhattan Project;involve;Russian
+Germans;make progress in;atomic research efforts
+Japanese;make progress in;atomic research efforts

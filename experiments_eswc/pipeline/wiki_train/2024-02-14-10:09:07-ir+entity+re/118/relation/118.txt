@@ -1,0 +1,350 @@
+King Richard III, sibling, James I
+owner's residence, located on terrain feature, motte
+grounds, part of, castle
+Naward, owned by, Earls of Carlisle
+Romans, replaced by, Normans
+Anglo Saxon wars, end time, 1380
+C5, followed by, C11
+Norman Conquest, participant, William the Conqueror
+Sandal Castle, located in the administrative territorial entity, Wakefield
+King Stephen, conflict, The Anarchy
+Wars of the Roses, part of, English Civil War
+Piel Harbour, located in the administrative territorial entity, Isle of Man
+Bernard de Bailliol, ethnic group, Normans
+besieged, point in time, 1216
+English Civil War, part of, the struggle
+Brougham, maintained by, English Heritage
+captured and damaged, point in time, 1388
+castle, located in or next to body of water, Eamont
+Lucy Tower, instance of, bailey
+Crown Courts, has part, Magna Carta
+English Civil War, part of, struggle
+Mont St Michel, country, France
+castle, located in, county of Essex
+Berwick Castle, located in the administrative territorial entity, Berwick-upon-Tweed
+Bowes, instance of, castle
+Brough Castle, location, Brough
+castle, owned by, Corporation of Shrewsbury
+Brough Castle, instance of, castle
+castle, located in the administrative territorial entity, Vieuxpont
+Thomas Telford, occupation, engineer
+castle, instance of, country house
+new castle, owned by, Normans
+motte and bailey castles, founded by, William the Conqueror
+manor house, architectural style, Tudor
+Barbican House, located in the administrative territorial entity, town
+was besieged, point in time, 1469
+gaol, used for, court
+The Anarchy, participant, King Stephen
+Ida of Bernicia, spouse, Northumbria
+Lords of Hapton, end time, 1510
+plague, has effect, Black Death
+castle, are open to the public, grounds
+motte and bailey, subclass of, castle
+English Civil War, start time, 1642
+Rising of the North, end time, 1569
+Lord of the Marches, responsible for, English border
+Romans, followed by, Normans
+War of the Roses, participant, Lancastrian
+gatehouse, replaces, Roman fort
+castle, owned by, Clifford
+Berkhamsted Castle, located in the administrative territorial entity, Berkhamsted
+castle, has part, moat
+Sir Thomas de Criol, date of death, 1343
+Anglo-Scottish Wars, end time, 1340
+Civil War, participant, Parliamentarians
+Catherine Parr, spouse, Henry VIII
+Richard III, sibling, James I
+Roger de Caen, position held, Bishop of Salisbury
+Brougham Castle, conflict, War of the Roses
+fort, contains, castle
+manor house, inception, 1690
+Rievaulx Abbey, founded by, Walter Espec
+castle, occupant, Normans
+Brougham Castle, located in the administrative territorial entity, Penrith
+besieged twice, point in time, 1216
+Duke of Norfolk, owner of, stately home
+bishops of Carlisle, residence, castle
+English, shares border with, Scots
+King Henry I, conflict, The Anarchy
+Wales and the Marches, capital, London
+Roger de Caen, occupation, Bishop of Salisbury
+fortified, part of, Hundred Years War
+River Lowther, mouth of, River Eamont
+Duke of Norfolk, residence, stately home
+fort, has part, castle
+Duke of Buckingham, spouse, Thomas Fairfax
+Wales, capital, London
+castle, was abandoned, abandoned
+The Anarchy, point in time, 1138
+Black Death, has part, plague
+Conqueror, child, William II of England
+motte and bailey castle, has, bailey
+Sandal Castle, historic county, Yorkshire
+Vieuxpont, instance of, castle
+Edward 1, date of death, 1300
+Domesday Survey, inception, 1086
+Okehampton Castle, located in the administrative territorial entity, Okehampton
+Norman Conquest, location, England
+keep, part of, prison
+Rebellion of 1088, point in time, 1088
+Peace, location, Scotland
+Clitheroe Castle, located in the administrative territorial entity, Clitheroe
+Lord of the Marches, applies to jurisdiction, Scottish
+rampart, obsolete, castle
+wars with Scotland heightened, start time, 1296
+Clifford castles, owned by, Earl of Thanet
+River Eamont, mouth of the watercourse, River Lowther
+Sir Fulke Greville, residence, country house
+Earldom of Chester, inception, 1070
+Yarmouth, located in or next to body of water, Solent
+Crown Courts, instance of, museum
+motte and bailey castle, dissolved, abolished or demolished, 1155
+Wilton, instance of, manor house
+William II of England, father, Conqueror
+William the Conqueror's great keeps, ethnic group, Normans
+Wales, shares border with, England
+William the Conqueror, position held, Earldom of Chester
+Norman Conquest, point in time, 1066
+Scotland, end of, continental wars
+Berwick Castle, located in the administrative territorial entity, Northumberland
+Ireland, shares border with, Isle of Man
+The Anarchy, start time, 1142
+Stephen, spouse, Matilda
+Edward 1, date of birth, 1300
+Elizabeth de Clare, family, de Clare
+Fotheringhay Castle, significant event, execution of Mary Queen of Scots
+Piel Harbour, country, Isle of Man
+castle, are open to, grounds are open to the public
+castle, has been cleaned out, moat
+house, are open to the public, garden
+captured and damaged, participant, Scots
+Wars of the Roses, point in time, 1559
+Hylton, date of death, 1746
+16th, followed by, 18th century.
+original Norman wooden castle, start time, 1130
+Castle Acre Castle, located in the administrative territorial entity, Norfolk
+castle, use, fortress
+The Anarchy, participant, King Henry I
+owner's residence, last refuge, refuge
+16th, followed by, 18th century
+sieges of the English Civil War, point in time, 1642
+motte and bailey fortification, guard, ford across the River Tyne
+Wales and the Marches, headquarters location, London
+White Cliffs of Dover, instance of, sea crossing
+castle, is free, free and open access
+Percy family, located in the administrative territorial entity, Northumberland
+great keeps, owned by, William the Conqueror
+castle, has preserved, motte
+Dartmouth, located in or next to body of water, Dart Estuary
+motte and bailey, dissolved, abolished or demolished date, 1155
+England, shares border with, Wales
+Eden Valley, located in the administrative territorial entity, Norman times
+Sandal Castle, inception, 1107
+Sir Thomas de Criol, conflict, War of the Roses
+Sir Edward, family, Hungerford
+castle at Brougham, owned by, de Cliffords
+Wars of the Roses, end time, 1559
+Mary Queen of Scots, place of death, Fotheringhay Castle
+Scottish wars, start time, 1296
+1st Earl of Shrewsbury, father, Roger de Montgomery
+castle, has, town walls
+castle, used as, fortress
+Naward, instance of, castle
+Brougham Castle, part of, Roman fort
+Windsor, located in or next to body of water, River Thames
+C10, follows, C9
+motte and bailey, inception, 1066
+castle, owned by, Normans
+Brougham castle, maintained by, English Heritage
+Eden Valley, instance of, castle
+Norman Conquest of England, location, River Nidd
+gaol, part of, court
+Etal, located in the administrative territorial entity, Northumberland
+Berkhamsted Castle, owned by, English Heritage
+fortified, conflict, Hundred Years War
+English Civil War, participant, Parliamentary forces
+Lords of Hapton, residence, 1510
+castle, was destroyed by, fire
+Eamont, mouth of the watercourse, Lowther
+motte and bailey castle, inception, 1071
+wars with Scotland heightened, point in time, 1296
+Baron's War, point in time, 1215
+Mont St Michel, religious order, Benedictine
+C9, followed by, C10
+castle, is, free and open access
+English Civil War, participant, Parliamentary
+house, are open to, garden
+Brougham Castle, inception, 1643
+Eden Valley, historic, Norman times
+bishops of Carlisle, headquarters location, castle
+the Conqueror, child, William II of England
+motte and bailey, inception, 1071
+castle, located on terrain feature, cliff
+Roger Bigod, child, Hugh
+The Anarchy, end time, 1155
+Barbican House, located in the administrative territorial entity, castle
+Roman fort, area, 1.37
+M1, connects with, M6
+motte and bailey castle, has part, bailey
+Bolsover Castle, owned by, English Heritage
+fort, different from, castle
+Lucy Tower, instance of, motte and bailey
+Dart Estuary, located in the administrative territorial entity, Dartmouth
+castle, inception, 1130
+William the Lion, country of citizenship, Scotland
+White Cliffs, located in the administrative territorial entity, Dover
+Cliffords, dissolved, 1521
+English Civil War, participant, Parliamentarians
+Scotland, part of, continental wars
+Queens Champion, named after, Elizabeth I
+Queen Elizabeth, used, Spanish Armada
+castle, owned by, English Heritage
+motte and bailey, is rebuilt in, castle
+Barbican House, depicts, castle
+Matilda, spouse, Stephen
+last baron, date of death, 1746
+The Anarchy, instance of, civil war
+railway station, located in the administrative territorial entity, town
+motte and bailey, has part, bailey
+castle, operator, English Heritage
+Roger de Montgomery, conflict, English Civil War
+Norman Conquest, point in time, 1068
+Thomas Fairfax, spouse, Duke of Buckingham
+Clifford castles, located in the administrative territorial entity, Brougham
+castle, were destroyed by, fire
+castle, part of, fort
+Bernard de Bailliol, ethnic, Normans
+stone wall, inception, 1295
+Norman conquest, location, Northumberland
+Henry of Blois, position held, Bishop of Winchester
+M1, connects with, M6 interchange
+Bolsover Castle, located in the administrative territorial entity, Bolsover
+Percy family, is, Dukes of Northumberland
+Empress Maud, cousin, King Stephen
+Hylton family, date of death, 1746
+keep, located on the motte, motte
+The Anarchy, start time, 1138
+castle, is, country house
+Baron's War, participant, Edward III
+Wars of the Roses, start time, 1480
+Lucy Tower, instance of, motte
+Domesday, inception, 1086
+motte and bailey castles, inception, 1066
+captured and sacked, point in time, 1388
+keep, located on, motte
+Civil War, participant, Royalists
+Dartmouth, located in the administrative territorial entity, Mayor of Dartmouth
+Rising of the North, point in time, 1569
+The Anarchy, participant, Robert Earl of Gloucester
+castle, dissolved, abolished or demolished, 1540
+Clifford, residence, castle
+Castle Acre Castle, located in the administrative territorial entity, Nr Swaffham
+Catherine Parr, place of birth, Kendal
+Triermain Castle, inception, 1350
+Stephen, spouse, Empress Maud
+Wars of the Roses, has effect, disrepair
+John Clifford, date of death, 1461
+owner's residence, mountain range, motte
+Black Death, has effect, plague
+James 1, was entertained at, entertained at the castle
+Earldom of Chester, founded by, William the Conqueror
+Brougham Castle, instance of, fort
+Duke of Norfolk, family, Norfolk family
+Walter Espec, founded by, Rievaulx Abbey
+motte, part of, castle
+Cliffords, dissolved, abolished or demolished, 1521
+Brougham, instance of, castle
+Roman fort, located on terrain feature, Moor Lane
+Empress Maud, conflict, English Civil War
+Brougham Castle, owned by, Lady Anne Clifford
+original castle, inception, 1219
+Roger de Montgomery, position held, 1st Earl of Shrewsbury
+Brougham Castle, occupant, Lady Anne Clifford
+Tintagel, instance of, castle
+Queen Elizabeth, use, Spanish Armada
+Edward III, date of birth, 1327
+castle, instance of, fort
+castle, owned by, Clifford family
+Tintagel, located in use, castle
+castle, located in the administrative territorial entity, Brougham
+Penrith, located in the administrative territorial entity, Cumbria
+castle, has, moat
+keep, replaces, prison
+Thomas de Criol, date of death, 1343
+Roman fort, has part, castle
+Antony Bek, position held, Bishop of Durham
+castle, dissolved, abolished or demolished date, 1540
+sieges of the English Civil War, start time, 1642
+castle, was destroyed by fire, fire
+captured and damaged by the Scots, point in time, 1388
+Southampton, located in or next to body of water, Solent
+castle, has part, town walls
+Dover, instance of, sea crossing
+Great Hall, inception, 1380
+Elizabeth de Clare, family, de Clare family
+Agricola, position held, governorship
+Cliffords, dissolved, abolished or demolished date, 1521
+Royalists, conflict, English Civil War
+Cockermouth Castle, inception, 1134
+railway station, located in the administrative territorial, town
+besieged and captured, point in time, 1469
+Battle of Wakefield, part of, Wars of the Roses
+Brougham, conflict, wars of the Roses
+William the Conqueror, ethnic group, Normans
+besieged, participant, King John
+was captured and sacked, point in time, 1388
+Crown Courts, item operated, Magna Carta
+castle, dissolved, 1540
+Queens Champion, founded by, Elizabeth I
+Battle of Wakefield, point in time, 1460
+Agricola, occupation, governorship
+Roman fort, located on street, Moor Lane
+Queens Champion, position held, Queen
+gatehouse, replaces, fort
+bishops of Carlisle, residence, 1230
+William, 1st Baron Hastings, conflict, Wars of the Roses
+Prince John, sibling, King Richard
+Queen Elizabeth, used to defend, Spanish Armada
+gaol, used by, court
+Robert Clifford, family, Clifford family
+War of the Roses, participant, John Henry VI
+house, are open to, gardens
+Raby, dissolved, abolished or demolished date, 1569
+keep, part of, castle
+castle, instance of, ruin
+Duke of Buckingham, father, Thomas Fairfax
+castle, inception, 1175
+Hugh, father, Roger Bigod
+Fotheringhay Castle, occupant, Mary Queen of Scots
+Clifford castles, located in the administrative territorial, Brougham
+King Richard, sibling, Prince John
+Anglo Saxon wars, point in time, 1380
+Okehampton Castle, owned by, English Heritage
+besieged, point in time, 1469
+Henry VIII, spouse, Catherine Parr
+Norman Conquest of England, point in time, 1071
+wars with Scotland heightened, end time, 1296
+Rebellion of 1088, part of, The Anarchy
+castle, owned by, family
+original Norman wooden castle, inception, 1130
+motte and bailey fortification, guard, ford
+James 1, entertained at, 1617
+Etal Castle, located in the administrative territorial entity, Etal
+Brougham Castle, instance of, castle
+Cockermouth Castle, located in the administrative territorial entity, Colchester
+Edward 1, family, Clifford family
+castle, has part, fort
+castle, are open to, grounds
+Scottish wars, point in time, 1296
+Baron's War, start time, 1215
+motte and bailey, is a stronghold of, castle
+Battle of Wakefield, location, Wakefield
+Ida of Bernicia, ethnic group, Anglo-Saxon
+Lady Anne Clifford, family, Clifford family
+William II of England, father, the Conqueror
+The Anarchy, end time, 1142
+castle, has views, walls
+castle, start time, 1175
+motte and bailey, is abandoned, castle
+Brough Castle, located in the administrative territorial entity, Brough

@@ -1,0 +1,16 @@
+entity;surface
+theory;theory
+seventh-century;seventh-century
+eighth-century;eighth-century
+illuminators;illuminators
+manuscripts;manuscripts
+Book of Kells;Book of Kells
+stereoscopic images;stereoscopic images
+designs;designs
+artists;artists
+technique;technique
+free-fusion stereocomparison;free-fusion stereocomparison
+microscopic detail;microscopic detail
+precision;precision
+complexity;complexity
+period;period

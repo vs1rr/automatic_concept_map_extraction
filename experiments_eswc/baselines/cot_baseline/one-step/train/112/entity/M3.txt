@@ -1,0 +1,15 @@
+entity;surface
+Book of Kells;The Book of Kells
+Celtic art;Celtic
+Irish art;Irish
+New Testament;New Testament
+Bible;Bible
+Ireland;Ireland
+Columban monks;Columban monks
+vellum;vellum
+colors;colors
+Iona;Iona
+Kells;Kells
+Dublin;Dublin
+Trinity College Library;Trinity College Library
+craftsmanship;craftsmanship

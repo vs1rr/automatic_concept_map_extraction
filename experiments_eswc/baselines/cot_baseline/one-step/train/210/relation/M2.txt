@@ -1,0 +1,13 @@
+subject;predicate;object
+Lent;symbolizes;time for leaving Egypt
+Lent;is;time
+Egypt;symbolizes;worldly temptations and enslavement to sin
+Egypt;represents;worldly temptations and enslavement to sin
+Israelites;left behind;comforts of Egypt
+Israelites;left behind;comforts
+desert;represents;self-sacrifice and dependence on God
+desert;represents;dependence on God
+Israelites;left behind;comforts of Egypt
+Israelites;left behind;comforts
+Israelites;left behind;comforts of Egypt
+Israelites;left behind;comforts

@@ -1,0 +1,15 @@
+subject;predicate;object
+Ptolemy I Soter;became ruler of;Egypt
+Ptolemy I Soter;founded;dynasty
+Ptolemy I Soter;assimilated to;Egyptian culture
+Ptolemy I Soter;claimed descent from;Heracles
+Ptolemy I Soter;was trusted general of;Alexander
+Ptolemy I Soter;strategically secured power in;Egypt
+Ptolemy I Soter;engaging in;wars
+Ptolemy I Soter;engaging in;alliances
+Ptolemy I Soter;known for;shrewdness
+Ptolemy I Soter;known for;patronage of letters
+Ptolemy I Soter;founding;Great Library of Alexandria
+Ptolemy I Soter;reign was marked by;military successes
+Ptolemy I Soter;reign was marked by;political maneuvering
+Ptolemy I Soter;leaving;well-ordered realm

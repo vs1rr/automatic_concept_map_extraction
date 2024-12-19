@@ -1,0 +1,16 @@
+entity;surface
+Brazil;Brazil, Brazilian
+Portugal;Portugal, Portuguese
+September 7, 1822;September 7, 1822
+Dom Pedro I;Dom Pedro I, Pedro I
+"Grito de Ipiranga";Grito de Ipiranga
+Brazilian Empire;Brazilian Empire
+Latin American;Latin American
+Portuguese court;Portuguese court
+Rio de Janeiro;Rio de Janeiro
+Napoleon;Napoleon
+Iberian Peninsula;Iberian Peninsula
+Pedro I;Pedro I
+independence;independence
+monarchy;monarchy
+Latin America;Latin America

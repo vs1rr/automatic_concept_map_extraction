@@ -1,0 +1,25 @@
+subject;predicate;object
+Bramshill House;hasDesignElement;carvings
+Bramshill House;hasDesignElement;chimneys
+Bramshill House;hasDesignElement;windows
+Bramshill House;hasDesignElement;ceilings
+Bramshill House;hasDesignElement;decorative features
+Hardwick Hall;hasConstructionDate;17th century
+Hardwick Hall;hasDimensions;dimensions
+Hardwick Hall;hasDesignElement;carvings
+Hardwick Hall;hasDesignElement;chimneys
+Hardwick Hall;hasDesignElement;windows
+Hardwick Hall;hasDesignElement;ceilings
+Hardwick Hall;hasDesignElement;decorative features
+Stockton House;hasConstructionDate;17th century
+Stockton House;hasDimensions;dimensions
+Stockton House;hasDesignElement;carvings
+Stockton House;hasDesignElement;chimneys
+Stockton House;hasDesignElement;windows
+Stockton House;hasDesignElement;ceilings
+Stockton House;hasDesignElement;decorative features
+Hatfield House;hasDesignElement;carvings
+Hatfield House;hasDesignElement;chimneys
+Hatfield House;hasDesignElement;windows
+Hatfield House;hasDesignElement;ceilings
+Hatfield House;hasDesignElement;decorative features

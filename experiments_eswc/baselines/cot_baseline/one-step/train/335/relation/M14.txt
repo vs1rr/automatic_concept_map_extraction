@@ -1,0 +1,3 @@
+subject;predicate;object
+Pendle witches;executed on;18th August 1612
+participants;gratitude from;Pendle Witch Walk 2012

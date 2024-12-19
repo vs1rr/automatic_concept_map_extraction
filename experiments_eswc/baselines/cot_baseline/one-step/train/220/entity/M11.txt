@@ -1,0 +1,13 @@
+entity;surface
+British Empire;British Empire, the largest empire in history
+Earth;Earth's
+England;England's
+Queen Elizabeth I;Queen Elizabeth I
+North America;North America
+Caribbean;Caribbean
+Royal Navy;Royal Navy
+Asia;Asia
+Africa;Africa
+English language;English language
+parliamentary system;parliamentary system
+common law;common law

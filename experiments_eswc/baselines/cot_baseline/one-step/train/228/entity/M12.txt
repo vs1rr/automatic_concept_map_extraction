@@ -1,0 +1,7 @@
+entity;surface
+Convention;Convention of 1832, Convention of 1833
+Texas;Texas
+San Felipe de Austin;San Felipe de Austin
+Coahuila;Coahuila
+Stephen F. Austin;Stephen F. Austin
+Mexican government;Mexican government

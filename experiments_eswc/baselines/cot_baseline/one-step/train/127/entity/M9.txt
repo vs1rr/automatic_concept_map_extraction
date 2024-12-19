@@ -1,0 +1,21 @@
+entity;surface
+Castles;castles
+hill forts;hill forts
+Renaissance country houses;Renaissance country houses
+Historians;Historians
+castle;castle
+Latin;Latin
+castellum;castellum
+monarch;monarch
+nobleman;nobleman
+military;military
+administrative;administrative
+domestic;domestic
+Europe;Europe
+castle architecture;Castle architecture
+siege technology;siege technology
+monarchs;monarchs
+artillery forts;artillery forts
+artillery;artillery
+country houses;country houses
+18th century;18th century

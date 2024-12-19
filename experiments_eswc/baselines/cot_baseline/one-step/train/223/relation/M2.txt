@@ -1,0 +1,13 @@
+subject;predicate;object
+Byzantine Empire;ruled;Eastern and Southern Europe
+Emperor Constantine I;established;Constantinople
+Emperor Constantine I;embraced;Christianity
+Emperor Justinian I;belonged to;Justinian Dynasty
+Emperor Justinian I;expanded;territory
+Emperor Justinian I;implemented;reforms
+Emperor Justinian I;implemented;Justinian Code
+Byzantine Empire;split from;Catholic Church
+Byzantine Empire;engaged in;wars against Muslims
+Constantinople;fell to;Ottoman Empire
+Constantinople;known as;Istanbul
+Constantinople;was;center of art, culture, and power

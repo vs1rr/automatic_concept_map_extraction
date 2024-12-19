@@ -1,0 +1,12 @@
+subject;predicate;object
+Jim Bowie;signed;promissory note
+Heritage Auctions;held;Texana Grand Format Auction
+Texana Grand Format Auction;featured;historical documents
+historical documents;related to;Texas history
+items;signed by;Sam Houston
+items;signed by;Davy Crockett
+items;signed by;William Barret Travis
+auction;realized;total of $587,701
+auction;attracted;nearly 400 bidders
+bidders;eager to own;pieces of Texas history
+Texas history;influenced;state's creation

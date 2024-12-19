@@ -1,0 +1,23 @@
+subject;predicate;object
+Balkans;discusses;warfare
+Balkans;focuses on;dominance of cavalry
+Balkans;focuses on;use of bows
+Balkans;highlight conflicts between;Bulgars
+Balkans;highlight conflicts between;Slavs
+Balkans;highlight conflicts between;Avars
+Byzantine Empire;resist;invasions
+Byzantine Empire;employ;military tactics
+Byzantine Empire;employ;military strategies
+Byzantine Empire;establish;kingdoms
+Byzantine Empire;decline;kingdoms
+Byzantines;employ;military tactics
+Byzantines;employ;military strategies
+Slavs;employ;military tactics
+Slavs;employ;military strategies
+Bulgars;employ;military tactics
+Bulgars;employ;military strategies
+Magyars;employ;military tactics
+Magyars;employ;military strategies
+Bulgaria;establish;kingdom
+Serbia;establish;kingdom
+Croatia;establish;kingdom

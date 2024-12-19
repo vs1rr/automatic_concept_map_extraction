@@ -1,0 +1,3 @@
+subject;predicate;object
+Capon Chapel United Methodist Church;located in;Capon Bridge, West Virginia
+Capon Chapel United Methodist Church;contact number;304-856-2483

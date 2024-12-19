@@ -1,0 +1,6 @@
+subject;predicate;object
+Pendle witches;started on;18th August 1612
+Pendle witches;resulted in;9 convictions
+Pendle witches;resulted in;executions
+Pendle witches;resulted in;1 person
+1 person;was acquitted;Pendle witches

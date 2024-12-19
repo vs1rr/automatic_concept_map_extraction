@@ -1,0 +1,10 @@
+subject;predicate;object
+Pendle Witch trials;began on;18th August 1612
+Pendle Witch trials;involved;Lancashire women and two men
+twelve charged individuals;included;Alice Nutter
+Alice Nutter;was found;not guilty
+one charged individual;died in;prison
+remaining ten charged individuals;were executed by;hanging
+trials;are well-documented in;British history
+defendants;identified as;witches or healers practicing 'magic' for payment
+Pendle witches;represent;2% of all British witches tried for witchcraft during the period

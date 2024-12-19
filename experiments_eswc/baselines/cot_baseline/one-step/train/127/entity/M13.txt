@@ -1,0 +1,28 @@
+entity;surface
+castles;castles
+medieval Europe;medieval Europe
+tower houses;tower houses
+political;political
+economic;economic
+defensive purposes;defensive purposes
+structures;structures
+homes;homes
+defensive fortresses;defensive fortresses
+administrative centers;administrative centers
+kings;kings
+barons;barons
+wall paintings;wall paintings
+architectural elements;architectural elements
+symbols of status;symbols of status
+power;power
+England;England
+Scotland;Scotland
+Wales;Wales
+Ireland;Ireland
+France;France
+Italy;Italy
+Central Europe;Central Europe
+design;design
+purpose;purpose
+social;social
+political landscape;political landscape

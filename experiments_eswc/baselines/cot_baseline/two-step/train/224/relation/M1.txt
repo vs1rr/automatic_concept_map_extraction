@@ -1,0 +1,6 @@
+subject;predicate;object
+Gold Rush of 1849;sparked by;discovery of gold nuggets in the Sacramento Valley
+Gold Rush of 1849;led to;massive influx of prospectors to the California territory
+population;surged from;less than 1,000 to around 100,000
+James Wilson Marshall;finding at;Sutter's Mill in 1848
+$2 billion worth of precious metal;extracted during;peak of the Gold Rush in 1852

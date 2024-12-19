@@ -1,0 +1,7 @@
+entity;surface
+Borobudur Temple;Borobudur Temple
+Java Island;Java Island
+Indonesia;Indonesia
+#enjoy;#enjoy
+#happymoment;#happymoment
+#borobudur;#borobudur

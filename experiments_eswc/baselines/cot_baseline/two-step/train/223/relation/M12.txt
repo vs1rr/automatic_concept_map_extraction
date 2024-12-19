@@ -1,0 +1,17 @@
+subject;predicate;object
+Byzantine Empire;thrived for;over a thousand years
+Byzantine Empire;fell to;Ottoman Turks in 1453
+Byzantine Empire;was initially part of;Roman Empire
+Byzantine Empire;evolved into;powerful economic, cultural, and military force in Europe
+Byzantine Empire;adopted;Greek as the official language
+Byzantine Empire;established;Orthodox Christianity
+Byzantine Empire;reached its peak under;rulers like Justinian I
+Justinian I;expanded;territories
+Justinian I;built;iconic structures like the Hagia Sophia
+Byzantine Empire;weakened by;attacks by Persians, Slavs, and Muslims
+Byzantine Empire;weakened by;internal conflicts like Iconoclasm
+Byzantine Empire;strained relations with;the West
+Constantinople;was sacked in;1204
+Byzantine Empire;experienced;a gradual decline
+Byzantine Empire;culminated in;its fall in 1453
+Constantinople;was conquered by;Ottomans

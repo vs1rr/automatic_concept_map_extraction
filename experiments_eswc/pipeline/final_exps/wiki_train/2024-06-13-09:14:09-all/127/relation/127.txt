@@ -1,0 +1,35 @@
+Leeds Castle, instance of, castle
+Windsor, instance of, castles
+Windsor Castle, instance of, medieval castle
+Malbork Castle, country, Poland
+Malbork Castle, architectural style, Gothic architecture
+Scotland, shares border with, England
+Windsor, instance of, castle
+Wales, shares border with, Scotland
+English, diplomatic relation, Wales
+Rothenburg, instance of, castle
+Rothenburg, country, Germany
+gunpowder, instance of, weapons
+Pontefract Castle, located in the administrative territorial entity, England
+gunpowder, use, weapons
+Hunyad Castle, architectural style, Gothic architecture
+Cite de Carcassonne, instance of, castle
+Welsh uprisings, location, Wales
+England, shares border with, Scotland
+Caernarfon Castle, instance of, castle
+Windsor Castle, instance of, castle
+Wales, shares border with, England
+English supremacy in Wales, significant event, Welsh uprisings
+England, shares border with, Wales
+gunpowder, subclass of, weapons
+Bornholm, country, Denmark
+Tower of London, instance of, castles
+English supremacy, facet of, Wales
+Wales, diplomatic relation, English
+Tower of London, instance of, castle
+James of St. George, country of citizenship, English
+Edward, student of, James of St. George
+Scotland, shares border with, Wales
+Warwick, instance of, castles
+Pontefract Castle, instance of, medieval castle
+Warwick, instance of, castle

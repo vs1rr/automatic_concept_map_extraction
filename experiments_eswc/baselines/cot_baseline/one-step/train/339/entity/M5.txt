@@ -1,0 +1,13 @@
+entity;surface
+James Madison;James Madison
+Virginia Resolutions of 1798;Virginia Resolutions of 1798
+Alien and Sedition Laws;Alien and Sedition Laws
+Constitution of the United States;Constitution of the United States
+Union;Union
+federal government;federal government
+states;states
+Constitution;Constitution
+sovereign parties;sovereign parties
+judiciary;judiciary
+fundamental principles;fundamental principles
+sovereignty of the people;sovereignty of the people

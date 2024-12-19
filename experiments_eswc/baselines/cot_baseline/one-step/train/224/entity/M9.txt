@@ -1,0 +1,27 @@
+entity;surface
+Gold Rush;The Gold Rush
+California;California
+1848;1848
+1865;1865
+region;the region
+multicultural frontier;multicultural frontier
+immigrants;immigrants
+gold;gold
+influx;The influx
+gold seekers;gold seekers
+native population;native population
+American miners;American miners
+state government;the state government
+Elite Californios;Elite Californios
+power;power
+land;land
+American government;American government
+Chinese;Chinese
+African American immigrants;African American immigrants
+diverse landscape;diverse landscape
+discrimination;discrimination
+challenges;challenges
+equality;equality
+cross-cultural cooperation;instances of cross-cultural cooperation
+communication;communication
+society;diverse society

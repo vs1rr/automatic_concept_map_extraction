@@ -1,0 +1,9 @@
+subject;predicate;object
+Constantinople;marked as;significant turning point in history
+Constantinople;showcased;power of gunpowder in warfare
+Constantinople;triggered;various geopolitical shifts
+Greek scholars;contributed to;Renaissance
+fall of Constantinople;led to;preservation of eastern Christendom's doctrinal integrity
+fall of Constantinople;triggered;various geopolitical shifts
+fall of Constantinople;influencing;relationships between nations
+fall of Constantinople;shaping;course of history in the region

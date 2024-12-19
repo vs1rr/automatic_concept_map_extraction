@@ -1,0 +1,14 @@
+subject;predicate;object
+Bruce Castle Museum;is located in;London
+Bruce Castle Museum;is listed as;Grade I
+Bruce Castle Museum;showcases;local history collections
+Bruce Castle Museum;offers;archives for research
+William Compton;built;Bruce Castle Museum
+William Compton;was a member of;Henry VIII’s court
+Coleraine family;owned;Bruce Castle Museum
+Sir Rowland Hill;ran;progressive school for boys
+Sir Rowland Hill;reformed;British postal system
+progressive school;was run by;Sir Rowland Hill
+museum;is explored by;visitors
+museum;is open from;Wednesday to Sunday
+archives Search Room;requires;booking in advance

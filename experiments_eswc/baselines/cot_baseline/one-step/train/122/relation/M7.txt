@@ -1,0 +1,21 @@
+subject;predicate;object
+Bruce Castle;is located in;Tottenham
+Bruce Castle;is listed as;Grade I building
+Bruce Castle;dates back to;16th century
+Bruce Castle;was originally owned by;Sir William Compton
+Bruce Castle;was modified by;various owners
+Bruce Castle;was modified by;Rowland Hill
+Rowland Hill;invented;the penny post
+Bruce Castle;was saved from development in;19th century
+Bruce Castle;opened as;a museum
+Bruce Castle;showcases;history of London Borough of Haringey
+Park;is located in;Haringey
+Park;is Haringey's oldest
+Park;offers;recreational activities
+Park;offers;a glimpse into the estate's past
+Park;features;Great Oak tree
+Museum;hosts;educational programs
+Museum;hosts;family activities
+Museum;hosts;exhibitions
+Museum;hosts;local history talks
+Museum;is;a vibrant hub for the community

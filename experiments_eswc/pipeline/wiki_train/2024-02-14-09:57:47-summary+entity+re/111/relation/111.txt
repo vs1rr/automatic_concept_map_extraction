@@ -1,0 +1,100 @@
+Bruderhof, instance of, faith community
+tea room, offer homemade food and unique products, shop
+castle, has restaurant, restaurant
+sheds sheds<triplet> sheds sheds sheds sheds sheds sheds sheds sheds sheds sheds sheds sheds sheds sheds sheds sheds, sheds, sheds
+castle, time period, medieval life
+Robertsbridge, located in the administrative territorial entity, East Sussex
+Bodiam Castle, instance of, castles
+Easter Egg Trail, participant, Sir Edwards Fair
+moated castle, part of, medieval activities
+castle, maintained by, National Trust
+train station, located in the administrative territorial, Robertsbridge
+Bruderhof, owned by, Gray Nicolls
+Bodiam, maintained by, National Trust
+Robertsbridge, located in the administrative territorial, East Sussex
+pantry, has, basement
+castle, owned by, Dalyngrigge family
+Bodiam Castle, time period, medieval history
+Bodiam Castle, instance of, venue
+castles, field of, landscape archaeology
+Bodiam Castle, instance of, wedding venue
+castle, praises, lady of the castle
+pub, has local amenities, local amenities
+castle, use, restaurant
+Holy Grail, cast, Monty Python
+Sir Edward Dalyngrigge, residence, Sussex
+Bodiam Castle, use, castles beyond defense
+castle, field of, landscape archaeology
+inn, accommodation, bed & breakfast
+castle, located in the administrative territorial entity, London
+hoarding, uses, crossbows
+castle, is a popular destination, restaurant
+Monty Python, has featured, Holy Grail
+Matthew H. Johnson, educated at, Northwestern University
+London Charing Cross, instance of, station
+castle, surrounded by, moat
+hoarding, uses, crossbow
+inn, are bed, bed & breakfast
+castle, architect, Sir Edward Dalyngrigge
+fleet, is, decorations
+French prepared to invade England, start time, 1386
+Bodiam Castle, instance of, Castle
+Matthew H. Johnson, employer, Northwestern University
+Bodiam Castle, owned by, Sir Edward Dalyngrigge
+Easter egg hunt, part of, springtime talk
+inn, accommodation, bed
+Bodiam Castle, location, Hastings
+Bodiam Castle, instance of, sandcastle
+Loyola University, located in the administrative, New Orleans
+lady of the castle, praises, defenses
+Bodiam Castle, country, Britain
+Bodiam Castle, historic significance, picturesque setting
+Great Hall, has, living quarters
+Bodiam Castle, inception, 1385
+Cadbury Easter Egg Trail, participant, Sir Edwards Fair
+keep, has, quadrangular
+Bodiam, owned by, National Trust
+Angle Castle, located in the administrative territorial entity, Pembrokeshire
+Charing Cross station, located in the administrative territorial entity, London
+castles, occurred, sieges
+Bodiam Castle, owned by, Sir Edward Dallingridge
+blacksmith, creates, armor
+Bodiam Castle, heritage, Scheduled Monument
+pantry, has, storage
+Bodiam Castle, located in the administrative territorial, Hastings
+Bodiam Castle, wedding venue, wedding venue
+keep, has, chambers
+French prepared to invade England, point in time, 1386
+Great Hall, contains, living quarters
+keep, is built in, quadrangular
+tea room, item, shop
+Bodiam Castle, architect, Sir Edward Dalyngrigge
+Bodiam Castle, heritage designation, Scheduled Monument
+Dalyngrigge, residence, castle
+Sir Edward Dalyngrigge, place of birth, Sussex
+Bodiam Castle, located in the administrative territorial, East Sussex
+castle, located in the administrative territorial entity, East Sussex
+castle, located in the administrative territorial, London
+castles, significant, sieges
+moated, part of, castle
+castles, occurred at, sieges
+Bodiam Castle, located in the administrative territorial entity, Hastings
+fleet, is furnished with, decorations
+Bodiam Castle, instance, castle
+Bodiam Castle, instance of, castle
+castles, studied by, landscape archaeology
+pub, has local amenities, pubs
+Bodiam Castle, located in the administrative territorial entity, East Sussex
+Charing Cross station, located in the administrative territorial, London
+hoarding, contains, crossbows
+Holy Grail, cast member, Monty Python
+Bruderhof, owned by, Gray Nicolls cricket brand
+National Trust, inception, 1925
+Robertsbridge, has, train station
+Easter Egg Trail, event, Sir Edwards Fair
+pantry, has storage, storage
+fleet, was outfitted with, decorations
+tea room, item operated, shop
+castle, owned by, Dalyngrigge
+Affleck Castle, located in the administrative territorial entity, Angus
+Robertsbridge, has part, train station

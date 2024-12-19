@@ -1,0 +1,10 @@
+entity;surface
+British Empire;British Empire, the British Empire
+Earth;Earth
+1930s;1930s
+Order of the British Empire;Order of the British Empire
+UK;UK, the UK
+Ceylon;Ceylon
+Indian;Indian
+Captain Woodget;Captain Woodget
+Lord Grey;Lord Grey

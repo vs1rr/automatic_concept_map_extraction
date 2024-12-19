@@ -1,0 +1,13 @@
+subject;predicate;object
+Martin Miller;captured;haunting images
+Martin Miller;showcasing;uranium production plant
+Martin Miller;showcasing;plutonium reactor
+Manhattan Project;was developed in;uranium production plant
+Manhattan Project;was developed in;plutonium reactor
+uranium production plant;was part of;Manhattan Project
+plutonium reactor;was part of;Manhattan Project
+Manhattan Project;was initiated due to;concerns about Nazi Germany's similar efforts
+Manhattan Project;led to;detonation of the first atomic bomb in 1945
+photographs;depict;monumental achievements of the Manhattan Project
+photographs;highlighting;engineering and scientific feats
+photographs;acknowledging;regret for the destructive power unleashed into the world

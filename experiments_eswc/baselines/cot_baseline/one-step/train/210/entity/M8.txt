@@ -1,0 +1,18 @@
+entity;surface
+Ancient Egypt;Ancient Egypt
+Old Kingdom;Old Kingdom
+Middle Kingdom;Middle Kingdom
+New Kingdom;New Kingdom
+Western traditions;Western traditions
+Zoser;Zoser
+pyramids;first pyramids
+Middle Kingdom;Middle Kingdom
+Osiris;Osiris
+jewelry;intricate jewelry
+New Kingdom;New Kingdom
+Valley of the Kings;Valley of the Kings
+Akhenaton;Akhenaton
+monotheism;monotheism
+ancient Egypt;ancient Egypt
+modern beliefs;modern beliefs
+culture;culture

@@ -1,0 +1,14 @@
+subject;predicate;object
+Manhattan Project;initiated by;Albert Einstein
+Manhattan Project;organized by;President Roosevelt
+Manhattan Project;created in;June 1942
+Manhattan Project;carried out in;Los Alamos
+Manhattan Project;culminated in;detonation of the first atomic bomb at Trinity
+atomic bomb;dropped over;Hiroshima
+atomic bomb;dropped over;Nagasaki
+Hiroshima;affected by;dropping of "Little Boy"
+Nagasaki;affected by;dropping of "Fat Man"
+Japan;affected by;dropping of "Little Boy" and "Fat Man"
+Japan;surrendered on;August 15, 1945
+Manhattan Project;marked the beginning of;the nuclear age
+Manhattan Project;introduced;the most destructive weapon known to mankind

@@ -1,0 +1,99 @@
+Old Pine Church, instance of, church
+Old Pine Church, architectural style, log construction
+Old Pine Church, located in the administrative territorial entity, Purgitsville community
+American Civil War, participant, Confederacy
+Old Pine Church, architectural style, log building
+Hampshire County, located in or next to body of water, Mill Creek
+State Historic Preservation Office, parent organization, West Virginia Division of Culture and History
+Alexander Messer, conflict, mine wars
+Staats Building, located in the administrative territorial entity, Charleston
+Old Pine Church, located in the administrative territorial entity, Beaver Run
+Hampshire County Historic Landmarks Commission, applies to jurisdiction, Hampshire County
+Potomac Chapel, located in the administrative territorial entity, Hampshire County
+Ohio, shares border with, West Virginia
+Hampshire County Historic Landmarks Commission, applies to jurisdiction, Hampshire County Commission
+upright piano, subclass of, upright
+Winnsboro, located in the administrative territorial entity, Fairfield County, South Carolina
+The Trough, located in or next to body of water, South Branch Potomac River
+Old Pine Church, architectural style, religious architecture
+Beaver Run congregation, located in the administrative territorial entity, Hampshire County
+Union state, shares border with, Confederate
+Franklin County, Virginia, inception, 1782
+Potomac Highlands, located in the administrative territorial entity, Hampshire County
+West Virginia Division of Culture and History, subsidiary, State Historic Preservation Office
+West Virginia, shares border with, Ohio
+West Virginia, shares border with, Pennsylvania
+Old Pine Church, religion, the Brethren
+chicken wire, subclass of, fence
+Charleston Gazette, located in the administrative territorial entity, Jefferson County
+West Virginia, instance of, state
+Beaver Run congregation, religion, Brethren
+American Civil War, participant, Union
+Virginia, contains administrative territorial entity, Franklin County
+Sesquicentennial marker, facet of, sesquicentennial
+First church in wildwoods Capon Chapel, located in the administrative territorial entity, West Virginia
+Union, shares border with, Confederate
+Confederacy, ethnic group, African Americans
+Old Pine Church, instance of, church complexes
+Potomac Chapel, location, Potomac Highlands
+Mill Creek, located in the administrative territorial entity, Hampshire County
+Staats Building, location, Charleston
+Three Churches, located in the administrative territorial entity, Hampshire County, West Virginia
+White Pine Church of the Brethren, inception, 1912
+Lord Fairfax, candidacy in election, 1855
+Old Pine Church, location, Purgitsville
+Old Pine Church, located in the administrative territorial entity, Purgitsville
+Hampshire County, located in the administrative territorial entity, West Virginia
+Sesquicentennial, instance of, sesquicentennial marker
+Old Pine Church, instance of, historic properties
+Trough, part of, South Branch Potomac River
+American Civil War, participant, African Americans
+Helmond, country, Netherlands
+Confederate, shares border with, Union state
+Port Henry, located in the administrative territorial entity, Essex County
+Ohio SHPO, different from, West Virginia SHPO
+cemetery, has part, chicken wire fence
+Old Pine Church, main subject, slavery
+Cemetery Old Pine Church, instance of, cemetery
+Rotterdam, country, Netherlands
+weatherboard, subclass of, wood
+West Virginia, country, US
+Brethren Conference Minutes, part of, Brethren Conference
+Pennsylvania, shares border with, West Virginia
+Mount Bethel Church, architect, Piet Blom
+Old Pine Church, religion, Brethren
+US, contains administrative territorial entity, West Virginia
+Lord Fairfax, date of death, 1855
+Old Pine Church, instance of, cemetery
+Old Pine Church, has part, cemetery
+Capon Bridge, country, US
+Southern Methodist Episcopal Church, part of, United Methodist Church
+West Virginia, contains administrative territorial entity, the state’s boundaries
+Confederate, shares border with, Union
+the state’s boundaries, located in the administrative territorial entity, West Virginia
+Port Henry, located in the administrative territorial entity, Essex County, New York
+United Methodist Church, has part, Southern Methodist Episcopal Church
+Trough, located in or next to body of water, South Branch Potomac River
+Capon Bridge, located in the administrative territorial entity, West Virginia
+Old Pine Church, heritage designation, National Register of Historic Places
+White Pine Church of the Brethren, inception, 1907
+upright piano, part of, church
+White Pine Church of the Brethren, inception, 1878
+Mill Creek valley, located in the administrative territorial entity, Hampshire County
+Brethren, instance of, denomination
+West Virginia, contains administrative territorial entity, Hampshire County
+Old Pine Church, instance of, church complex
+Nicholas congregation of Brethren, inception, 1870
+West Virginia SHPO, different from, Ohio SHPO
+Old Pine Church, instance of, log construction
+Old Pine Church, heritage designation, historic properties
+United Methodist Church, follows, Southern Methodist Episcopal Church
+upright piano, location, church
+weatherboards, subclass of, wood
+Beaver Run, located in the administrative territorial entity, Hampshire County
+weatherboard, subclass of, wood floor
+Staats Building, headquarters location, Charleston
+1782 meeting of the Brethren, point in time, 1782
+Romney, located in the administrative territorial entity, Hampshire County
+Romney, located in the administrative territorial entity, Hampshire County, West Virginia
+Franklin County, located in the administrative territorial entity, Virginia

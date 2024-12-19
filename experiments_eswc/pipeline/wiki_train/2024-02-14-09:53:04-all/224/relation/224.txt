@@ -1,0 +1,10 @@
+Gold Rush of 1849, located in the administrative territorial entity, California
+California Gold Rush, participant, James W. Marshall
+California Gold Rush, start time, 1848
+Panama Railway, located in the administrative territorial entity, California
+Gold Rush of 1849, point in time, 1849
+California Gold Rush, location, Gold Country
+California, instance of, statehood
+Panama Railway, located in the administrative territorial, California
+California Gold Rush, named after, James W. Marshall
+Gold Rush, located in the administrative territorial entity, California

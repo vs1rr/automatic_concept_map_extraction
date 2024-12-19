@@ -1,0 +1,19 @@
+entity;surface
+atomic bomb;atomic bomb, atomic bombs
+World War 2;World War 2
+Manhattan Project;Manhattan Project
+scientific breakthroughs;scientific breakthroughs
+nuclear physics;nuclear physics
+chain reaction concept;chain reaction concept
+scientists;scientists
+world leaders;world leaders
+Leslie Groves;Leslie Groves
+J. Robert Oppenheimer;J. Robert Oppenheimer
+three atomic bombs;three atomic bombs
+live tests;live tests
+Japanese cities;Japanese cities
+Hiroshima;Hiroshima
+Nagasaki;Nagasaki
+consequences;consequences
+nuclear arms race;nuclear arms race
+destructive weapons;destructive weapons

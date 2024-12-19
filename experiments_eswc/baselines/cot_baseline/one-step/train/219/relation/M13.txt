@@ -1,0 +1,11 @@
+subject;predicate;object
+Mark Oliphant;born in;Australia
+Mark Oliphant;made significant contributions to;nuclear physics
+Mark Oliphant;developing;radar technology
+Mark Oliphant;involved in;Manhattan Project
+Mark Oliphant;advocate against;nuclear weapons
+Mark Oliphant;emphasizing;peaceful use of atomic energy
+Mark Oliphant;joined;global discussions on nuclear disarmament
+Mark Oliphant;establishment of;scientific institutions in Australia
+Mark Oliphant;passed away in;2000
+Mark Oliphant;left;a lasting impact on the scientific community

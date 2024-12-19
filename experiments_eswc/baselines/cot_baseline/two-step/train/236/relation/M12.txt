@@ -1,0 +1,2 @@
+subject;predicate;object
+Peter I;was declared emperor of;Brazil

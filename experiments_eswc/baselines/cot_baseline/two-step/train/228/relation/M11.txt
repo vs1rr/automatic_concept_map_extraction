@@ -1,0 +1,16 @@
+subject;predicate;object
+San Felipe de Austin;founded in;1824
+San Felipe de Austin;served as;unofficial capital
+San Felipe de Austin;became;a significant urban center
+Stephen F. Austin;founded;San Felipe de Austin
+San Felipe de Austin;had;notable residents
+San Felipe de Austin;had;establishments
+San Felipe de Austin;played a crucial role in;events leading up to the Texas Revolution
+San Felipe de Austin;hosting;important conventions
+San Felipe de Austin;serving as;provisional government's capital
+San Felipe de Austin;burned down in;1836
+Mexican army;capturing;San Felipe
+San Felipe;never fully recovered;despite efforts to rebuild
+San Felipe;lost;its status as the county seat
+original townsite;preserved as;historical site
+original townsite;commemorating;significance in Texas history

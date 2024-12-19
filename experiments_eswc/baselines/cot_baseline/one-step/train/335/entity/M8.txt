@@ -1,0 +1,4 @@
+entity;surface
+Location;Lancashire, England, Pendle Hill
+Event;400th anniversary of the Pendle Witch Trials, Halloween festivities, big party
+Concept;Pendle Witch Trials, haunted spots, witches

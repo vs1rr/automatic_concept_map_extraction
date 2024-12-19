@@ -1,0 +1,12 @@
+subject;predicate;object
+Convention of 1833;took place in;San Felipe
+Convention of 1833;had;more aggressive approach
+Convention of 1833;had;quarter of the delegates from the previous gathering
+William H. Wharton;presided over;Convention of 1833
+Sam Houston;emerged as;new leader
+main agenda;remained;similar
+main agenda;included;drafting a constitution
+constitution;to be presented to;Mexican congress
+Stephen F. Austin;was imprisoned without charges;later
+Stephen F. Austin;returned to;Texas
+Stephen F. Austin;returned just before;Texas Revolution

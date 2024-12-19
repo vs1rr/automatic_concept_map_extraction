@@ -1,0 +1,10 @@
+entity;surface
+Alien & Sedition Acts;Alien & Sedition Acts
+1798;1798
+James Madison;James Madison, Madison
+Constitution;Constitution
+Bill of Rights;Bill of Rights
+Sedition Act;Sedition Act
+British;British
+American;American
+France;France

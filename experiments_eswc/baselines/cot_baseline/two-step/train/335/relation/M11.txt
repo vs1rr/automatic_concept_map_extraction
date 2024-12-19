@@ -1,0 +1,12 @@
+subject;predicate;object
+Alison Device;encountered;peddler
+Alison Device;led to;accusations and arrests
+Pendle Witches;began in;Pendle Forest
+Pendle Witches;documented in;"The Wonderfull Discoverie of Witches in the Countie of Lancaster" by Thomas Potts
+Pendle Witches;highlighted;political and religious tensions of the time
+accused;convicted and executed;resulted in
+accused;committed;crimes such as laming, causing madness, and practicing witchcraft
+accused;including;two men and an elderly woman
+accused;lost lives to;a crime that no longer exists
+Thomas Potts;documented;events
+Thomas Potts;shedding light on;a dark chapter in history

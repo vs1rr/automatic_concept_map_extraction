@@ -1,0 +1,15 @@
+subject;predicate;object
+Brougham Castle;built in;1203
+Brougham Castle;located in;Cumbria
+Brougham Castle;featured;stone keep
+Brougham Castle;featured;timber palisade
+Brougham Castle;played a crucial role in;Scottish wars
+Brougham Castle;hosted;Robert Clifford
+Brougham Castle;hosted;King Edward I
+GCSE historians;went on;History trip
+GCSE historians;showed;exemplary attitude
+GCSE historians;showed;exemplary behavior
+GCSE historians;were preparing for;Controlled Assessments
+Ms. Lomas;commended;GCSE historians
+Ms. Lomas;praised;hard work
+Ms. Lomas;praised;pleasant company

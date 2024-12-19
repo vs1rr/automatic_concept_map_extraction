@@ -1,0 +1,10 @@
+subject;predicate;object
+Capon Chapel;located_in;West Virginia
+Capon Chapel;used_by;Baptists
+Capon Chapel;used_by;Methodist church
+Capon Chapel;used_by;United Methodist Church
+Capon Chapel;cemetery_contains;Civil War veterans
+Capon Chapel;cemetery_contains;African Americans
+Capon Chapel;added_to;National Register of Historic Places
+Capon Chapel;recognized_for;rural religious architecture
+Capon Chapel;recognized_for;significance as a rural church in Hampshire County

@@ -1,0 +1,28 @@
+Russia, instance of, superpowers
+North America, has part, Caribbean
+British Empire, instance of, empire in history
+United States, diplomatic relation, Russia
+East India Company, country, British Empire
+British Empire, dissolved, abolished or demolished, 1982
+Royal Navy, operating area, Empire
+British Empire, followed by, Commonwealth of Nations
+India, shares border with, Africa
+British Empire, dissolved, abolished or demolished date, 1982
+East India Company, founded by, British Empire
+British Empire, instance of, empire
+British Empire, replaced by, Commonwealth of Nations
+British Empire, country, United Kingdom
+Russia, shares, United States
+Royal Navy, country, Empire
+India, continent, Asia
+British Overseas Territories, replaces, Commonwealth Realms
+Caribbean, part of, North America
+handover of Hong Kong to China, point in time, 1982
+East India Company, part of, British Empire
+British Empire, part of, Commonwealth of Nations
+British Empire, member of, Commonwealth of Nations
+India, continent, Africa
+Commonwealth Realms, replaced by, British Overseas Territories
+Caribbean, continent, North America
+Royal Navy, country, Empire's
+Commonwealth of Nations, replaces, British Empire

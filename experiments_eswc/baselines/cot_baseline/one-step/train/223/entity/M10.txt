@@ -1,0 +1,12 @@
+entity;surface
+Emperor Justinian I;Emperor Justinian I, Justinian, Justinian's
+482 CE;482 CE
+Africa;Africa
+Italy;Italy
+Hagia Sophia;Hagia Sophia
+Codex Iustinianus;Codex Iustinianus
+Justin I;Justin I
+Goths;Goths
+Gothic War;Gothic War
+Justinianic Plague;Justinianic Plague
+Procopius;Procopius

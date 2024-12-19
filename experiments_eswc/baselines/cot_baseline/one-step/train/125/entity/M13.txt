@@ -1,0 +1,8 @@
+entity;surface
+Files;"files"
+Built in Virginia in 1852;"Built in Virginia in 1852"
+1850s architecture in Virginia;"1850s architecture in Virginia"
+Buildings in Virginia by year of completion;"Buildings in Virginia by year of completion"
+Capon Chapel;"Capon Chapel"
+Chain Bridge;"Chain Bridge"
+Houses built in Virginia in 1852;"Houses built in Virginia in 1852"

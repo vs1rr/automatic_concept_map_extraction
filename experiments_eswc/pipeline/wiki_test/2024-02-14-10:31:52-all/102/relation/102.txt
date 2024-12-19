@@ -1,0 +1,27 @@
+Dome of the Rock, located in the administrative territorial entity, Jerusalem
+Arauna, owned by, Jebusite
+First Temple, located in the administrative territorial entity, Jerusalem
+Herod, residence, temple platform
+Temple Mount, located in the administrative territorial entity, Jerusalem
+Temple, located in the administrative, Jerusalem
+Arauna, located on terrain feature, Jebusite
+conquered, participant, Roman Republic
+Temple Mount area, located in the administrative territorial entity, Jerusalem
+First Temple period, located in the administrative territorial entity, Jerusalem
+Dome of the Rock, part of, First Temple
+Arauna, has part, Jebusite
+Hasmonean dynasty, replaced by, Roman Republic
+Dome of the Rock, located in the administrative territorial, Jerusalem
+Maccabean Revolt, participant, Hasmonean Kingdom
+near-sacrifice of Isaac, location, Jerusalem
+Maccabean Revolt, replaced by, Hasmonean Kingdom
+Temple, located in the administrative territorial entity, Jerusalem
+Maccabean Revolt, followed by, Hasmonean Kingdom
+Herod's temple platform, instance of, temple
+Dome of the Rock, occupant, First Temple
+near-sacrifice of Isaac, location, Mountain of Yahweh
+Herod's temple platform, owned by, Muslim Supreme Council
+Holy of Holies, located on terrain feature, Ark of the Covenant
+Acra, located in the administrative territorial entity, Jerusalem
+Holy of Holies, has part, Ark of the Covenant
+Holy of Holies, contains, Ark of the Covenant

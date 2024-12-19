@@ -1,0 +1,21 @@
+entity;surface
+Manhattan Project;The Manhattan Project
+World War II;World War II
+U.S.;U.S.
+atomic bomb;atomic bomb
+Germany;Germany
+Japan;Japan
+Albert Einstein;Albert Einstein
+President Roosevelt;President Roosevelt
+June 1942;June 1942
+Los Alamos;Los Alamos
+Trinity;Trinity
+July 16, 1945;July 16, 1945
+Little Boy;Little Boy
+Fat Man;Fat Man
+Hiroshima;Hiroshima
+Nagasaki;Nagasaki
+Japan's;Japan's
+August 15, 1945;August 15, 1945
+nuclear age;nuclear age
+weapon;weapon

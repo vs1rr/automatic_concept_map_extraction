@@ -1,0 +1,14 @@
+subject;predicate;object
+castles;originated in;Co. Tipperary
+castles;replacing;earlier earth and timber structures
+castles;requiring;many workers and materials
+castles;served as;offensive and defensive bases
+castles;served as;centers of administration
+castles;served as;symbols of power
+castles;were strategically located near;essential features
+castles;were used by;Norman invaders
+gunpowder;introduction of;14th century
+artillery;became more powerful in;15th century
+castles;were replaced by;artillery forts
+habitation;shifted to;more comfortable houses
+houses;with limited;fortifications

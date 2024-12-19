@@ -1,0 +1,7 @@
+subject;predicate;object
+Lancashire;is located in;England
+Pendle Witch Trials;took place in;1612
+Pendle Hill;is location for;big party
+Pendle Hill;is location for;Halloween festivities
+Pendle Hill;is location for;haunted spots
+witches;will be watching;big party

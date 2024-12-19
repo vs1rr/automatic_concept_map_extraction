@@ -1,0 +1,13 @@
+subject;predicate;object
+Byzantine Empire;faced threats;Bulgarian Empire
+Byzantine Empire;faced threats;Serbian Empire
+Byzantine Empire;faced threats;Turks
+Byzantines;converted to;Catholicism
+Byzantines;reluctantly converted to;Catholicism
+Byzantines;received aid against;Turks
+Constantinople;fell to;Ottoman Turks
+Constantinople;marked the end of;Byzantine Empire
+Ottoman Turks;conquered;Constantinople
+Ottoman Turks;conquered;Byzantine Empire
+Byzantine Empire;marked the end of;Byzantine Empire
+Byzantine Empire;marked the rise of;Ottoman Empire

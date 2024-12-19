@@ -1,0 +1,20 @@
+entity;surface
+castles;castles,castles
+world;world
+Europe;Europe
+lords;local lords
+nobles;nobles
+territories;territories
+military fortifications;military fortifications
+status symbols;status symbols
+administrative centers;administrative centers
+wealth;wealth
+grandeur;grandeur
+tourist attractions;popular tourist attractions
+visitors;range of visitors
+families;families
+historians;historians
+list;vast list
+worldwide;worldwide
+interesting;most interesting
+famous ones;famous ones

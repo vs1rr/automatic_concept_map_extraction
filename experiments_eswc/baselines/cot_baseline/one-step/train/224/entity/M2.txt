@@ -1,0 +1,13 @@
+entity;surface
+California;California
+Gold Rush;California Gold Rush
+1848;1848
+Sutter's Lumber Mill;Sutter's Lumber Mill
+Coloma;Coloma
+300,000;300,000
+forty-niners;forty-niners
+United States;United States
+$80 million;$80 million
+1852;1852
+Mormon Island;Mormon Island
+Bidwell's Bar;Bidwell's Bar

@@ -1,0 +1,7 @@
+subject;predicate;object
+University of Birmingham;paved the way for;invention of the nuclear bomb
+Rudolf Peierls;published;groundbreaking document
+Rudolf Peierls;calculated;super bomb feasibility
+super bomb;was feasible;leading to initiation of the Manhattan Project
+Manhattan Project;was initiated by;calculations
+Manhattan Project;changed the course of;war and the world

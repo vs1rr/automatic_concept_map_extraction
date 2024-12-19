@@ -1,0 +1,21 @@
+entity;surface
+Constantine the Great;Constantine the Great
+Roman Empire;Roman Empire
+Christianity;Christianity
+Visigoths;Visigoths
+Alaric;Alaric
+Rome;Rome
+C.E.;410 C.E.,476 C.E.
+invasions;invasions
+traditions;Roman traditions
+authority;Roman authority
+empire;empire
+eastern half;eastern half
+western half;western half
+Economic issues;Economic issues
+trade deficits;trade deficits
+military problems;military problems
+Germanic tribes;Germanic tribes
+Vandals;Vandals
+Franks;Franks
+collapse;collapse

@@ -1,0 +1,6 @@
+entity;surface
+San Felipe de Austin;San Felipe de Austin
+Stephen F. Austin;Stephen F. Austin
+Texas;Texas
+Texas Gazette;Texas Gazette
+Runaway Scrape;Runaway Scrape

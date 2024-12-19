@@ -1,0 +1,14 @@
+subject;predicate;object
+"The Late Lancashire Witches";discusses;historical play
+historical play;has unique features;cultural and theatrical study
+play;described in;contemporary theatre review
+play;emphasizes;audience response
+play;explores;themes of gender dynamics
+play;explores;themes of class warfare
+play;explores;themes of inversion of traditional roles
+play;portrays;witchcraft events in Lancashire
+play;explores;themes of sexuality
+play;explores;themes of bestiality
+play;depicts;male control reasserted over female disorder
+play;portrays;themes of hospitality
+play;portrays;social dynamics

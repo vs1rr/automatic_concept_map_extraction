@@ -1,0 +1,11 @@
+subject;predicate;object
+Indonesian police;heightened security;Borobudur Temple
+Islamic State supporters;made threat;Borobudur Temple
+threat;posted on;August 15
+threat;warned of;destruction
+Islamic militants;planned;temple's destruction
+security measures;include;increased personnel
+security measures;include;cooperation
+security measures;include;Indonesian Military
+Indonesian Military;safeguarding;UNESCO World Heritage Site
+temple;previously bombed in;1985

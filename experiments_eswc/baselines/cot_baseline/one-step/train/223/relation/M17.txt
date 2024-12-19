@@ -1,0 +1,11 @@
+subject;predicate;object
+Manuel Komnenos;played a role in;fall of the Byzantine Empire
+Komnenian restoration;was;a failure
+Byzantine Empire;struggled in;defending its territories
+Byzantine Empire;struggled in;Anatolia
+Byzantine Empire;struggled against;Seljuk Turks
+Komnenian emperors;debated on;effectiveness of strategies
+Byzantine Empire;importance of;controlling Asia Minor
+theme system;had an impact on;empire's military structure
+Byzantine Empire;had;expansionist policies
+Byzantine Empire;was;a state

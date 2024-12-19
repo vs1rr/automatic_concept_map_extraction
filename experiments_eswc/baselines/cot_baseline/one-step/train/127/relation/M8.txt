@@ -1,0 +1,17 @@
+subject;predicate;object
+castles;span over;thousand years
+castles;play a crucial role in;European history
+castles;play a crucial role in;warfare
+castles;play a crucial role in;culture
+castles;stand as guardians of;history
+castles;evolve from;simple wooden forts
+castles;evolve to;stone structures
+castles;be driven by;advances in technology
+castles;be driven by;warfare
+castles;be driven by;fashion
+castles;inspire;countless artists
+castles;become iconic symbols of;medieval architecture
+castles;repurpose as;high-class residences
+castles;reflect;changing times
+castles;enrich;modern culture
+castles;captivate;people around the world

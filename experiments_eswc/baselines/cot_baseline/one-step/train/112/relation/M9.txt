@@ -1,0 +1,12 @@
+subject;predicate;object
+Book of Kells;is made of;calf-skin
+Book of Kells;is colored with;natural dyes
+symbols;represent;Apostles
+symbols;actually symbolize;Twelve Tribes of Israel
+Irish people;are believed to be descendants of;Tribe of Dan
+Tribe of Dan;migrated to;Ireland
+Book of Kells;references;four tribal standards
+four tribal standards;are mentioned in;Apocalypse/Revelation
+four tribal standards;are linked to;tribes of Israel
+emblems;are seen as a representation of;tribes to whom the Gospels were to be preached
+Irish;are descendants of;Israelites

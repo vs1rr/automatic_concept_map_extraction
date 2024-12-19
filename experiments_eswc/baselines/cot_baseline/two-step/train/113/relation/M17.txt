@@ -1,0 +1,13 @@
+subject;predicate;object
+Borobudur Temple Compounds;is a;renowned Buddhist monument
+Borobudur Temple Compounds;is located in;central Java, Indonesia
+Borobudur Temple Compounds;dates back to;8th and 9th centuries
+temple;features;intricate decorations
+temple;has;72 openwork stupas
+stupas;have;Buddha statues
+structure;symbolizes;Buddhist cosmology
+structure;symbolizes;journey to Nirvana
+site;represents;blend of ancestor worship and Buddhist beliefs
+challenges;persist;tourism impact and stone deterioration
+property;is protected under;Indonesian cultural heritage laws
+management efforts;aim to;preserve authenticity and address potential threats

@@ -1,0 +1,15 @@
+subject;predicate;object
+Jacobean architecture;blend of;Flemish, French, and Italian Renaissance influences
+Jacobean architecture;featured;jewelled strapwork
+Jacobean architecture;featured;grotesque ornamentation
+Jacobean architecture;featured;emblems
+Jacobean architecture;featured;herms
+Jacobean architecture;featured;obelisks
+Jacobean architecture;incorporated;Gothic elements
+Jacobean architecture;favored;curved and Dutch gables
+Jacobean architecture;examples include;Hatfield House
+Jacobean architecture;examples include;Bramshill
+Jacobean architecture;examples include;Audley End
+Inigo Jones;style stood apart from;traditional Jacobean architecture
+revival in the 19th century;combined;Jacobean and Queen Anne styles
+revival in the 19th century;resulted in;unique structures like R. N. Shaw's New Zealand Chambers in London

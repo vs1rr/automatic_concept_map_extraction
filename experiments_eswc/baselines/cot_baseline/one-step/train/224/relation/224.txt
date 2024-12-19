@@ -1,0 +1,9 @@
+subject;predicate;object
+California;entered;United States
+California;discovery by;James W. Marshall
+Marshall's discovery;sparked;frenzy
+frenzy;attracted;significant portion of the population
+Gold Rush;had lasting impact on;California's demographics
+Gold Rush;drew in;tens of thousands of people from Latin America
+San Francisco;named for;prospectors of the Gold Rush
+San Francisco;became;hub for those seeking their fortunes in gold

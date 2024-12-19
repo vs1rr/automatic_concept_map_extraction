@@ -1,0 +1,7 @@
+subject;predicate;object
+James W. Marshall;discovered;gold
+gold;was discovered by;James W. Marshall
+gold;was discovered at;Sutter's Mill
+Sutter's Mill;is located in;Coloma
+Coloma;is in;California
+California;is in;USA

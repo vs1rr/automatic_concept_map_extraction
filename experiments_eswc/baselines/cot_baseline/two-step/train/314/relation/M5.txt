@@ -1,0 +1,11 @@
+subject;predicate;object
+CSI effect;refers to;public's unrealistic perception of forensic science's effectiveness
+CSI effect;influenced by;crime scene TV dramas like CSI
+TV shows;have raised;juror expectations for forensic evidence
+TV shows;altered;prosecutorial behavior
+TV shows;portrayed;forensic scientists as infallible
+TV shows;aim to;entertain
+TV shows;do not necessarily expect;real-life justice to be as swift as on screen
+viewers;can differentiate between;fiction and reality
+viewers;understanding that;real forensic science differs from what is shown on TV
+viewers;do not necessarily expect;real-life justice to be as swift as on screen

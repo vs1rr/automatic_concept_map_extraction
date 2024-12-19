@@ -1,0 +1,14 @@
+subject;predicate;object
+Brough Castle;located in;Brough
+Brough Castle;dating back to;1090
+Brough Castle;built on;remains of Roman fort called Verteris
+William Rufus;constructed;Brough Castle
+castle;defend against;Scots
+Clifford family;added;significant structures to Brough Castle
+fire;left;Brough Castle in ruins
+Lady Anne Clifford;initiated;restoration works
+castle;fell into;disrepair
+Ministry of Works;taken over;Brough Castle
+Brough Castle;maintained by;English Heritage
+Visitors;explore;Brough Castle
+location;accessible by;road, train, bus

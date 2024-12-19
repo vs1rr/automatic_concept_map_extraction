@@ -1,0 +1,12 @@
+subject;predicate;object
+Pedro I;played crucial role;shaping Brazil's history in the 19th century
+Pedro II;played crucial role;shaping Brazil's history in the 19th century
+Napoleon's conquests;led to;Portuguese royal court fleeing to Rio de Janeiro in 1808
+Dom João VI's stay in Brazil;brought;European-style institutions to the city
+Pedro I;declaration of independence from;Portugal in 1822
+Pedro I;emphasizing;Brazil's independence and unique history
+Debret's artwork;captures;the grandeur of the events
+King João VI and Emperor Pedro I's portraits;reflect;their political positions
+Debret's depictions of Rio de Janeiro;offer insights into;the city's economy and social structure
+Princess Leopoldine's arrival;showcases;the monarchy's importance and the support it received from Brazilian elites
+Pedro II's assumption of leadership;showcases;the monarchy's importance and the support it received from Brazilian elites

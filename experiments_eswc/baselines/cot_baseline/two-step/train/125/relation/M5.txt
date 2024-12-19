@@ -1,0 +1,11 @@
+subject;predicate;object
+Capon Bridge United Methodist Charge;provides information;upcoming events
+Capon Bridge United Methodist Charge;provides information;food pantry
+Capon Bridge United Methodist Charge;provides information;clothing closet
+Heather Rogers;is;Certified Lay Minister
+Louise Link;was honored for;50 years of service
+Jane Arnold;participated in;mission team in Kenya
+Pastor Alannah Mc Guinn;contact information is provided;304-856-2483
+Pastor Alannah Mc Guinn;contact information is provided;Capon Bridge
+John Wesley;quote by;John Wesley
+cookbooks;available for;gift ideas

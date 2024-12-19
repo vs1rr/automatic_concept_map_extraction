@@ -1,0 +1,12 @@
+subject;predicate;object
+Brougham Castle;located near;Penrith
+Brougham Castle;originally built in;13th century
+Brougham Castle;built by;Norman family of Robert de Vieuxpont
+Brougham Castle;saw enhancements including;stone walls and a gatehouse
+Brougham Castle;taken ownership by;Clifford family
+Clifford family;played a significant role in restoration of;Brougham Castle
+Brougham Castle;fell into;disrepair
+Brougham Castle;remains;a picturesque ruin
+Brougham Castle;inspiring;art and literature
+Brougham Castle;maintained by;English Heritage
+Brougham Castle;offers visitors;an informative exhibition and a glimpse into its rich history

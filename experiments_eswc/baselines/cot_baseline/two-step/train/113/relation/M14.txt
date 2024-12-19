@@ -1,0 +1,11 @@
+subject;predicate;object
+Borobudur;is located in;Central Java, Indonesia
+Borobudur;is dated from;8th century
+Borobudur;is;a UNESCO World Heritage Site
+construction of Borobudur;took;75 years
+construction of Borobudur;was completed in;825 AD
+site;was rediscovered by;Thomas Stamford Raffles
+restoration efforts;have been ongoing since;19th century
+Borobudur;is;a major international tourist attraction
+Borobudur;was affected by;2010 eruption of Mount Merapi
+2010 eruption of Mount Merapi;led to;a restoration program funded by UNESCO

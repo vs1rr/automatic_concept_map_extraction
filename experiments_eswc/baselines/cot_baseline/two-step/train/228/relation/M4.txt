@@ -1,0 +1,14 @@
+subject;predicate;object
+Convention of 1833;aimed to address;various issues
+Convention of 1833;held in;San Felipe
+Convention of 1833;included;repealing anti-immigration laws
+Convention of 1833;included;improving Indian defense
+Convention of 1833;included;proposing a constitution for Texas
+Delegates;led by;William H. Wharton
+Delegates;included;Sam Houston
+Delegates;sought;statehood
+Delegates;presented;constitution
+William H. Wharton;was tasked with;preparing a memorial to the Mexican government
+convention;concluded on;April 13
+Stephen F. Austin;traveled to;Mexico
+Stephen F. Austin;presented;petitions

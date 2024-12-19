@@ -1,0 +1,12 @@
+entity;surface
+Britain;Britain
+Pendle Hill hangings;Pendle Hill hangings
+1612;1612
+witch execution;witch execution
+Wales;Wales
+1594;1594
+witch persecution;witch persecution
+Eleanor Cobham;Eleanor Cobham
+Duchess of Gloucester;Duchess of Gloucester
+King James VI;King James VI
+witchcraft cases;witchcraft cases

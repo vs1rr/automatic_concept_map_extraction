@@ -1,0 +1,20 @@
+entity;surface
+CSI effect;CSI effect
+legal decisions;legal decisions
+popular crime television shows;popular crime television shows
+Crime Scene Investigations;Crime Scene Investigations, CSI
+forensic evidence;forensic evidence
+jurors;jurors
+unrealistic expectations;unrealistic expectations
+misplaced trust;misplaced trust
+forensic science;forensic science
+studies;studies
+US;US
+Australia;Australia
+relationship;relationship
+jury verdicts;jury verdicts
+fantasy;fantasy
+reality;reality
+evidence;evidence
+distorted verdicts;distorted verdicts
+court procedures;court procedures

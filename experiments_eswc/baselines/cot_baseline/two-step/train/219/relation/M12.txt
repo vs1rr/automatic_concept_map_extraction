@@ -1,0 +1,9 @@
+subject;predicate;object
+Frisch–Peierls memorandum;contained;calculations
+Frisch–Peierls memorandum;influenced;establishment of MAUD Committee
+Frisch–Peierls memorandum;highlighted;potential destructive power
+Frisch–Peierls memorandum;proposed;developing atomic bomb
+Frisch–Peierls memorandum;played role in;shaping Cold War geopolitics
+Frisch–Peierls memorandum;led to;atomic bombings of Hiroshima and Nagasaki
+MAUD Committee;establishment influenced by;Frisch–Peierls memorandum
+atomic bomb;led to;atomic bombings of Hiroshima and Nagasaki

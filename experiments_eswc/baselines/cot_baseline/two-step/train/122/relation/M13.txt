@@ -1,0 +1,11 @@
+subject;predicate;object
+Bruce Castle Park;features;museum
+museum;houses;archive
+archive;holds;Wood Green Empire
+area;proved to be;historically rich location
+Harringey Council official;met with;narrator
+park;houses;museum
+museum;features;history of Royal Mail
+Royal Mail;owned by;Sir Rowland Hill
+Wood Green Empire;archive;posters and programs
+area;proximity to;recent riots

@@ -1,0 +1,2 @@
+,summary_method,summary_percentage,ranking,ranking_how,ranking_perc_threshold,entity,relation,meteor_pr,meteor_re,meteor_f1,rouge-2_pr,rouge-2_re,rouge-2_f1
+0,lex-rank,15,word2vec,all,15.0,dbpedia\_spotlight,rebel\_ft,20.6,19.3,19.2,7.0,8.7,7.1

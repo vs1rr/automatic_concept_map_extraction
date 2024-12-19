@@ -1,0 +1,9 @@
+The case of Duro v. Reina, decided by the U.S. Supreme Court in 1990, addressed the issue of whether an Indian tribe has the authority to assert criminal jurisdiction over a nonmember Indian.
+The petitioner, Albert Duro, was an enrolled member of one tribe but was charged with a crime on another tribe's reservation.
+The tribal court asserted jurisdiction over him, but the federal district court granted a writ of habeas corpus, holding that tribal jurisdiction over a nonmember Indian would violate equal protection guarantees.
+The Court of Appeals reversed, finding that tribes retain jurisdiction over minor crimes committed by Indians against other Indians.
+However, the Supreme Court held that Indian tribes lack jurisdiction over nonmember Indians, based on the principles established in previous cases like Oliphant v. Suquamish Indian Tribe and United States v. Wheeler.
+The Court reasoned that tribes are limited sovereigns subject to the overriding authority of the United States, and that the distinction between members and nonmembers is recognized in other areas of Indian law.
+The Court also considered the historical context and the fact that all Indians are now citizens of the United States, concluding that tribal jurisdiction over nonmember Indians would be inconsistent with the protection of personal liberties.
+The Court rejected the argument that a jurisdictional void would result from its decision, suggesting that Congress could address any practical issues related to law enforcement on reservations.
+The dissenting opinion argued that tribes retain inherent powers of limited sovereignty, including the authority to exercise criminal jurisdiction over nonmember Indians.

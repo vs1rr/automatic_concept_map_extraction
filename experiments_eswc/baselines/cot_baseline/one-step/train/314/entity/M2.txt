@@ -1,0 +1,13 @@
+entity;surface
+CSI Effect;"CSI Effect"
+NCIS;"NCIS"
+forensic science;forensic science
+evidence;evidence
+court;court
+jurors;jurors
+verdict;verdict
+reasonable doubt;reasonable doubt
+shows;"CSI" and "NCIS"
+scientific exaggerations;scientific exaggerations
+criminals;potential criminals
+misconceptions;misconceptions

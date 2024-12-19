@@ -1,0 +1,24 @@
+subject;predicate;object
+Bruce Castle Museum;is located in;London
+Bruce Castle Museum;is operated by;Haringey Council
+Bruce Castle Museum;showcases;social history
+Bruce Castle Museum;showcases;local landscape
+Bruce Castle Museum;features;works by local artists
+Bruce Castle Museum;has;rich history
+Bruce Castle Museum;has connections to;Bruce family
+Bruce Castle Museum;has connections to;notable renovations
+Bruce Castle Museum;features;exhibits on Post Office
+Bruce Castle Museum;features;exhibits on Rowland Hill
+Bruce Castle Museum;features;exhibits on Tottenham Hotspur Football Club
+Bruce Castle Museum;offers;free entry
+Bruce Castle Museum;offers;glimpse into social history
+Bruce Castle Museum;offers;glimpse into various collections
+Bruce Castle Museum;offers;glimpse into artworks
+Haringey Council;operates;Bruce Castle Museum
+Haringey Council;is responsible for;local history museum
+Post Office;is connected to;Rowland Hill
+Post Office;is connected to;Tottenham Hotspur Football Club
+Rowland Hill;is connected to;Post Office
+Rowland Hill;is connected to;Tottenham Hotspur Football Club
+Tottenham Hotspur Football Club;is connected to;Post Office
+Tottenham Hotspur Football Club;is connected to;Rowland Hill

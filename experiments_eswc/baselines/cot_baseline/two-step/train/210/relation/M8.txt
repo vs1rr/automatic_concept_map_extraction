@@ -1,0 +1,11 @@
+subject;predicate;object
+Ancient Egypt;spanning;Old Kingdom
+Ancient Egypt;spanning;Middle Kingdom
+Ancient Egypt;spanning;New Kingdom
+Old Kingdom;built;first pyramids
+Old Kingdom;pharaohs;Zoser
+Middle Kingdom;introduced;myth of Osiris
+Middle Kingdom;introduced;jewelry craftsmanship
+New Kingdom;brought;Valley of the Kings
+New Kingdom;shift towards;monotheism
+New Kingdom;under;Akhenaton

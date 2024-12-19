@@ -1,0 +1,7 @@
+subject;predicate;object
+Los Alamos Historical Society;hosted;viewing of the eighth episode of WGN's Manhattan
+British Mission;led by;Professor James Chadwick
+episode;explored;reasons why Thin Man bomb was not built
+episode;touched on;events in Minsk during World War II
+episode;included;Schrödinger's cat
+episode;included;quote from Virginia Woolf

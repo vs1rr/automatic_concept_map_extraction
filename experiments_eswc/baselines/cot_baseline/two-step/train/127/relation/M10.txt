@@ -1,0 +1,16 @@
+subject;predicate;object
+Edward I;played;Welsh Castles
+Welsh Castles;had;socio-economic roles
+Welsh Castles;had;administrative roles
+Welsh Castles;had;military roles
+Welsh Castles;had;propagandist roles
+castles;were important for enforcing;English rule in Wales
+castles;had;socio-economic functions
+castles;had;propaganda functions
+castles;had;military significance
+castles;were seen as;symbols of power and authority
+castles;attracted;settlers
+castles;reinforced;English control over Wales
+castles;were effective in maintaining;English supremacy
+castles;were effective in deterring;Welsh uprisings
+castles;contributed to;lasting English presence in Wales

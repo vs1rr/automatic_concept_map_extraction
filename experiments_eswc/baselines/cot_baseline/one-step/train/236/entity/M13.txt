@@ -1,0 +1,24 @@
+entity;surface
+Uruguay;Uruguay
+Brazil;Brazil
+independence;independence
+1828;1828
+struggle;struggle
+Brazil;Brazil
+Portugal;Portugal
+1822;1822
+political reforms;political
+economic reforms;economic
+Uruguay;Uruguay
+free market economy;free market economy
+agriculture;agriculture
+Brazil;Brazil
+diverse economy;diverse economy
+world markets;world markets
+infrastructure;infrastructure
+transportation networks;transportation networks
+telecommunications systems;telecommunications systems
+Uruguay;Uruguay
+Brazil;Brazil
+border disputes;border disputes
+illicit drugs;illicit drugs

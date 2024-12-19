@@ -1,0 +1,7 @@
+subject;predicate;object
+CSI effect;refers to;influence of crime television shows on jurors
+crime television shows;influence on;jurors
+phenomenon;can result in;unrealistic demands for DNA tests, fingerprint analyses, and other procedures seen on TV
+increased reliance;can overwhelm;crime laboratories
+increased reliance;can create;challenges for both prosecution and defense
+forensic science;essential to consider;all evidence in a case

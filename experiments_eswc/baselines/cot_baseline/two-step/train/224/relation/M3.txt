@@ -1,0 +1,11 @@
+subject;predicate;object
+California Gold Rush;sparked by;discovery of gold in Northern California
+California Gold Rush;led to;wave of immigration by the "49ers"
+California Gold Rush;had significant impact on;California's development
+California Gold Rush;led to;building of the Panama Railway
+California Gold Rush;led to;growth of San Francisco
+California Gold Rush;brought challenges such as;strained infrastructure
+California Gold Rush;brought challenges such as;crime
+California Gold Rush;brought challenges such as;rise of vigilantes
+California Gold Rush;is said to have ended in;1858
+San Francisco 49ers;named after;prospectors of the Gold Rush

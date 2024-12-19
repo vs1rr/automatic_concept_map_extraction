@@ -1,0 +1,14 @@
+subject;predicate;object
+Brazil;includes;periods as an empire and a federal republic
+Brazil;has;significant political and economic developments
+Brazil;colonized by;Portuguese
+Brazil;independence in;early 19th century
+Brazil;involved in;wars
+Brazil;part of;BRIC countries
+Brazil;has;white and mulatto populations
+Brazil;issued;its first stamps in 1843
+Brazil;played a role in;development of aviation-related postal services
+Airlines;issued;stamps for air services
+Zeppelin mail;involved;special flights
+Zeppelin mail;issued;stamps
+Zeppelin mail;issued by;Luftschiffbau Zeppelin company

@@ -1,0 +1,8 @@
+subject;predicate;object
+castles;have taken on;various forms
+castles;have;evolved
+castles;were symbols of;power and prestige
+castles;remain;iconic structures
+castles;dating back to;the Middle Ages
+castles;lost;their military significance
+castles;were replaced by;country houses

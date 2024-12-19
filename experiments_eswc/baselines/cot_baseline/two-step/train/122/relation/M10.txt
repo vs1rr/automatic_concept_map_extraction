@@ -1,0 +1,12 @@
+subject;predicate;object
+Bruce Castle Museum;is located in;London
+Bruce Castle Museum;is operated by;Haringey Council
+Bruce Castle Museum;offers exhibits on;social history
+Bruce Castle Museum;offers exhibits on;local landscape
+Bruce Castle Museum;offers exhibits on;works by local artists
+Bruce Castle Museum;is known for;its connection to the Bruce family
+Bruce Castle Museum;features displays on;the history of the Post Office
+Bruce Castle Museum;features displays on;the life of Rowland Hill
+Bruce Castle Museum;features collections of;early photos of the area
+Bruce Castle Museum;features collections of;artwork depicting Tottenham through time
+Bruce Castle Museum;is accessible by;public transportation

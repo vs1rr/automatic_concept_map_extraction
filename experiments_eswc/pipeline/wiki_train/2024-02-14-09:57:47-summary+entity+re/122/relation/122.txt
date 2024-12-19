@@ -1,0 +1,144 @@
+Bruce Castle Park, located in the administrative, Haringey
+King Henry VIII, spouse, Katherine Parr
+Duke of Buckingham, sibling, Anne Stafford
+UDC, located in the administrative, Tottenham
+Warwick Castle, instance of, castle
+Bruce Castle Museum, located in the administrative, North London
+Hill, instance of, boarding school
+castle, surrounded by, garden
+Bruce Castle, instance of, museum
+online, receive instant confirmation, confirmation
+conservation area, is considered, nature conservation area
+Broadwater Farm Estate, instance of, community leaders
+park underwent a new layout in 1892, inception, 1892
+Katherine Parr, spouse, King Henry VIII
+park, inception, 1892
+Bruce Castle, use, museum
+Bruce Castle Museum, located in the administrative territorial entity, London
+Bruce Castle, heritage designation, historical landmark
+London, country, United Kingdom
+Bruce Castle Museum, historic, manor house
+castle, instance of, tourist attraction
+Henry VIII, spouse, Elizabeth I.
+Sir Thomas Leigh, owned by, Monasteries
+Bruce Castle Museum, instance of, museum
+Tottenham UDC, use, school
+serviced apartments, subclass of, hotel
+Leigh, instance of, ancestral home
+Windsor Castle, located in the administrative territorial entity, Windsor
+Bruce Castle Park, located in the administrative territorial entity, Haringey
+museum, is, parking
+Tottenham, located in the administrative territorial entity, Haringey
+North, located in the administrative territorial entity, London
+Tottenham, owned by, Bruce family
+Compton, position held, Groom of the Stole
+Sav saved from development, saved from development, philanthropist
+museum, has, disabled access
+Queen Katherine Parr, spouse, King Henry VIII
+Warwick Castle, owned by, William the Conqueror
+bed and breakfast, subclass of, accommodation
+grand name, is believed to have no connection to, Bruce family
+park, has remained unchanged since, tree
+Constantia Lucy, spouse, Henry Hare
+castle, is, tourist attraction
+Bruce Castle Park, located in the administrative territorial, Haringey
+Haringey, has collections, weddings
+Bruce Castle Park, located on street, Lordship Lane
+Compton was accused of adultery, spouse, Anne
+museum, surrounded by, park
+Bruce Castle Museum, Archives, and Park, located in the administrative, Tottenham
+Compton, position held, royal court
+hotel, is, room
+Lordship Lane, located in the administrative territorial entity, London
+museum, has, accessible access
+Haringey, has collections related to, weddings
+Warwick Castle, located in the administrative territorial entity, Warwick, Warwickshire
+King Henry VIII, spouse, Queen Katherine Parr
+Haringey, contains administrative territorial entity, Tottenham
+Henry Hare, followed by, James Townsend
+Bruce Castle, instance of, historical landmark
+castle, is a popular tourist attraction, tourist attraction
+Bruce Castle, instance of, manor house
+hotel, vary from, room
+William Compton, date of birth, 1475
+park underwent a new layout in 1892, start time, 1892
+castle, historic significance, historic significance
+online, receive, confirmation
+Post Office, located in the administrative territorial entity, London Borough of Haringey
+castle, surrounded by, gardens
+museum, inception, 1906
+Compton, spouse, Anne
+praying sickness, has effect, sweating
+castle, located in, England
+park, use, recreational facilities
+Bruce Castle Museum, inception, 1906
+grand name, has no connection, Bruce family
+Tottenham, located in the administrative, Haringey
+park, surrounded by, children's playground
+Bruce Castle Museum, location, Wood Green Library
+Bruce Castle, located in the administrative territorial entity, Haringey
+Henry Hare, spouse, James Townsend
+Tottenham, located in the administrative territorial entity, Borough of Haringey
+Warwick Castle, founded by, William the Conqueror
+Bruce Castle, located in the administrative territorial entity, Tottenham
+Leigh family, instance of, ancestral home
+museum, has, accessible
+castles, located in the administrative territorial, England
+Sudeley Castle, instance of, castle
+Compton, occupation, Groom of the Stole
+Rowland Hill, located in the administrative territorial entity, London Borough of Haringey
+museum, hosts, exhibitions
+Tottenham Hot, location, Tottenham
+Wood Green Library, part of, Bruce Castle Museum
+Tottenham, instance of, manor
+castle, located in the administrative territorial, England
+museum, is available at, parking
+progressive, subclass of, teaching methods
+castle, located in the administrative territorial entity, tourist attraction
+public transportation, located in the administrative, North London
+Bruce Castle Museum, owned by, Haringey Council
+Green Flag Award, maintained, preservation
+Henry Hare's, spouse, Constantia Lucy
+serviced apartments, different from, hotel
+Bruce Castle Museum, country, United Kingdom
+progressive curriculum, teaching methods, teaching methods
+Tottenham Hot, depicts, Tottenham
+Tottenham Hot, located in the administrative, Tottenham
+Sir Thomas Leigh, occupation, Monasteries
+Anne Stafford, sibling, Duke of Buckingham
+nature conservation area, is considered, conservation area
+public transportation, located in the administrative territorial entity, London
+Sudeley Castle, located in the administrative territorial entity, Winchcombe
+Bruce Castle Museum, instance of, manor house
+museum, host, exhibitions
+public museum, inception, 1906
+bed and breakfast, subclass of, guest house
+Windsor Castle, located in the administrative territorial entity, Windsor, Berkshire
+White Hart Lane Stadium, located in the administrative territorial entity, Tottenham
+Tottenham UDC, instance of, school
+Bruce Castle Park, located on street, Lordship Lane London N17
+Bruce Castle, location, Tottenham
+Charles Dickens, residence, boarding school
+Henry VIII, spouse, Elizabeth I
+Leigh family, has, ancestral home
+Tottenham Cemetery, located in protected area, Bruce Castle Park
+online, guarantee, confirmation
+Sav saved from development, is, development
+house became a museum in 1906, inception, 1906
+Bruce Castle Park, location, Haringey
+nature conservation area, subclass of, conservation area
+hotel, vary, room
+William Compton, friend of, King Henry VIII
+Henry VIII, spouse, Queen Elizabeth I
+Bruce Castle Museum, location, Tottenham
+Bruce Castle Museum, has part, Wood Green Library
+Warwick Castle, located in the administrative territorial entity, Warwick
+Tottenham Cemetery, located in the administrative territorial entity, Bruce Castle Park
+Bruce Castle, located in the administrative, Tottenham
+Windsor Castle, instance of, castle
+serviced apartments, subclass of, hotels
+grand name, believed to have no connection to, Bruce family
+Henry Hare, spouse, Constantia Lucy
+Compton, denied, adultery
+Bruce Castle Museum, located in the administrative territorial entity, Tottenham
+Hill family, instance of, boarding school

@@ -1,0 +1,20 @@
+subject;predicate;object
+Brougham Castle;located in;Cumbria, England
+Brougham Castle;built in;13th century
+Brougham Castle;features;keep
+Brougham Castle;features;hall
+Brougham Castle;features;lord's chamber
+Lady Anne;stayed in;lord's chamber
+Lady Anne;passed away in;lord's chamber
+Brougham Castle;overlooks;River Eamont
+Brougham Castle;offers;panoramic views
+Brougham Castle;constructed by;Robert de Vieuxpont
+Brougham Castle;came under ownership of;Clifford family
+Brougham Castle;damaged by;Scots
+Brougham Castle;fell into disrepair during;English Civil War
+Lady Anne Clifford;restored;Brougham Castle
+Lady Anne Clifford;restored in;1643
+Lady Anne Clifford;death in;1676
+Brougham Castle;left to ruin under ownership of;Earls of Thanet
+Brougham Castle;under care of;English Heritage
+Brougham Castle;open to;public

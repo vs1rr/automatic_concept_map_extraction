@@ -1,0 +1,10 @@
+entity;surface
+Trinity College;The Old Library at Trinity College
+Dublin;Dublin
+Book of Kells;Book of Kells
+Book of Armagh;Book of Armagh
+Book of Mulling;Book of Mulling
+Iona;monastery on Iona
+Viking;Viking raids
+Long Room;Long Room
+Irish Republic;1916 Proclamation of the Irish Republic

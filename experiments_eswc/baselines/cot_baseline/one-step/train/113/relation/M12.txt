@@ -1,0 +1,15 @@
+subject;predicate;object
+Borobudur;built by;Syailendra Dynasty
+Borobudur;located in;Central Java
+Borobudur;known for;art and architecture
+Borobudur;facing threats from;development and tourism
+Borobudur;requires;management efforts for sustainability
+Komodo National Park;home to;Komodo Dragon
+Komodo National Park;facing challenges such as;balancing tourism and conservation
+Komodo National Park;managing;marine resources
+Borobudur;using strategies like;community involvement
+Borobudur;using strategies like;celebrity endorsements
+Borobudur;using strategies like;UNESCO recognition for marketing and preservation
+Komodo National Park;using strategies like;community involvement
+Komodo National Park;using strategies like;celebrity endorsements
+Komodo National Park;using strategies like;UNESCO recognition for marketing and preservation

@@ -1,0 +1,10 @@
+entity;surface
+David Crockett;David Crockett
+Sam Houston;Sam Houston
+Antonio López de Santa Anna;Antonio López de Santa Anna
+Mexico;Mexico
+Spain;Spain
+Stephen F. Austin;Stephen F. Austin
+George Fisher;George Fisher
+Texas Revolution;Texas Revolution
+Alamo;Alamo

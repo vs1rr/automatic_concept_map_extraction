@@ -1,0 +1,136 @@
+Acquired, owned by, National Trust
+Belton Woods, sport, golf
+Lady Catherine, spouse, Elizabeth Bennet
+officers, has part, batmen
+Pride and Prejudice, narrative location, Belton House
+Belton House, located in the administrative territorial entity, Belton
+Britannia by John Ogilby, publication date, 1675
+north front, location, Dutch garden
+miniature steam train, instance of, maze
+Britannia, author, John Ogilby
+Belton House, date of official opening, 1984
+Pride and Prejudice, production company, BBC
+trenches, part of, Great War
+trenches, conflict, Great War
+Lincoln Castle, located in the administrative territorial entity, Lincoln
+woodcarvings, use, furnishings
+Belton Park, located in the administrative territorial entity, Lincolnshire
+Carolean, instance of, style
+Belmount Tower, location, Belton
+Belton House, location, Grantham
+history, facet of, Lincolnshire
+Belton House, instance of, television series
+golf, uses, spa
+Belton House, inception, 1984
+National Trust, inception, 2010
+Belton House, occupant, Lady Alice Sherald
+Lincolnshire, instance of, county in England
+Belton House, owned by, Sir John Brownlow
+impact of the Great War on modern society, main subject, its effects
+3rd Earl Brownlow, work period (start), 1870
+Marble Room, connects with, North Terrace
+country manor house, subclass of, village
+Grinling Gibbons, notable work, wood carvings
+Nottinghamshire, instance of, counties
+Belton House, architectural style, French
+Queen Adelaide, movement, Rococo
+St Mary's Abbey, located in the administrative territorial entity, York
+Orangery, subclass of, garden
+North Terrace, connects with, Marble Room
+manor house, part of, country
+Italian Sunken Garden, located in the administrative territorial entity, Belton
+Grimsthorpe Castle, located in the administrative territorial entity, Lincolnshire
+National Trust, start time, 1984
+Orangery, has part, Italian Garden
+Lincoln Cathedral, located in the administrative territorial entity, Lincoln
+Pride and Prejudice, based on, Jane Eyre
+Marble Room, part of, North Terrace
+Orangery, subclass of, formal garden
+Belton House Gardens, instance of, park and garden
+batmen, part of, officers
+Remembrance Sunday, located in the administrative territorial entity, Lincolnshire
+Belton House, architect, William Emes
+Belton House, instance of, stately home
+Stamford, instance of, historic town
+county, part of, England
+BBC adaptation, based on, Pride and Prejudice
+country manor house, subclass of, villages
+Britannia, publication date, 1675
+Belton House, historic county, Grantham
+Belton House, instance of, Country House
+Belton House, instance of, English country house
+National Trust for Historic Preservation, located in the administrative territorial entity, Norfolk, Virginia
+Sir John Brownlow, owner of, Belton House
+Grinling Gibbons, field of work, wood carvings
+Bel, country, Belgian
+Italian Garden, has part, Dutch Garden
+Belton, inception, 2015
+Belton, collection, National Trust
+Bel, country, Belgium
+Dutch Garden, part of, Italian Garden
+Belton House, maintained by, National Trust
+impact of the Great War on modern society, facet of, its effects
+the trenches, conflict, Great War
+Rococo style, named after, Queen Adelaide
+Carolean style, subclass of, double pile
+National Trust, owner of, Acquired
+deer park, located in the administrative territorial entity, Belton
+parish church, located in the administrative territorial entity, Belton
+Carolean architecture, instance of, styles
+Lincolnshire, instance of, county
+Orangery, part of, Italian Garden
+Cleethorpes, instance of, beach
+Belton House, use, wedding venue
+parish church, located in the administrative territorial entity, Belton village
+orangery, subclass of, garden
+Dutch garden, location, north front
+impact of the Great War, facet of, Great War
+north front, part of, Dutch garden
+Belmount Tower, located in the administrative territorial entity, Belton
+Carolean architecture, instance of, exterior
+Belton House, architectural style, French influence
+Belton House, instance of, wedding venue
+Belton House, owned by, Brownlow and Cust family
+Caroline Lybbe Powys, influenced by, Jane Austen
+Italian Sunken Garden, location, Belton
+architectural marvels, located in the administrative territorial entity, Lincolnshire
+Jane Eyre, derivative work, Pride and Prejudice
+Belton, maintained by, National Trust
+batmen, subclass of, officers
+Belmount Tower, instance of, vantage point
+the parish church, located in the administrative territorial entity, Belton
+Belton, owned by, National Trust
+Elizabeth Bennet, spouse, Lady Catherine
+Belton House, owned by, National Trust
+Cleethorpes, located in the administrative territorial entity, Skegness
+North Terrace, has part, Marble Room
+Remembrance Sunday, location, Lincolnshire
+Jane Austen, relative, Caroline Lybbe Powys
+the 3rd Earl Brownlow, work period (start), 1870
+Belton Park, instance of, archaeological excavation
+Orangery, subclass of, formal gardens
+wood carvings, creator, Grinling Gibbons
+Caroline Lybbe Powys, relative, Jane Austen
+Belton House Gardens, architect, William Emes
+Lincolnshire, instance of, counties
+Belton House, instance of, English country estate
+Belton Woods Hotel, sport, golf
+woodcarving, subclass of, furniture
+Belton House, instance of, English Country House
+woodcarving, subclass of, furnishings
+Rococo, instance of, style
+Lady Alice Sherald, residence, Belton House
+Dutch garden, has part, north front
+Bolingbroke Castle, located in the administrative territorial entity, Lincolnshire
+Carolean, field of work, architecture
+natural beauty, located in the administrative territorial entity, Lincolnshire
+Belton House, located in the administrative territorial entity, Grantham
+Belton, conflict, WWI
+National Trust, inception, 1984
+porcelain, subclass of, art
+Belton House, located in the administrative territorial entity, Lincolnshire
+Tattershall Castle, located in the administrative territorial entity, Lincolnshire
+Belton House, architectural style, Baroque
+Northamptonshire, shares border with, Lincolnshire
+Pride and Prejudice, distributed by, BBC
+Northamptonshire, instance of, counties

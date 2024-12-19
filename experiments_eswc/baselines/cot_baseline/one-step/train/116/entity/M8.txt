@@ -1,0 +1,27 @@
+entity;surface
+Bramshill House;Bramshill House
+Hampshire;Hampshire
+England;England
+Jacobean mansion;Jacobean mansion
+Italian Renaissance;Italian Renaissance
+Grade I listed building;Grade I listed building
+17th century;early 17th century
+southern façade;southern façade
+oriel window;large oriel window
+great hall;great hall
+92 coats of arms;92 coats of arms
+grand drawing room;grand drawing room
+long gallery;long gallery
+tapestries;tapestries
+formal gardens;formal gardens
+woodland;woodland
+cricket matches;hosting cricket matches
+19th century;19th century
+maternity home;maternity home
+World War II;World War II
+police training facility;police training facility
+2014;2014
+ghostly legends;ghostly legends
+bride;bride
+chest;chest
+wedding night;wedding night

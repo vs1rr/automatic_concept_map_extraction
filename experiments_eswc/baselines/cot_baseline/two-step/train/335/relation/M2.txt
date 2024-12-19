@@ -1,0 +1,14 @@
+subject;predicate;object
+Alice Nutter;accused of;murder by witchcraft
+Alice Nutter;was executed in;1612
+statue;will be placed in;Roughlee
+statue;will sit on;Blacko Bar Road
+statue;will be completed by;April 2012
+Alice Nutter;was accused by;Pendle witches
+statue;will be designed by;artists
+Alice Nutter;was accused during;Pendle Trials
+Alice Nutter;was accused due to;wealth
+Alice Nutter;was accused due to;silence during trial
+Alice Nutter;was accused of;bewitching a man to death
+Alice Nutter;was executed in;1612
+Alice Nutter;was executed ahead of;April 2012

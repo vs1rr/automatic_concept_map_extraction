@@ -1,0 +1,10 @@
+entity;surface
+atomic bomb;atomic bomb
+uranium-235;uranium-235
+fissile isotope;fissile isotope
+Otto Frisch;Otto Frisch
+Klaus Fuchs;Klaus Fuchs
+Winston Churchill;Winston Churchill
+Manhattan Project;Manhattan Project
+uranium;uranium
+critical mass;critical mass

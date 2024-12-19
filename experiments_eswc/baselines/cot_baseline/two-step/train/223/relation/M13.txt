@@ -1,0 +1,14 @@
+subject;predicate;object
+Byzantine-Sassanid War;involved;Byzantine Empire
+Byzantine-Sassanid War;began with;Khosrau II
+Byzantine-Sassanid War;involved;Sassanid Empire
+Khosrau II;sought revenge for;Emperor Maurice
+Byzantine-Sassanid War;had;early successes
+Byzantine-Sassanid War;saw;rebellions
+Emperor Heraclius;defeated;Sassanid armies
+Emperor Heraclius;used;tactical tactics
+Byzantine-Sassanid War;culminated in;series of battles
+Emperor Heraclius;emerged victorious in;Byzantine-Sassanid War
+Emperor Heraclius;faced challenges from;other enemies
+Emperor Heraclius;managed to secure;peace
+Emperor Heraclius;returned to;Constantinople

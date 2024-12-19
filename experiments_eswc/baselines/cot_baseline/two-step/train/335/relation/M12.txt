@@ -1,0 +1,12 @@
+subject;predicate;object
+Pendle Hill hangings;occurred in;1612
+last witchcraft conviction in Hertfordshire;happened in;17th century
+Eleanor Cobham;was accused of;witchcraft
+Gwen Ellis;was the first witch executed in;Wales
+witch trials;involved;figures like Eleanor Cobham
+witch trials;involved;figures like Gwen Ellis
+witch trials;were not;a result of mass hysteria
+witch trials;were seen as;a genuine problem at the time
+witch persecution in Britain;included;legal context
+witch persecution in Britain;included;societal beliefs
+witch persecution in Britain;included;involvement of prominent figures like King James VI

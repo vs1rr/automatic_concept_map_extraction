@@ -1,0 +1,10 @@
+subject;predicate;object
+Bruce Castle Park;located_on;site of one of the four manors of Tottenham
+Bruce Castle Park;has;rich history dating back to the Scottish royal family of de Brus
+present house;likely_built_in;1620s
+park;opened_in;1892
+park;features;historical buildings
+park;offers;various recreational activities
+Bruce Castle Park;has;The Bruce Castle Museum
+The Bruce Castle Museum;houses;local history collection
+The Bruce Castle Museum;has_won;Green Flag Award

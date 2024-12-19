@@ -1,0 +1,14 @@
+subject;predicate;object
+Britain;emerged as;dominant imperial power
+Britain;secured;position
+Britain;secured;position through military alliances
+Britain;secured;position through naval supremacy
+empire;included;colonies in North America
+empire;included;colonies in South Africa
+empire;included;colonies in the Caribbean
+empire;included;colonies in India
+expansion;driven by;mix of personal ambitions
+expansion;driven by;commercial interests
+expansion;driven by;strategic concerns
+growth;shaped by;uncertainties of global warfare
+growth;shaped by;interactions with diverse societies

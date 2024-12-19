@@ -1,0 +1,7 @@
+subject;predicate;object
+Otto Robert Frisch;made significant contributions;to nuclear physics
+Otto Robert Frisch;collaborated with;Rudolf Peierls
+Otto Robert Frisch;designed;the first theoretical mechanism for an atomic bomb
+Otto Robert Frisch;coined;the term nuclear fission
+Otto Robert Frisch;conducted experiments;to determine the critical mass of uranium needed for detonation
+Otto Robert Frisch;contributed to;the field of atomic physics

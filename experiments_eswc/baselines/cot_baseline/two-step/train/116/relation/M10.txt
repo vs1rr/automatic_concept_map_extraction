@@ -1,0 +1,10 @@
+subject;predicate;object
+Bellmans Auctioneers;selling;contents of Bramshill House
+Bramshill House;located in;Hampshire
+Bramshill House;features;unique items
+unique items;include;elm and oak table
+unique items;include;oak candelabras by Robert 'Mouseman' Thompson
+unique items;include;ceremonial armchairs
+auction;take place in;May
+interested buyers;can view;items online
+interested buyers;can view;items in person

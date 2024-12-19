@@ -1,0 +1,19 @@
+subject;predicate;object
+Bramshill House;is known for;many ghosts
+Bramshill House;is home to;Police College
+White Lady;announces presence with;floral fragrance
+mansion;was built in;17th century
+mansion;is haunted by;various spirits
+Grey Lady;is a spirit at;Bramshill House
+Green Man;is a spirit at;Bramshill House
+Bramshill House;is known as;'most haunted house in Hampshire'
+ghosts;are considered;friendly
+College Secretariat;keeps;ghost file
+College Secretariat;documents;encounters with spirits
+visitors;have reported;encounters with ghosts
+residents;have reported;encounters with ghosts
+Bramshill House;is known as;'most haunted house in Hampshire'
+ghosts;are considered;friendly
+ghosts;are not harmful
+College Secretariat;encourages;visitors to share ghostly experiences
+College Secretariat;encourages;visitors for record-keeping

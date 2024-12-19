@@ -1,0 +1,9 @@
+entity;surface
+Bramshill House;Bramshill House
+Gardens;Gardens
+17th Century;early 17th Century
+Jacobean 'Prodigy' house;Jacobean 'Prodigy' house
+Edward, 11th Baron Zouche of Harringworth;Edward, 11th Baron Zouche of Harringworth
+Grade II*;Grade II*
+World War II;World War II
+National Police Training College;National Police Training College

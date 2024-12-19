@@ -1,0 +1,8 @@
+subject;predicate;object
+CSI Effect;influences;juror expectations
+popular crime television shows;influence;jurors
+study;conducted by;criminology professors
+criminology professors;surveyed;jurors' expectations
+CSI viewers;had higher expectations;forensic evidence
+CSI viewers;did not significantly affect;verdicts
+criminal justice system;need to adapt;jurors' evolving expectations

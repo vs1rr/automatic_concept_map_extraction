@@ -1,0 +1,15 @@
+subject;predicate;object
+California Gold Rush;began in;1848
+California Gold Rush;discovered by;James W. Marshall
+James W. Marshall;discovered;gold
+gold;discovered at;Sutter's Lumber Mill
+Sutter's Lumber Mill;located in;Coloma
+California Gold Rush;attracted;300,000 prospectors
+prospectors;known as;"forty-niners"
+rush;peaked in;1849
+take;reached;$80 million
+discovery;predated;formal cession
+formal cession;under;1848 Treaty of Guadalupe Hidalgo
+rush;led to;significant gold strikes
+significant gold strikes;at;locations like Mormon Island, Bidwell's Bar, Weber's Creek, and Rich Bar
+locations;shown on;California Gold Rush Map

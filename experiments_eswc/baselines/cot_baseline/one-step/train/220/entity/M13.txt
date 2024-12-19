@@ -1,0 +1,11 @@
+entity;surface
+agriculture;agriculture
+strength;strength
+country's military;country's military
+food resources;abundant food resources
+army;larger army, sizable army
+Britain;Britain
+France;France
+colonial empire;colonial empire
+wealth;wealthy
+colonies;colonies

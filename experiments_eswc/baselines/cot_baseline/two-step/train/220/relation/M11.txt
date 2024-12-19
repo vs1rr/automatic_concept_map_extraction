@@ -1,0 +1,14 @@
+subject;predicate;object
+British Empire;was the largest empire in history;the largest empire in history
+British Empire;covering;a quarter of the Earth's landmass
+British Empire;governing;a fifth of the world's population
+England;late entry into trans-oceanic exploration;led to a focus on maritime strength
+Queen Elizabeth I's reign;marked;the beginning of England's transition into an empire
+17th century; saw; colonization efforts in North America and the Caribbean
+sugar cane;profitability of;shift towards the latter
+18th century;brought;naval supremacy and victories over European rivals
+Royal Navy;global dominance in;19th century
+19th century;expansion into Asia and Africa;with a focus on trade and control of key territories
+20th century; saw;the empire's decline due to economic challenges, World Wars, and decolonization efforts
+British Empire;had dismantled;by the mid-20th century
+British Empire;leaving;a lasting legacy on language, legal systems, and global migration patterns

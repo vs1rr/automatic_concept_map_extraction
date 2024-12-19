@@ -1,0 +1,21 @@
+subject;predicate;object
+Bramshill House;dating back to;early 17th Century
+Bramshill House;is;a significant Jacobean 'Prodigy' house
+Bramshill House;has;rich history of architectural evolution and ownership changes
+Bramshill House;was built by;Edward, 11th Baron Zouche of Harringworth
+Bramshill House;underwent;various modifications over the centuries
+Bramshill House;has;historic parkland featuring tree avenues and landscape elements dating back to medieval times
+Bramshill House;served as;a maternity home during World War II
+Bramshill House;served as;a residence for the exiled King of Romania
+Bramshill House;functions as;a National Police Training College
+Bramshill House;has;new buildings constructed on the estate grounds
+Edward, 11th Baron Zouche of Harringworth;built;Bramshill House
+Cope family;made additions to;Bramshill House
+Brocket occupation;made additions to;Bramshill House
+estate;is now owned by;Home Office
+house;is surrounded by;historic parkland
+house;features;tree avenues and landscape elements dating back to medieval times
+house;served as;a maternity home during World War II
+house;served as;a residence for the exiled King of Romania
+house;functions as;a National Police Training College
+buildings;constructed on;estate grounds

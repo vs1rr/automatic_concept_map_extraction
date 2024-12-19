@@ -1,0 +1,28 @@
+subject;predicate;object
+California Gold Rush;brought changes;region
+California Gold Rush;turned into;multicultural frontier
+California Gold Rush;brought immigrants;world
+immigrants;seeking;fortune
+influx;led to;decline
+gold seekers;faced;violence
+gold seekers;faced;oppression
+native population;faced;violence
+native population;faced;oppression
+Elite Californios;saw;loss
+Elite Californios;saw;loss of power
+Elite Californios;saw;loss of land
+arrival;added to;population
+Chinese;faced;discrimination
+Chinese;faced;challenges
+African American immigrants;faced;discrimination
+African American immigrants;faced;challenges
+groups;facing;discrimination
+groups;facing;challenges
+groups;pursuing;wealth
+groups;pursuing;equality
+instances;occurred in;landscape
+instances;occurred in;California
+instances;occurred in;diverse landscape
+instances;occurred in;Gold Rush California
+instances;of cooperation;cross-cultural cooperation
+instances;of communication;cross-cultural communication

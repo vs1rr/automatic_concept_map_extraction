@@ -1,0 +1,12 @@
+subject;predicate;object
+British Empire;was known as;"the empire on which the sun never sets"
+British Empire;had;vast reach
+British imperialism;included;gaining products for factories
+British imperialism;included;spreading Christianity
+British imperialism;included;increasing power globally
+British imperialism;included;a belief in their superiority
+British;expanded their territory in India;through a strong navy
+British;expanded their territory in India;through advanced weaponry
+British;expanded their territory in India;through efficient organization
+India;was not;a unified political entity
+India;was;a collection of kingdoms

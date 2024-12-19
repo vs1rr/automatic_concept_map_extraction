@@ -1,0 +1,14 @@
+Rajaraja I, country of citizenship, Cholas
+Badami, capital of, Chalukya dynasty
+Rajaraja I, family, Cholas
+Pallavas, contemporaries, Chalukyas
+Deccan region, located in the administrative territorial entity, India
+Chalukya dynasty, capital, Badami
+Rajaraja I, part of, Cholas
+Pulakesin I, family, Chalukya dynasty
+Gangas, followed by, Pallavas
+Deccan, located in the administrative territorial entity, India
+Chalukyas of Badami, instance of, dynasty
+Chalukyan architecture, instance of, architectural development
+Chalukya Dynasty, applies to jurisdiction, Deccan region
+Pallavas, replaced by, Cholas

@@ -1,0 +1,9 @@
+subject;predicate;object
+Ptolemy I Soter;assimilated to;Egyptian culture
+Ptolemy I Soter;assumed title of;pharaoh
+Ptolemy I Soter;founded;Great Library of Alexandria
+Ptolemy I Soter;sponsored;Euclid
+Ptolemy I Soter;known for;shrewdness
+Ptolemy I Soter;known for;patronage of letters
+Ptolemy I Soter;known for;founding the Great Library of Alexandria
+Ptolemy I Soter;played a key role in;wars among Alexander's successors

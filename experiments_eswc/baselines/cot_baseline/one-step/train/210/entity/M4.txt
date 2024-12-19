@@ -1,0 +1,14 @@
+entity;surface
+Ancient Egypt;Ancient Egypt
+Nile River;Nile River
+Pharaohs;Pharaohs
+pyramids;pyramids
+Romans;Romans
+Ancient Egyptians;Ancient Egyptians
+makeup;makeup
+calendar;calendar
+toothpaste;toothpaste
+Bible;Bible
+cats;cats
+Sightseers: A guide to Egypt in the time of the Pharaohs;Sightseers: A guide to Egypt in the time of the Pharaohs
+Mummies, Pyramids, and Pharaohs;Mummies, Pyramids, and Pharaohs

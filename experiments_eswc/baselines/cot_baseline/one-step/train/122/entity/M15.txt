@@ -1,0 +1,9 @@
+entity;surface
+Bruce Castle Park;Bruce Castle Park
+Haringey;Haringey
+Tottenham;Tottenham
+Scottish royal family of de Brus;Scottish royal family of de Brus
+1620s;1620s
+1892;1892
+C16th circular red brick tower;C16th circular red brick tower
+Green Flag Award;Green Flag Award

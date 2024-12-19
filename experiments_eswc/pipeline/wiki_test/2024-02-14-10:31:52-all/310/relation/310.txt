@@ -1,0 +1,13 @@
+Bricker Amendment, instance of, amendment to the Constitution
+John W. Bricker, member of, Republican
+statehood vote, applies to jurisdiction, Hawaii
+Bricker Amendment, part of, United States Constitution
+John W. Bricker, member of political party, Republican
+Constitution, part of, rule of law
+Bricker Amendment, instance of, United States Constitution
+Bricker Amendment, participant, VWBA
+Bricker Amendment, has lasting impact, VWBA
+Constitution, applies to, rule of law
+Hawaii, instance of, Non-Self-Governing Territories
+Bricker Amendment, is a limit, amendment to the Constitution
+Constitution, has part, rule of law

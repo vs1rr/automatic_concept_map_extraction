@@ -1,0 +1,10 @@
+subject;predicate;object
+Bruce Castle Museum;located in;London
+Bruce Castle Museum;offers;diverse range of exhibits
+exhibits;spanning from;Roman times to present day
+visitors;explore;artifacts and information
+artifacts;on;history of Haringey and Tottenham
+museum;features;exhibitions on World Wars and local history
+museum;surrounded by;park
+park;is;great place for families to visit
+families;learn about;heritage of the area

@@ -1,0 +1,15 @@
+subject;predicate;object
+Gold Country;is located in;California
+Gold Country;is known for;gold mines and historic sites
+Gold Country;offers;recreational opportunities like white water rafting and hiking
+Gold Country;is;a must-visit destination
+Gold Country;features;rolling hills, pine forests, rivers, and lakes
+Gold Country;has;geographically diverse landscape
+Gold Country;has;climate similar to that of Italy or Spain
+Gold Country;is;ideal for vineyards and wine production
+California;has;Native American tribes
+California;has;artifacts dating back thousands of years
+California;has;significant impact of the Gold Rush on its development
+California;has;hot and dry summers
+California;has;cool and wet winters
+California;has;snowfall in higher elevations

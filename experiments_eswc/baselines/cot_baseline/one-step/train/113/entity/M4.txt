@@ -1,0 +1,10 @@
+entity;surface
+Borobudur Temple Compound;Borobudur Temple Compound
+Indonesia;Indonesia
+Buddhist monument;Buddhist monument
+Hinduism;Hinduism
+Buddhism;Buddhism
+8th and 9th centuries;8th, 9th centuries
+16th century;16th century
+volcanic eruptions;volcanic eruptions
+Muslim country;Muslim country

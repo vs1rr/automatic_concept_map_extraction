@@ -1,0 +1,9 @@
+subject;predicate;object
+Brougham Castle;located_in;England
+Brougham Castle;historical_background;Norman conquests
+Brougham Castle;historical_background;Tudor era
+Brougham Castle;historical_background;Victorian era
+Brougham Castle;ownership;various owners
+Brougham Castle;construction;grand medieval fortress
+Brougham Castle;construction;small motte and bailey earthworks
+Brougham Castle;open_to_public;Yes

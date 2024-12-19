@@ -1,0 +1,12 @@
+subject;predicate;object
+Book of Kells;located at;Trinity College
+Book of Kells;features;intricately decorated copies
+Book of Kells;created in;800 AD
+Book of Kells;written in;Latin
+Book of Kells;contains;four gospels
+Book of Kells;visited by;over 500,000 people annually
+Trinity College;located in;Dublin
+Trinity College;houses;Book of Kells
+Trinity College;contains;Long Room library
+Long Room library;part of;Trinity College
+Long Room library;contains;Trinity College's Long Room library

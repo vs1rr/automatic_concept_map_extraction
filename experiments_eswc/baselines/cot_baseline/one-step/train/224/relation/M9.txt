@@ -1,0 +1,23 @@
+subject;predicate;object
+Gold Rush in California; brought; immense changes
+Gold Rush in California; turned into; multicultural frontier
+Gold Rush in California; led to; decline in native population
+Gold Rush in California; faced; violence and oppression
+Gold Rush in California; faced; violence and oppression from American miners
+Gold Rush in California; faced; violence and oppression from state government
+Elite Californios; saw; decline in power
+Elite Californios; saw; decline in land
+Elite Californios; saw; decline in power due to imposition of American government
+Chinese immigrants; added to; diverse landscape of California
+African American immigrants; added to; diverse landscape of California
+Chinese immigrants; faced; discrimination
+African American immigrants; faced; discrimination
+Chinese immigrants; faced; challenges in pursuit of gold
+African American immigrants; faced; challenges in pursuit of gold
+Chinese immigrants; faced; challenges in pursuit of equality
+African American immigrants; faced; challenges in pursuit of equality
+instances; showed; cross-cultural cooperation
+instances; showed; cross-cultural communication
+society of Gold Rush California; was; chaotic
+society of Gold Rush California; was; diverse
+society of Gold Rush California; was; chaotic and diverse

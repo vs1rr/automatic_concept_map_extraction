@@ -1,0 +1,21 @@
+subject;predicate;object
+Book of Kells;is made from;calf vellum
+Book of Kells;features;intricate illuminations
+Book of Kells;sourced colors from;rare colors
+Book of Kells;is believed to have originated in;Iona
+Book of Kells;is now displayed at;Trinity College Library
+Book of Kells;showcases;meticulous craftsmanship
+Book of Kells;defines;Celtic art
+Columban monks;created;Book of Kells
+Book of Kells;contains;the New Testament
+Book of Kells;contains;the four Gospels
+Book of Kells;contains;Christian symbolism
+Book of Kells;contains;religious manuscript
+Book of Kells;contains;Gospel passages
+Book of Kells;contains;emblems
+Iona;is the place of origin of;Book of Kells
+Kells;is the place of origin of;Book of Kells
+Dublin;is the place of origin of;Book of Kells
+Trinity College Library;is the current location of;Book of Kells
+Trinity College Library;is the location of;Trinity College's Long Room library
+Trinity College Library;is the location of;The Old Library at Trinity College

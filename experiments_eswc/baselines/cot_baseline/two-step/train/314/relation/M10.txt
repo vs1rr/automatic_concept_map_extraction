@@ -1,0 +1,15 @@
+subject;predicate;object
+evolving trends;discusses;art conservation education
+evolving trends;highlighting;shift
+evolving trends;towards;scientific approach
+evolving trends;over;traditional historical and technical knowledge
+undergraduate programs;critiquing;emphasis
+undergraduate programs;emphasis;chemistry and materials science
+undergraduate programs;expense;art history and studio art
+importance;emphasized;graduate training and practical experience
+importance;focus;need
+importance;in becoming;qualified art conservator
+graduate training;emphasized;strong foundation
+text;raises concerns;lack
+text;necessity;interdisciplinary approach
+text;necessity;art conservation education

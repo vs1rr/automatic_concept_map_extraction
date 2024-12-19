@@ -1,0 +1,12 @@
+subject;predicate;object
+Mexico;imposed restrictions;land ownership
+Mexico;confirmed;land acquisition
+Stephen F. Austin;sold land;settlers
+Mexico;led to;tensions
+Santa Anna's rise;caused;unrest in Texas
+Alamo;became;a symbol of resistance
+battle;resulted in;Mexican victory
+Santa Anna's measures;led to;Texas Declaration of Independence
+Sam Houston's forces;defeated;Santa Anna
+Battle of San Jacinto;led to;Santa Anna's capture
+Texas;gained recognition;as an independent state

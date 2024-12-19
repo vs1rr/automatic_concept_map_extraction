@@ -1,0 +1,26 @@
+subject;predicate;object
+James Madison;rejected;nullification
+James Madison;embraced;interposition
+James Madison;believed in;collective sovereignty
+James Madison;emphasized;distinction
+James Madison;highlighted;belief
+James Madison;Father of the Constitution;Madison
+states;express concerns;constitutionality
+states;monitor;federal government
+states;ensure government accountability;citizen vigilance
+federal government;adherence;Constitution
+federal government;debate over;federalism
+federal government;debate over;constitutionalism
+federal government;importance of;citizen vigilance
+Virginia and Kentucky Resolutions;illustrate;debate
+Virginia and Kentucky Resolutions;debate over;federalism
+Virginia and Kentucky Resolutions;debate over;constitutionalism
+Nullification Crisis;illustrate;debate
+Nullification Crisis;debate over;federalism
+Nullification Crisis;debate over;constitutionalism
+collective sovereignty;ultimate authority;people
+interposition;role in;American constitutionalism
+interposition;emphasizing;importance
+nullification;distinction;interposition
+nullification;debate over;federalism
+nullification;debate over;constitutionalism

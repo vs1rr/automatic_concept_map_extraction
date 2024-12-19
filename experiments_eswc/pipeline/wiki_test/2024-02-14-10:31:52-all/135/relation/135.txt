@@ -1,0 +1,13 @@
+Arthur Conan Doyle, sibling, his son
+Sherlock Holmes, creator, Sir Arthur Conan Doyle
+Cottingley Fairies, depicts, fairies
+Cottingley Fairies, instance of, hoax
+Arthur Conan Doyle, religion, spiritualism
+Arthur Conan Doyle, sibling, his son and brother
+Sherlock Holmes, creator, Arthur Conan Doyle
+Doyle, spouse, Edward Gardner
+Cottingley Fairies, depicts, photographs
+Chesterholm Museum, located in the administrative territorial entity, Hexham
+Sir Arthur Conan Doyle, believed in, fairies
+Hexham, located in the administrative territorial entity, Northumberland
+Cottingley Fairies photographs, depicts, fairies

@@ -1,0 +1,22 @@
+Frisch–Peierls memorandum From Wikipedia, the free encyclopedia University of Birmingham - Poynting Physics Building - blue plaque to phyicists Frisch and Peierls The Frisch–Peierls memorandum was the first technical exposition of a practical atomic weapon.
+[1] Written by Otto Frisch and Rudolf Peierls in March 1940 while they were both working at the University of Birmingham in England, the memorandum contained new calculations about the size of the critical mass needed for an atomic bomb, and helped accelerate British and U.S. efforts towards bomb development during World War II.
+Background and influence Given to Marcus Oliphant, Oliphant passed the document on to Henry Tizard, chairman of the Committee on the Scientific Survey of Air Defence who consequently requested the setting-up of what was to become the secret MAUD Committee.
+The memorandum (a copy of which is held in the Public Record Office at Kew) is dated March 1940.
+The two men were the first to calculate that an atomic bomb would require about 1 kilogram (2.2 lb) of the isotope uranium-235.
+[2] (The estimate of 1 kg turned out to be too low; see Critical mass.)
+Before it had been assumed that the bomb itself would require many tons of uranium, implying that it was theoretically possible, but not a practical military device.
+An earlier letter to President Franklin D. Roosevelt, signed by Albert Einstein (but written by Leó Szilárd), had suggested it may need to be delivered by ship but "might very well" not be small enough to drop from the air.
+The memorandum helped galvanize both Britain and America down a path which led to a report by the British MAUD Committee, the Tube Alloys project, the Manhattan Project, and ultimately the atomic bombings of Hiroshima and Nagasaki.
+ContentsThe memo was written in two parts.
+The second was an explanation of the science supporting their conclusions.
+The first was an elegant and comprehensive outline of the implications of their calculations.
+It included a proposal that the best defence against such a weapon would be to develop one before Germany did so.
+In a few short pages these two scientists had anticipated the policies of deterrence which would later shape Cold War geopolitics.
+The memorandum opens with:Strictly Confidential Memorandum on the properties of a radioactive “super-bomb”The attached detailed report concerns the possibility of constructing a “super-bomb” which utilizes the energy stored in atomic nuclei as a source of energy.
+The energy liberated in the explosion of such a super-bomb is about the same as that produced by the explosion of 1000 tons of dynamite.
+This energy is liberated in a small volume, in which it will, for an instant, produce a temperature comparable to that in the interior of the sun.
+The blast from such an explosion would destroy life in a wide area.
+The size of this area is difficult to estimate, but it will probably cover the centre of a big city.
+In addition, some part of the energy set free by the bomb goes to produce radioactive substances, and these will emit very powerful and dangerous radiations.
+The effect of these radiations is greatest immediately after the explosion, but it decays only gradually and even for days after the explosion any person entering the affected area will be killed.
+Some of this radioactivity will be carried along with the wind and will spread the contamination; several miles downwind this may kill people.

@@ -1,0 +1,19 @@
+subject;predicate;object
+Brougham Castle;located_at;confluence of the Lowther and Eamont rivers
+Robert de Vieuxpont;constructed;Brougham Castle
+Brougham Castle;evolved_over;centuries
+Clifford family;owned;Brougham Castle
+Brougham Castle;saw_developments_during;Anglo-Scottish wars
+Brougham Castle;had;gatehouse
+Brougham Castle;had;stone curtain wall
+Brougham Castle;played_role_in;War of the Roses
+Lancastrian Cliffords;owned;Brougham Castle
+Yorkist Nevilles;owned;Brougham Castle
+Lady Anne Clifford;led_restoration_efforts_of;Brougham Castle
+Brougham Castle;revived_by;Lady Anne Clifford
+Brougham Castle;fell_into;disrepair
+government;took_over;Brougham Castle
+English Heritage;preserving;Brougham Castle
+English Heritage;preserving_since;1984
+visitors;allowed_to_explore;Brougham Castle
+Brougham Castle;explore_during;summer months

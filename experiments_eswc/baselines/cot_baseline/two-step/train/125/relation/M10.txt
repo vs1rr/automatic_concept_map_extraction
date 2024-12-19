@@ -1,0 +1,14 @@
+subject;predicate;object
+West Virginia Archives and History Commission;held;spring meeting
+spring meeting;covered;topics
+spring meeting;included;approval of meeting minutes
+spring meeting;included;reports
+reports;on;Archives and History
+reports;on;Historic Preservation
+reports;on;National Register nominations
+spring meeting;included;discussions
+discussions;on;grants
+discussions;on;markers
+discussions;on;by-laws
+spring meeting;concluded with;setting dates for future meetings
+spring meeting;concluded with;adjournment at 1:14 p.m.

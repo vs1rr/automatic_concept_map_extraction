@@ -1,0 +1,61 @@
+hunger strike, subclass of, legitimate means of instigating change
+dignity, said to be the same as, self-worth
+the peace process, location, Northern Ireland
+hunger strikers, organizer, IRA
+Bobby Sands, member of political party, National H-Block Committee
+conflict, location, Northern Ireland
+Catholics, different from, Protestants
+hunger strike, participant, prisoners who participated in it
+Bobby Sands, instance of, hunger strike
+Northern Irish Catholics, religion, Catholics
+hunger strike, part of, escalation of the protests
+hunger strike, country, British
+1981 hunger strike, point in time, 1981
+Northern Irish Catholics, subclass of, Catholics
+Belfast, capital of, Northern Ireland
+1981 hunger strike, follows, 1980
+Bobby Sands, significant event, hunger strike
+hunger strike, instance of, legitimate means of instigating change
+political, part of, social
+Good Friday Agreement, inception, 1998
+Good Friday Agreement, point in time, 1998
+Bobby Sands, position held, Member of Parliament
+1980, followed by, 1981 hunger strikes
+1981 hunger strike, location, Belfast
+Margaret Thatcher, member of political party, Republican
+1981 hunger strike in Belfast, point in time, 1981
+discrimination against Catholics, facet of, Northern Irish Catholics
+hunger strikers, country, British
+hunger strikes, point in time, 1980
+self-worth, said to be the same as, dignity
+the deaths of the hunger strikers, country, British
+self-worth, facet of, dignity
+deaths of the hunger strikers, participant, British government
+Protestants, different from, Catholics
+conflict in Northern Ireland, political ideology, Irish republican
+poets, subclass of, writers
+social, has part, political
+hunger strike, participant, British government
+Northern Ireland, capital, Belfast
+social, part of, political
+hunger strike, facet of, prisoners
+1981 hunger strikes, follows, 1980
+peace process, facet of, Northern Ireland
+Good Friday Agreement, publication date, 1998
+conflict in Northern Ireland, participant, Irish republican
+hunger strike as a legitimate means of instigating change, subclass of, hunger striking
+prison question, participant, Sinn Fein
+National H-Block Committee, inception, 1980
+Margaret Thatcher's, member of political party, Republican Movement
+poets, subclass of, writer
+Northern Ireland's politics, facet of, conflict between Catholics and Protestants
+hunger strikers, participant, IRA
+prisoners who participated in it, participant in, hunger strike
+Margaret Thatcher, member of political party, Republican Movement
+peace process, location, Northern Ireland
+prison question, has effect, Anglo-Irish Agreement
+deaths of the hunger strikers, country, British
+1980, followed by, 1981 hunger strike
+hunger strike, participant, prisoners
+poet, subclass of, writer
+Sinn Fein, political ideology, prison question

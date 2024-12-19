@@ -1,0 +1,15 @@
+entity;surface
+gold;gold, discovery of gold
+California;California
+Gold Rush;Gold Rush
+Sutter's Mill;Sutter's Mill
+John Sutter;John Sutter, Sutter
+Swiss;Swiss
+Sutter's Fort;Sutter's Fort
+Sacramento Valley;Sacramento Valley
+businesses;businesses
+James Marshall;James Marshall, Marshall
+Coloma;Coloma
+President James Polk;President James Polk, James Polk
+December 1848;December 1848
+national sensation;national sensation

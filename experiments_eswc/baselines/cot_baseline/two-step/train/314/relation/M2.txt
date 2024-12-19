@@ -1,0 +1,10 @@
+subject;predicate;object
+CSI effect;is a concern due to;exaggerated portrayal of forensic science in popular TV shows like "CSI," "NCIS," and "Bones"
+Viewers;may develop;unrealistic expectations of how evidence is collected and analyzed
+Viewers;may develop;unrealistic expectations of how evidence is collected and analyzed
+Viewers;may develop;unrealistic expectations of how evidence is collected and analyzed
+demand;has increased;influenced by the attention on forensic scientists in media
+technology;advances;people
+people;may expect;quick and definitive results like those seen on TV
+people;may expect;quick and definitive results like those seen on TV
+challenge;lies in;balancing entertainment with accuracy in portraying forensic science

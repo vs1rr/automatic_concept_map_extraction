@@ -1,0 +1,20 @@
+subject;predicate;object
+gothic architecture;influenced;gothic castles
+gothic novels;influenced;gothic castles
+gothic architecture;revolutionized;castle design
+gothic architecture;included;features
+gothic architecture;included;flying buttresses
+gothic architecture;included;grand vaulted ceilings
+gothic novels;created;spooky and eerie images
+gothic novels;led to;popular perception
+gothic novels;led to;perception
+gothic novels;led to;popular perception
+gothic novels;led to;popular perception of castles
+gothic novels;led to;popular perception of them
+gothic novels;led to;popular perception of haunted and mysterious places
+specific examples;include;Hunyad Castle
+specific examples;include;Malbork Castle
+Hunyad Castle;known for;gothic architecture
+Hunyad Castle;known for;eerie legends
+Malbork Castle;known for;gothic architecture
+Malbork Castle;known for;eerie legends

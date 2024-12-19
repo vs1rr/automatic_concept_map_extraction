@@ -1,0 +1,8 @@
+entity;surface
+Washington-Centerville Public Library;The Washington-Centerville Public Library
+Book of Kells;Book of Kells
+9th-century illuminated manuscript;9th-century illuminated manuscript
+Trinity College;Trinity College
+Dublin;Dublin
+half a million people;half a million people
+Centerville, Ohio;Centerville, Ohio

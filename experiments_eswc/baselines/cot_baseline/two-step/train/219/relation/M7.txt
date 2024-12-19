@@ -1,0 +1,16 @@
+subject;predicate;object
+Manhattan Project;led by;Leslie Groves
+Manhattan Project;led by;J. Robert Oppenheimer
+Manhattan Project;produced;three atomic bombs
+atomic bombs;used in;live test
+atomic bombs;dropped on;Hiroshima
+atomic bombs;dropped on;Nagasaki
+atomic bombs;led to;end of World War 2
+text;discusses development of;atomic bomb
+text;focuses on;Manhattan Project
+text;details;scientific breakthroughs in nuclear physics
+text;details;chain reaction concept
+text;details;efforts of scientists to warn world leaders
+text;reflects on;ethical implications of using atomic bombs
+text;reflects on;nuclear arms race
+text;emphasizes importance of;preventing use of destructive weapons

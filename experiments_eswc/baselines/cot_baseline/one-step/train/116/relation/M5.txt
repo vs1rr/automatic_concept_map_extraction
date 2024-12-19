@@ -1,0 +1,11 @@
+subject;predicate;object
+Edward la Zouche;was known for;vote against condemning Mary, Queen of Scots
+Edward la Zouche;was known for;stag-hunt mishap involving the Archbishop of Canterbury
+Edward la Zouche;had;interests in the New World
+Edward la Zouche;had;interests in horticulture
+Edward la Zouche;held;various prestigious positions
+Edward la Zouche;married;twice
+Edward la Zouche;abandoned;his first wife
+Edward la Zouche;played a role in;sending four children to America on the Mayflower
+Edward la Zouche;led to;a succession dispute within his family
+Edward la Zouche;death in;1625

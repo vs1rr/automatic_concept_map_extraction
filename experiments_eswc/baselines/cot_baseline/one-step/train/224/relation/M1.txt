@@ -1,0 +1,6 @@
+subject;predicate;object
+Gold Rush of 1849;was sparked by;discovery of gold nuggets in the Sacramento Valley
+Gold Rush of 1849;led to;massive influx of prospectors to California
+population;surged from;less than 1,000 to 100,000 by the end of 1849
+population;surged with;$2 billion worth of gold extracted
+discovery at Sutter's Mill;marked the beginning of;historic event

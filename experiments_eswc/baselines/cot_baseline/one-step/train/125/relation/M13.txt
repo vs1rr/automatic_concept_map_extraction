@@ -1,0 +1,8 @@
+subject;predicate;object
+Files;categorized under;"Built in Virginia in 1852"
+Files;include;1850s architecture in Virginia
+Files;include;Buildings in Virginia by year of completion
+Files;mention;Houses built in Virginia in 1852
+Files;mention;Capon Chapel
+Files;mention;Chain Bridge
+Files;mention;Houses built in Virginia in 1852

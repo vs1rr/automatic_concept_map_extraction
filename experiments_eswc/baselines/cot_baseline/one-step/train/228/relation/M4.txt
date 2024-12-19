@@ -1,0 +1,13 @@
+subject;predicate;object
+Convention of 1833;aimed to address;various issues
+Convention of 1833;held in;San Felipe
+Convention of 1833;adjourned on;April 13
+Delegates;included;Sam Houston
+Delegates;petitioned for;statehood
+Delegates;presented;constitution
+Sam Houston;attended;Convention of 1833
+Sam Houston;petitioned for;statehood
+Sam Houston;presented;constitution
+Stephen F. Austin;traveled to;Mexico
+Stephen F. Austin;presented;petitions
+Stephen F. Austin;traveled alone to;Mexico

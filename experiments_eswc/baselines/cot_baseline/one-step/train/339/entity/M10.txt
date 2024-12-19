@@ -1,0 +1,13 @@
+entity;surface
+nullification;nullification
+Thomas Jefferson;Thomas Jefferson
+James Madison;James Madison
+Constitution;Constitution
+federal laws;federal laws
+lawsuits;lawsuits
+states;states
+country;country
+confederate system;confederate system
+alternative legal means;alternative legal means
+constitutional implications;constitutional implications
+interposition;interposition

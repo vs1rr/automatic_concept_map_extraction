@@ -1,0 +1,18 @@
+Clifton Suspension Bridge, location, Bristol
+Bristol, capital of, county
+SS Great Britain, located in the administrative territorial entity, Bristol
+Bristolian, instance of, dialect
+Banksy, field of work, street art
+electronics, instance of, industries
+Banksy, genre, street art
+South West England, instance of, county
+county, capital, Bristol
+South West England, capital, Bristol
+aerospace industries, subclass of, electronics
+aerospace, subclass of, electronics
+South West England, contains administrative territorial entity, county
+Banksy, movement, street art
+SS Great Britain, location, Bristol
+Bristolian, indigenous to, Bristol
+county, located in the administrative territorial entity, South West England
+Bristolian, located in the administrative territorial entity, Bristol

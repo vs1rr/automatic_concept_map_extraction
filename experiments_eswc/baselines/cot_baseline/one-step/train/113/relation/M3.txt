@@ -1,0 +1,14 @@
+subject;predicate;object
+author;introduced to;Theravada Buddhism
+monks;follow;strict rules
+monks;study;for a year
+monks;traveling to;share their knowledge
+tour;included;statues representing stages of the Buddha's quest for Enlightenment
+session;followed by;guidance from a monk
+day;continued with;visit to Borobudur Temple
+Borobudur Temple;showcasing;different levels symbolizing the path to enlightenment
+temple;rediscovered in;1814
+temple;restored by;UNESCO and the Indonesian government
+contrast;provided;unique insight into the same religion in different settings
+monastery;contrast with;bustling temple
+monastery;provided;unique insight into the same religion in different settings

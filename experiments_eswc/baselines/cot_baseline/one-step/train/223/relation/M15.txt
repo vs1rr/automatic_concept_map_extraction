@@ -1,0 +1,14 @@
+subject;predicate;object
+Battle of Manzikert;resulted in;defeat of Byzantine Empire
+Battle of Manzikert;resulted in;capture of Emperor Romanus IV Diogenes
+Battle of Manzikert;took place near;Manzikert
+Byzantine Empire;suffered;defeat at Manzikert
+Alp Arslan;treated with;kindness Romanus
+Romanus;faced;betrayal
+Romanus;faced;gruesome fate
+defeat at Manzikert;marked beginning of;decline of Byzantine Empire
+decline of Byzantine Empire;led to;losses of territory to Seljuks
+defeat at Manzikert;considered;turning point in Byzantine history
+defeat at Manzikert;contributed to;empire's eventual downfall
+defeat at Manzikert;impacted;geopolitical landscape of the region
+defeat at Manzikert;influencing;later Crusades

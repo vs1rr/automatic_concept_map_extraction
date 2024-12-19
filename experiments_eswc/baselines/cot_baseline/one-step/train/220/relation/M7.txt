@@ -1,0 +1,22 @@
+subject;predicate;object
+British Empire;originated in;late 16th century
+British Empire;established in;India
+British Empire;established in;East Indies
+British Empire;established in;Newfoundland
+British Empire;established in;Hudson Bay
+empire;expanded with;growth of plantations
+empire;attracting;European settlers
+empire;relying on;African slave trade
+Navigation Acts;passed to ensure;imperial self-sufficiency
+Navigation Acts;passed to increase;British wealth
+British encroachment;led to;greater direct control
+British encroachment;rivalry with;France
+British encroachment;rivalry with;Spain
+British encroachment;rivalry with;Dutch
+British encroachment;in;India
+British encroachment;in;Canada
+British encroachment;in;Africa
+British East India Company;victory over;French counterpart
+Treaty of Paris;firmly established;British presence
+financial strain;led to;end of first British Empire
+American Revolution;led to;end of first British Empire

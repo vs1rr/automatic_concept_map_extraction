@@ -1,0 +1,9 @@
+subject;predicate;object
+British scientists;joined;Manhattan Project
+British scientists;assisted in developing;atomic bomb
+British scientists;made;crucial contributions
+British scientists;were essential for;project's success
+British scientists;collaborated with;American allies
+British scientists;collaborated with;Canadian allies
+collaboration;impacted;outcome of the war
+collaboration;influenced;nuclear programs of major countries

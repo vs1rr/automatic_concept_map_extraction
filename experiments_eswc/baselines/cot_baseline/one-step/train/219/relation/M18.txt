@@ -1,0 +1,14 @@
+subject;predicate;object
+Manhattan Project;developed;atomic bombs
+American scientists;organized;Manhattan Project
+Manhattan Project;involved;research
+Manhattan Project;involved;development
+Manhattan Project;involved;production
+research;involved;fissionable materials
+fissionable materials;included;uranium-235
+fissionable materials;included;plutonium-239
+nuclear explosion;occurred;July 1945
+nuclear explosion;occurred;New Mexico
+nuclear explosion;led to;dropping
+dropping;occurred;Hiroshima
+dropping;occurred;Nagasaki

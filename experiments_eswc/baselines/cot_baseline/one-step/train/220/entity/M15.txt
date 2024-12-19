@@ -1,0 +1,8 @@
+entity;surface
+British Empire;British Empire
+India;India
+Christianity;Christianity
+navy;navy
+weaponry;weaponry
+organization;organization
+kingdoms;kingdoms

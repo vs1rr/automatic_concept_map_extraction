@@ -1,0 +1,18 @@
+subject;predicate;object
+Late Antiquity;period;350 to 600
+Late Antiquity;focus on;Byzantine Empire
+Byzantine Empire;origin;Byzantine Empire
+Byzantine Empire;source of;Byzantine strength
+Byzantine Empire;source of;intellectual life
+Byzantine Empire;source of;science
+Byzantine Empire;source of;medicine
+Byzantine Empire;growth of;Christian church
+Christian church;leadership within;church
+Christian church;growth of;Christian monasticism
+Christian church;growth of;Christian ideas and practices
+Christian church;spread of;missionaries and conversion
+Germanic tribes;societal structures of;during this period
+Byzantine Empire;development of;Byzantine Empire
+Byzantine Empire;role of;Christianity
+Byzantine Empire;spread of;monasticism
+Germanic tribes;societal structures of;during this period

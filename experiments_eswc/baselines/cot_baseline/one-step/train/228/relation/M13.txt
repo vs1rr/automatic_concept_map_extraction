@@ -1,0 +1,14 @@
+subject;predicate;object
+Long Expedition;aimed to conquer;Texas
+Long Expedition;declaring;Texas an independent Republic
+Long Expedition;driven back by;Spanish troops
+Subsequent events;included;Mexican control
+Subsequent events;included;the Law of April 6, 1830
+Subsequent events;included;the Battle of Velasco
+Subsequent events;included;the Convention of 1836
+Convention of 1836;led to;Declaration of Independence
+Declaration of Independence;followed by;Battle of the Alamo
+Declaration of Independence;followed by;Massacre at Goliad
+Declaration of Independence;followed by;Battle of San Jacinto
+Battle of San Jacinto;resulted in;Texas winning independence
+Battle of San Jacinto;resulted in;the birth of the Republic of Texas

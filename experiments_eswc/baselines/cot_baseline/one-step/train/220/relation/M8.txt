@@ -1,0 +1,10 @@
+subject;predicate;object
+British Empire;spanned;quarter of the world
+British Empire;made;United Kingdom most powerful country
+British Empire;included;dominions, colonies, protectorates, and mandates
+English;most common international language
+British Empire;expanded;Asia, Africa, and the Pacific
+world wars;led to;decolonization
+India;gained;independence in 1947
+African countries;followed;in the 1960s
+Queen Elizabeth II;shared head of state;Commonwealth nations

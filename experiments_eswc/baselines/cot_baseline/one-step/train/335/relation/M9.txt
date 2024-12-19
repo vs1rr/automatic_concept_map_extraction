@@ -1,0 +1,10 @@
+subject;predicate;object
+Pendle witches;charged with;murder in 1612
+voices of the Pendle witches;will be brought to life in;Lancaster University's upcoming Public Lectures
+lecture;will explore;testimonies recorded by Thomas Potts
+event;titled;'Beyond the Lancashire Witches: Writing and Freedom'
+event;will take place on;November 27
+event;is free to attend; 
+event;will cover;topics such as Lancaster's scientific contributions, the NHS, and nuclear new build
+for more information;visit;www.lancaster.ac.uk/50
+for more information;call;01524 592809

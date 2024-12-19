@@ -1,0 +1,11 @@
+entity;surface
+Book of Kells;The Book of Kells
+Trinity College;Trinity College
+Dublin;Dublin
+Celtic monks;Celtic monks
+New Testament;the New Testament
+Christian symbolism;Christian symbolism
+calf vellum;calf vellum
+iron gall ink;iron gall ink
+Trinity College's Long Room library;Trinity College's Long Room library
+Bram Stoker's Dracula;Bram Stoker's Dracula

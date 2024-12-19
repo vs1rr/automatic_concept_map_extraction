@@ -1,0 +1,10 @@
+subject;predicate;object
+Brazil;declared independence from;Portugal
+Dom Pedro I;proclaimed;freedom in the Grito de Ipiranga
+Portugal;controlled;Brazil for profit
+Portuguese court;relocated to;Rio de Janeiro
+João VI's decision;led to;tensions
+Brazil;peacefully broke away from;Portugal
+Pedro I;declared;"Independence or Death!"
+Portugal;did not resist;Brazil
+Brazil;established;a monarchy post-independence

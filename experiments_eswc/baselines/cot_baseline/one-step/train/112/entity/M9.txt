@@ -1,0 +1,22 @@
+entity;surface
+Book of Kells;The Book of Kells
+relic;significant relic
+678 illustrated pages;678 illustrated pages
+calf-skin;made of calf-skin
+vellum;made of vellum
+natural dyes;colored with natural dyes
+monks;by monks
+symbols;symbols
+Apostles;representing the Apostles
+Twelve Tribes of Israel;Twelve Tribes of Israel
+Irish people;Irish people
+Tribe of Dan;Tribe of Dan
+Ireland;Ireland
+Book of Kells;The Book of Kells
+four tribal standards;four tribal standards
+Apocalypse/Revelation;Apocalypse/Revelation
+tribes of Israel;tribes of Israel
+emblems;emblems
+Gospels;Gospels
+Irish;Irish
+Israelites;Israelites

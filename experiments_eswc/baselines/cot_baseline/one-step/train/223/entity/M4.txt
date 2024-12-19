@@ -1,0 +1,10 @@
+entity;surface
+Constantinople;Constantinople, New Rome, Istanbul
+Byzantium;Byzantium
+Eastern Roman Empire;Eastern Roman Empire
+Rome;Rome
+Emperor Constantine;Emperor Constantine
+4th century;early 4th century
+Theodosian walls;Theodosian walls
+7 hills;7 hills
+Various forums;Various forums

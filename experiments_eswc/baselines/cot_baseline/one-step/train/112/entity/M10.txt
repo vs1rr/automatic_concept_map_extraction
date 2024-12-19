@@ -1,0 +1,6 @@
+entity;surface
+Book of Kells;The Book of Kells, the Book of Kells
+Trinity College Library;Trinity College Library
+Dublin;Dublin
+Hackley Public Library;Hackley Public Library
+North American;North American

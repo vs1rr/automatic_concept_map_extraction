@@ -1,0 +1,15 @@
+subject;predicate;object
+James Madison;rejected;idea of a single state nullifying national laws
+James Madison;advocated for;interposition
+Madison;advocated for;interposition
+Madison;advocated for;public opinion
+Madison;advocated for;protests
+Madison;advocated for;petitions
+Madison;advocated for;actions by state legislatures
+Madison;clarifies distinction between;interposition and nullification
+Virginia and Kentucky Resolutions;are examples of;debates over federalism and constitutionalism
+Virginia and Kentucky Resolutions;are examples of;debates over federalism
+Virginia and Kentucky Resolutions;are examples of;debates over constitutionalism
+people;are;collective sovereign
+people;are;monitoring the constitutional operation of the government
+people;are;clarifies distinction between interposition and nullification

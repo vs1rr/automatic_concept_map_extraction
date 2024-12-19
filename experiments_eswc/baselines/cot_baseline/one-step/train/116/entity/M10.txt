@@ -1,0 +1,13 @@
+entity;surface
+Bellmans Auctioneers;Bellmans Auctioneers
+Bramshill House;Bramshill House
+Hampshire;Hampshire
+May auction;May auction
+elm and oak refectory table;massive elm and oak refectory table
+Robert 'Mouseman' Thompson;Robert 'Mouseman' Thompson
+ceremonial armchairs;ceremonial armchairs
+Her Majesty the Queen;Her Majesty the Queen
+HRH Prince Phillip;HRH Prince Phillip
+four days;four days
+police helmet image;police helmet image
+the-saleroom.com;the-saleroom.com

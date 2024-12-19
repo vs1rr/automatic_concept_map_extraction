@@ -1,0 +1,19 @@
+subject;predicate;object
+Capon Chapel;located near;Capon Bridge
+Capon Chapel;located in;Hampshire County
+Capon Chapel;built in;mid-19th-century
+Capon Chapel;featured in;October 2 Wikipedia article
+Capon Chapel;has surface;869 feet
+Capon Chapel;has latitude;39.2698239
+Capon Chapel;has longitude;-78.4444521
+Capon Chapel;associated with;Capon Chapel United Methodist Church
+Capon Chapel;associated with;Capone Chapel Cemetery
+Capon Chapel;associated with;Capon Bridge United Methodist Charge
+Capon Chapel;associated with;Amazing Grace Baptist church
+Capon Chapel;associated with;Pastor Alannah Mc Guinn
+Capon Chapel;associated with;Pastor Chris Leatherman
+Capon Chapel;has phone number;(304) 856-2483
+Capon Chapel;has address;1999 Fried Meat Ridge Road, Keyser, WV 26726
+Capon Chapel;part of;National Register of Historic Places
+Capon Chapel;denomination;Baptist, Methodist, Christian and Missionary Alliance, Foursquare, Assemblies of God
+Capon Chapel;has ZIP Code;WV 26711

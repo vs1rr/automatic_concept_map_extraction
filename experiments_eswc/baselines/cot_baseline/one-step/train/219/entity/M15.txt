@@ -1,0 +1,10 @@
+entity;surface
+World War 2;World War II
+British scientists;British scientists
+Manhattan Project;Manhattan Project
+Los Alamos;Los Alamos
+New Mexico;New Mexico
+atomic bomb;atomic bomb
+American;American
+Canadian;Canadian
+nuclear programs;nuclear programs

@@ -1,0 +1,9 @@
+subject;predicate;object
+Alien and Sedition Acts;passed amidst;concerns about constitutionality
+Alien and Sedition Acts;passed amidst;concerns about freedom of speech and the press
+James Madison;criticized;Sedition Act
+James Madison;criticized;unconstitutional
+James Madison;criticized;potential to restrict freedoms
+Madison's concerns;reflected;deeper debate over differences between British and American ideas of free speech and sedition laws
+Acts;seen as;response to foreign relations and preparations for war with France
+Acts;highlighting;political context of enactment

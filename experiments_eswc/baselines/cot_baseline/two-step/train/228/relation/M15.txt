@@ -1,0 +1,13 @@
+subject;predicate;object
+Texas colonists;tensions between;Mexican authorities
+Texas colonists;highlighted conflicts arising from;changes in power in Mexico City
+Fredonian Rebellion;occurred in;1823
+Mier y Teran investigation;occurred in;1833
+Law of April 6, 1830;affected;Texas colonists
+Anahuac conflict;involved;Texas colonists
+Turtle Bayou Resolutions;related to;Texas colonists
+Battle of Velasco;involved;Texas colonists
+Conventions of 1832 and 1833;discussed in;the presentation
+Stephen F. Austin;made efforts to secure;Texas statehood
+Stephen F. Austin;experienced;imprisonment
+reforms;started in;the region

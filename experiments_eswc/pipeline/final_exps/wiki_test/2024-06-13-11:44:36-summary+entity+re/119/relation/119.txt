@@ -1,0 +1,82 @@
+Wharncliffe Viaduct, operator, Great Western Railway
+two universities, headquarters location, Bristol
+Lord Caldecote, genre, maritime painting
+South West England, instance of, county
+Great Western Railway, designed by, Isambard Kingdom Brunel
+Georgian, instance of, architectural style
+Windsor Bridge, architect, Brunel's designs
+Windsor Bridge, architect, Brunel
+Inside Out West, production company, BBC
+SS Great Britain, location, Bristol
+rich history, facet of, Bristol
+Banksy, movement, street art
+Bristol, instance of, city
+Bristol's Floating Harbour, inception, 1809
+Inside Out West, original broadcaster, BBC
+Bristolian, located in the administrative territorial entity, Bristol
+Clifton Suspension Bridge, instance of, roadside landmarks
+Roman settlements, time period, Iron Age
+Wharncliffe Viaduct, carries, Great Western Railway
+British Empire and Commonwealth Museum, location, Bristol
+British Empire and Commonwealth Museum, headquarters location, Bristol
+Bristolian, instance of, dialect
+Gareth Griffiths, position held, director of the museum
+Moorish, instance of, architectural style
+maritime heritage, facet of, Bristol
+history, facet of, Bristol
+Tudor, followed by, Georgian
+Floating Harbour, located in the administrative territorial entity, Bristol
+maritime heritage, located in the administrative territorial entity, Bristol
+Clifton Suspension Bridge, carries, Thames Tunnel
+Iron Age, has part, Roman
+Gareth Griffiths, occupation, director
+Roman, time period, Iron Age
+universities, location, Bristol
+South West, instance of, region of England
+Industrial Revolution, instance of, historical significance
+SS Great Britain, located in the administrative territorial entity, Bristol
+England, contains administrative territorial entity, South West
+Clifton Suspension Bridge, country, UK's
+Isambard Kingdom Brunel, notable work, Great Western Railway
+county, located in the administrative territorial entity, South West England
+county, capital, Bristol
+historical significance, facet of, Industrial Revolution
+Clifton Suspension Bridge, architect, Brunel
+Granary in Bristol, architectural style, Bristol Byzantine
+British Empire and Commonwealth Museum, located in the administrative territorial entity, Bristol
+Banksy, field of work, street art
+two universities, location, Bristol
+South West England, contains administrative territorial entity, county
+South East, located in the administrative territorial entity, London
+Gareth Griffiths, position held, director
+Clifton Suspension Bridge, country, UK
+Banksy, genre, street art
+maritime painting, creator, Lord Caldecote
+Venetian, influenced by, Byzantine
+London, shares border with, South East
+abbey life, time period, medieval
+Floating Harbour, location, Bristol
+South West region, located in the administrative territorial entity, England
+Great Western Railway, architect, Isambard Kingdom Brunel
+Windsor Bridge, instance of, bridge
+Inside Out West, distributed by, BBC
+England, contains administrative territorial entity, South West region
+rock music, subclass of, venue
+maritime heritage, location, Bristol
+Clifton Suspension Bridge, location, Bristol
+Granary in Bristol, inception, 1869
+South West, located in the administrative territorial entity, England
+South West England, capital, Bristol
+Byzantine, instance of, architectural style
+port city, time period, Industrial Revolution
+Tudor, subclass of, Georgian
+abbey, located in the administrative territorial entity, Bristol
+Bristolian, indigenous to, Bristol
+Bristol, capital of, county
+Clifton, location, Bristol
+Georgian squares, located in the administrative territorial entity, Bristol
+Clifton Suspension Bridge, designed by, Brunel
+South East, shares border with, London
+Box Tunnel, operator, Great Western Railway
+Lord Caldecote, field of work, maritime painting
+Venetian, instance of, architectural style

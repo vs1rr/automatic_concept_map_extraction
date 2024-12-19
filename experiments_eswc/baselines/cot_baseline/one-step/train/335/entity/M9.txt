@@ -1,0 +1,12 @@
+entity;surface
+Pendle witches;Pendle witches
+Lancaster University;Lancaster University
+Public Lectures;Public Lectures
+Thomas Potts;Thomas Potts
+Lancaster;Lancaster
+NHS;NHS
+nuclear new build;nuclear new build
+Beyond the Lancashire Witches: Writing and Freedom;Beyond the Lancashire Witches: Writing and Freedom
+November 27;November 27
+www.lancaster.ac.uk/50;www.lancaster.ac.uk/50
+01524 592809;01524 592809

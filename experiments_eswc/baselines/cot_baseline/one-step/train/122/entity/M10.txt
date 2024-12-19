@@ -1,0 +1,14 @@
+entity;surface
+Bruce Castle Museum;Bruce Castle Museum
+16th-century manor house;16th-century manor house
+London;London
+Haringey Council;Haringey Council
+Bruce family;Bruce family
+Post Office;Post Office
+Rowland Hill;Rowland Hill
+Tottenham Hotspur Football Club;Tottenham Hotspur Football Club
+social history;social history
+local landscape;local landscape
+local artists;local artists
+collections;collections
+artworks;artworks

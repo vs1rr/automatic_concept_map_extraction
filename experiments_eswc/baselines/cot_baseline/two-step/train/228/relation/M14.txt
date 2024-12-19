@@ -1,0 +1,12 @@
+subject;predicate;object
+David Crockett;born;1800s
+Sam Houston;born;1800s
+Antonio López de Santa Anna;born;1800s
+Mexico;gain independence from;Spain
+George Fisher;involved in;actions
+Gonzales;location of;battles
+Goliad;location of;battles
+Alamo;location of;battles
+Texas Declaration of Independence;signed by;Texas colonists
+Battle of San Jacinto;secured independence for;Texas
+Republic of Texas;signed;Treaties of Velasco

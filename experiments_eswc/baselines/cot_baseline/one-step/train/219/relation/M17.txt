@@ -1,0 +1,10 @@
+subject;predicate;object
+Charlie Isaacs;faces challenges;scientists
+Thin Man project;has issues with;impurities in plutonium
+Charlie Isaacs;faces moral dilemmas;physicist
+Charlie Isaacs;decides to pursue;solution
+Nazis;obtain;bomb
+British scientists;contribute to;Manhattan Project
+women;face struggles;pursuing professional interests
+plutonium groups;work to design;functional bomb
+episode;promises developments;story

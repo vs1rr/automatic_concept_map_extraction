@@ -1,0 +1,10 @@
+subject;predicate;object
+Ancient Egypt;influenced;Western traditions
+Old Kingdom;built;first pyramids
+Middle Kingdom;introduced;myth of Osiris
+Middle Kingdom;introduced;intricate jewelry
+New Kingdom;brought;Valley of the Kings
+New Kingdom;shift towards;monotheism
+New Kingdom;under;Akhenaton
+ancient Egypt;continues to shape;modern beliefs
+ancient Egypt;continues to shape;modern culture

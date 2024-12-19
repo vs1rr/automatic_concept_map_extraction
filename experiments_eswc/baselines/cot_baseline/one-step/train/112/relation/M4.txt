@@ -1,0 +1,41 @@
+entity;predicate;surface
+Book of Kells;created by;Irish monks
+Book of Kells;contains;the four Gospels of the New Testament
+Book of Kells;housed at;Trinity College Dublin Library
+Book of Kells;showcases;Hiberno-Saxon style and Insular art
+Book of Kells;linked to;monasteries in Iona and Kells
+Book of Kells;influenced by;Eastern art
+Book of Kells;features;symbols of the Evangelists
+Book of Kells;features;intricate illuminations
+Book of Kells;features;unique narrative illustrations
+Book of Kells;highlights;rich tradition of early Christian art in Ireland, Scotland, and England
+Trinity College Dublin;houses;the manuscript
+Trinity College Dublin;showcases;the Hiberno-Saxon style and Insular art
+Trinity College Dublin;contains;the Book of Kells
+Trinity College Dublin;features;Trinity College's Long Room library
+Trinity College Dublin;features;the Old Library
+Iona;linked to;the origins and history of the Book of Kells
+Kells;linked to;the origins and history of the Book of Kells
+Kells;linked to;the Book of Kells
+Kells;linked to;debates on its creation and authors
+Illuminated manuscript;adorned with;intricate illuminations and colorful illustrations
+Illuminated manuscript;features;symbols of the Evangelists
+Illuminated manuscript;influenced by;Eastern art
+Illuminated manuscript;contains;the four Gospels of the New Testament
+Illuminated manuscript;contains;rare colors
+Illuminated manuscript;contains;embellishments
+Illuminated manuscript;features;intricate illuminations
+Illuminated manuscript;features;unique narrative illustrations
+Illuminated manuscript;created by;Irish monks
+Illuminated manuscript;housed at;Trinity College Dublin Library
+Illuminated manuscript;showcases;the Hiberno-Saxon style and Insular art
+Illuminated manuscript;highlights;rich tradition of early Christian art in Ireland, Scotland, and England
+Illuminated manuscript;contains;symbols
+Illuminated manuscript;contains;Apostles
+Illuminated manuscript;contains;Twelve Tribes of Israel
+Illuminated manuscript;contains;Tribe of Dan
+Illuminated manuscript;contains;four tribal standards
+Illuminated manuscript;contains;Apocalypse/Revelation
+Illuminated manuscript;contains;tribes of Israel
+Illuminated manuscript;contains;emblems
+Illuminated manuscript;contains;Israelites

@@ -1,0 +1,16 @@
+subject;predicate;object
+Emperor Justinian I;born in;482 CE
+Emperor Justinian I;known for;military campaigns
+Emperor Justinian I;known for;construction projects
+Emperor Justinian I;known for;completion of the Codex Iustinianus
+Emperor Justinian I;involved in;close ties to Emperor Justin I
+Emperor Justinian I;began;military career in the east
+Emperor Justinian I;successfully reconquered;Africa from the Vandals
+Emperor Justinian I;successfully reconquered;Italy from the Goths
+Emperor Justinian I;facing;challenges such as the Gothic War
+Emperor Justinian I;facing;challenges such as the Justinianic Plague
+Emperor Justinian I;reign lasted;almost 40 years
+Procopius;documented;life and achievements of Justinian I
+Procopius;highlighted;legal reforms of Justinian I
+Procopius;highlighted;conquests of Justinian I
+Procopius;highlighted;architectural projects of Justinian I

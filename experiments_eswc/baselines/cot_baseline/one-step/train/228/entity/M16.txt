@@ -1,0 +1,15 @@
+entity;surface
+San Felipe de Austin;San Felipe de Austin
+"Birthplace of Anglo-American Settlement in Texas";Birthplace of Anglo-American Settlement in Texas
+Stephen F. Austin;Stephen F. Austin, Austin
+1824;1824
+Texas;Texas
+Conventions of 1832;Conventions of 1832
+Conventions of 1833;Conventions of 1833
+Consultation of 1835;Consultation of 1835
+Texas Declaration of Independence;Texas Declaration of Independence
+War for Independence;War for Independence
+Stephen F. Austin State Park;Stephen F. Austin State Park
+Austin colony;Austin colony
+Austin's cabin;Austin's cabin
+museum;museum

@@ -1,0 +1,13 @@
+subject;predicate;object
+James Madison;discusses;Virginia Resolutions of 1798
+report;emphasizes;importance of maintaining and defending the Constitution of the United States and the states
+report;expressing;warm attachment to the Union
+report;pledging;to oppose any violations of its principles
+report;delves into;powers of the federal government
+states;role as parties to the Constitution;parties to the Constitution
+states;right to interpose in case of dangerous breaches of the Constitution;right of states
+report;argues that;states have the ultimate authority to judge violations of the Constitution
+states;sovereign parties to the constitutional compact;ultimate authority to judge violations of the Constitution
+states;sovereign parties to the constitutional compact;even by the judiciary
+report;concludes by highlighting;necessity of upholding fundamental principles
+report;concludes by highlighting;sovereignty of the people over constitutions

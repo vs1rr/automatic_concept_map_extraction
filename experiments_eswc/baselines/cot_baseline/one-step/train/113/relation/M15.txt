@@ -1,0 +1,14 @@
+subject;predicate;object
+Borobudur Temple;located in;Java
+Borobudur Temple;built without;cement
+Borobudur Temple;features;intricate stone carvings
+Borobudur Temple;features;Buddha statues
+Borobudur Temple;features;bas-reliefs
+Borobudur Temple;reflects;blend of Hindu and Buddhist influences
+Borobudur Temple;remains;UNESCO World Heritage site
+Borobudur Temple;remains;pilgrimage destination
+Borobudur Temple;highlights;architectural beauty
+Borobudur Temple;highlights;spiritual ambiance
+Borobudur Temple;highlights;awe-inspiring sunrise
+Borobudur Temple;makes;must-visit destination
+Borobudur Temple;makes;travelers seeking profound cultural experience

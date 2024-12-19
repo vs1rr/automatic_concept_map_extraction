@@ -1,0 +1,10 @@
+subject;predicate;object
+Portugal;alliance with;Britain
+Portugal;fleeing to;Brazil
+Portuguese royal family;fleeing to;Brazil
+Portuguese Empire;decline of;Portuguese Empire
+Brazilian colony;establishment of;Brazilian colony
+Dom Pedro;declaration of;Brazilian independence
+Dom Pedro;defiance of;Portugal
+Dom Pedro;declaration of;Brazilian independence
+Brazil;establishment of;Brazilian Empire

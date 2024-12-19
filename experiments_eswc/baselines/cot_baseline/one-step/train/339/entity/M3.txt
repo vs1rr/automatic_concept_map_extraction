@@ -1,0 +1,30 @@
+entity;surface
+interposition;interposition
+states;states
+sovereign powers;sovereign powers
+federal laws;federal laws
+nullification;nullification
+James Madison;Madison
+single state;single state
+national laws;national laws
+public opinion;public opinion
+protests;protests
+petitions;petitions
+state legislatures;state legislatures
+government;government
+Constitution;Constitution
+historical context;historical context
+theoretical foundation;theoretical foundation
+Federal Constitution;Federal Constitution
+Madison's views;Madison's views
+Virginia and Kentucky Resolutions;Virginia and Kentucky Resolutions
+1790s;1790s
+Nullification Crisis;Nullification Crisis
+1830s;1830s
+debates;debates
+federalism;federalism
+constitutionalism;constitutionalism
+people;people
+collective sovereign;collective sovereign
+constitutional operation;constitutional operation
+distinction;distinction

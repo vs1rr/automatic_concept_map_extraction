@@ -1,0 +1,30 @@
+subject;predicate;object
+Brazilian Independence;influenced by;economic factors
+Brazilian Independence;influenced by;political factors
+Brazilian Independence;influenced by;social factors
+Brazilian Independence;marked by;challenges
+Brazilian Independence;influenced by;abolition of slavery
+Brazilian Independence;shaped by;economic structures
+Brazilian Independence;marked by;conflicts
+Brazilian Independence;marked by;external pressures
+Brazilian Independence;influenced by;Britain
+Brazilian Independence;established by;Brazil
+Brazilian Independence;established by;Portugal
+Brazilian Independence;established by;Napoleon
+Brazilian Independence;influenced by;Portuguese royal family
+Brazilian Independence;influenced by;monarchy
+Brazilian Independence;influenced by;external powers
+Brazilian Independence;influenced by;slavery
+Brazilian Independence;influenced by;role of the monarchy
+Brazilian Independence;influenced by;influence of external powers
+Brazilian Independence;influenced by;impact of slavery
+Brazilian Independence;influenced by;economic structures
+Brazilian Independence;influenced by;abolition of slavery
+Brazilian Independence;influenced by;economic crises
+Brazilian Independence;influenced by;military strengthening
+Brazilian Independence;influenced by;political centralization
+Brazilian Independence;influenced by;international influences
+Brazilian Independence;portrayed as;gradual process
+Brazilian Independence;portrayed as;multifaceted process
+Brazilian Independence;portrayed as;marked by internal conflicts
+Brazilian Independence;portrayed as;marked by external pressures

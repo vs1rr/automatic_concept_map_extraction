@@ -1,0 +1,13 @@
+subject;predicate;object
+Brougham Castle;located in;Cumbria
+Brougham Castle;built by;Robert de Vieuxpont
+Brougham Castle;built in;early 13th Century
+Brougham Castle;strategically located between;rivers Lowther and Eamont
+Brougham Castle;improved with;stone defenses and a new gatehouse
+Brougham Castle;passed through;de Vieuxpont and de Clifford families
+Brougham Castle;witnessed;conflicts and improvements over the centuries
+Brougham Castle;fell into disrepair in;17th Century
+Brougham Castle;restored by;Lady Anne Clifford
+Brougham Castle;managed by;English Heritage
+Brougham Castle;owned by;state
+Brougham Castle;opened to;public

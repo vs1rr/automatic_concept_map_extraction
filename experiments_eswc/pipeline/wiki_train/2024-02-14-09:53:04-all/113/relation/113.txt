@@ -1,0 +1,14 @@
+Borobudur, part of, Prambanan temple complex
+temple, influenced by, Hindu
+Borobudur, located in the administrative territorial entity, Java
+Angkor Wat, country, Cambodia
+Borobudur Temple Compound, country, Indonesia
+Nirvana, represents, Buddhist concept of the Universe
+Borobudur Temple, country, Indonesia
+Borobudur, country, Indonesia
+temple, influences, Hindu
+Borobudur, instance of, Buddhist temple
+Borobudur, religion, Hinduism
+Borobudur temple, instance of, Buddhist temple
+temple, religion, Hindu
+Nirvana, facet of, Buddhist

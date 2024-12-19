@@ -1,0 +1,13 @@
+subject;predicate;object
+Harewood Castle;underwent;restoration project
+Harewood Castle;was granted;license to crenellate
+Harewood Castle;was designed for;security and comfort
+Harewood Castle;featured;defensive elements like a portcullis
+Harewood Castle;featured;mullioned windows
+Harewood Castle;showcased;architectural craftsmanship
+Harewood Castle;was located on;a steep slope
+Harewood Castle;offered;impressive views and status
+Harewood Castle;was shared by;different families
+Harewood Castle;fell into;disrepair
+Harewood Castle;abandoned;for unknown reasons
+Harewood Castle;leaving;its fate and eventual decline open to speculation

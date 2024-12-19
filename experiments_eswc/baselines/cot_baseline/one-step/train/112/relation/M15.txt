@@ -1,0 +1,15 @@
+subject;predicate;object
+Book of Kells;is a;9th-century illuminated manuscript
+Book of Kells;was produced in;Scotland and Ireland
+Book of Kells;contains;the four Gospels in Latin
+Book of Kells;contains;exquisite calligraphy
+Book of Kells;contains;decoration
+Book of Kells;contains;rare colors
+Book of Kells;contains;embellishments
+Book of Kells;is showcased in;a set of three notebooks
+Book of Kells;was published by;Thames & Hudson
+Thames & Hudson;publishes;high-quality books
+Thames & Hudson;publishes books on;art
+Thames & Hudson;publishes books on;design
+Thames & Hudson;publishes books on;history
+Thames & Hudson;publishes books on;children's titles

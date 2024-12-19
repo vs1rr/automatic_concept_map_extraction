@@ -1,0 +1,35 @@
+Cottingley fairy photos, instance of, fraud
+Cottingley Fairies, depicts, fairies
+Arthur Conan Doyle, religion, spiritualism
+Lord Uxbridge's wooden leg, conflict, Battle of Waterloo
+Edward Gardner, field of work, spiritualism
+Sir Arthur Conan Doyle, member of, Theosophical Society
+Sherlock Holmes, creator, Sir Arthur Conan Doyle
+Edward Gardner, student of, Doyle
+Cottingley Fairies Camera, collection, National Media Museum
+Arthur Conan Doyle, member of, Theosophical Society
+Cottingley Fairies, subclass of, hoax
+Sir Arthur Conan Doyle, instance of, fairy
+Doyle and Edward Gardner, field of work, spiritualism
+Cottingley Fairies, instance of, nature spirits
+Cottingley Fairies, inception, 1917
+fairy photos, location, Cottingley
+Cottingley Fairies, point in time, 1917
+Arthur Conan Doyle, instance of, fairy
+fairies, located in the administrative territorial entity, England
+Sherlock Holmes, creator, Arthur Conan Doyle
+Sir Arthur Conan Doyle, field of work, spiritualists
+fairies, creator, Arthur Conan Doyle
+Cottingley Fairies, instance of, hoax
+Sir Arthur Conan Doyle, field of work, spiritualist
+fairies, facet of, spiritualism
+fairy, instance of, belief in
+fairies, instance of, spiritualism
+Lord Uxbridge, conflict, Battle of Waterloo
+fairies, named after, Cottingley
+Doyle, student, Edward Gardner
+The Strand Magazine, editor, Arthur Conan Doyle
+Cottingley, located in the administrative territorial entity, England
+fairy, instance of, belief
+fairy photos, named after, Cottingley
+Arthur Conan Doyle, field of work, spiritualism

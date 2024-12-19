@@ -1,0 +1,43 @@
+Conant on the Role of the British in the Manhattan Projectby Alex Wellerstein, published March 21st, 2012 The Manhattan Project was a joint effort to build the atomic bomb between the United States, the United Kingdom, and Canada.
+In practice, most of the labor, expense, and manpower came from the United States, and the degree to which the UK and Canada should be equal partners with the US in the bomb project was a controversial subject.
+The British were instrumental in prodding the US into serious action with the MAUD report, and the Canadians had uranium.
+But should that be it?
+This was the question in late 1942, when the US program was undergoing a massive transformation.
+Prior to 1942, the American effort was primarily a research program, trying to answer the question of whether atomic bombs could be built in a reasonable amount of time.
+From late 1942 onward, the effort shifted to a production program, an all-out effort to try and produce an actual bomb for use in the war.
+Would the British be let in on this later phase? Did the United States need the British? Not really, thought James B. Conant, President of Harvard, chairman of the National Defense Research Committee1, and close friend of Vannevar Bush (director of the Office of Scientific Research and Development, which was the civilian side of the Manhattan Project).
+This week’s document is a letter from Conant to Bush from December 1942, outlining the many reasons he thought that the US should essentially abandon the British at that point in the work:2Conant implored Bush to clarify the matter of UK participation before the full-scale bomb project, run by the U.S. Army Corps of Engineers, got under way, “for it will be clearly difficult to continue to have complete scientific interchange on the one hand and restricted development interchange on the other unless the arrangement is carefully spelled out, for the line between research and development is nebulous, and the same people are often involved in both.”
+For Conant, the decision had to be completely pragmatically.
+The was “presumably one one reason” to share secret military information between Allied nations, “namely, to further the prosecution of the war in which both are engaged.”
+The question was, would sharing all information with the British do this?
+He thought not.
+The British were not producing fissile material, for example, so “our passing our knowledge to them [in that subject] will not assist the British in any way in the present war effort.”
+So under this scheme, the British would only get to participate in the parts that they themselves were working on which would actually get them closer to making an atomic bomb during World War II. Which is to say, bomb design, reactors, and plutonium would be left out of the story for the British.
+(“If there be any national rights in this whole area ’49’
+[code for plutonium] may be said to be a strictly U.S. invention.”) Would there be complications? Conant acknowledged that if they cut the UK out at this point, Canada might deny them heavy water.
+That would be annoying, but not a deal-breaker.
+They might also deny them uranium ore, which would be a somewhat more dicey procedure until the US was sure of its access to domestic supplies.
+(They had a considerable amount of high-value ore from the Belgian Congo, but this was insufficient for the entire project.)
+The British, of course, would “certainly be displeased,” but Conant concludes that “there would be no unfairness to the British in this procedure.” What would be the advantage to the US in doing this?
+Conant says simply that it would help with secrecy:The advantages of restricting all further information to the United States is obvious.
+Secrecy could be more easily controlled.
+We are not just reaching the point where the advances are military secrets of the first order of importance.
+Conant and Bush were also worried that the British interest in participating in the bomb project had nothing to do with the current war, but with an eye towards scientific and commercial prestige in the postwar period.
+Conant does not mention this here, though.
+There would be many more salvos on this front as Conant and Bush frantically tried to persuade Roosevelt not to let the British into the full, new Manhattan Project.
+At one point, Bush thought he had convinced FDR of the soundness of this measure.
+But however persuasive Vannevar Bush could be, he couldn’t match up to Winston Churchill.
+By mid-1943, Churchill had convinced Roosevelt that full cooperation was the only true path, and the Quebec Agreement was (secretly) entered into.
+Not only would the British get access to American research, and send a delegation of scientists to Los Alamos, but they would get to have equal say on whether the bombs themselves were used, and whether the US could share the information with any other countries.
+In practice, though, the British were nearly completely kept out of Hanford (James Chadwick visited it once), though they learned much about plutonium through their work at Los Alamos.
+The Canadians founded labs at Montreal and Chalk River, but were more or less excluded from American information by General Groves.
+Conant would eventually embrace the Quebec Agreement as well.
+But his initial reason for wanting to keep the British out — because of the difficulty of controlling secrecy — proved exactly correct.
+It was, after all, Klaus Fuchs, a member of the British delegation to Los Alamos, who proved to be the most significant of the wartime atomic spies.
+Of course, he was wrong the British had nothing to contribute: the British delegation (including Fuchs) made major contributions towards the practical realization of the bomb while at Los Alamos.
+So maybe it all evens out.
+NotesNote that at this point, Office of Scientific Research and Development had taken over most of the responsibilities of the original NDRC.
+The NDRC became the “NDRC of the OSRD” at this point, which meant that it was merely an advisory body of the OSRD.
+[?] Citation: James B. Conant to Vannevar Bush, “US-British Relations on S-1 Project” (14 December 1942), in Bush-Conant File Relating the Development of the Atomic Bomb, 1940-1945, Records of the Office of Scientific Research and Development, RG 227, microfilm publication M1392, National Archives and Records Administration, Washington, D.C., n.d. (ca. 1990), Roll 2, Target 4, Folder 9, “S-1 British Relations Prior to Interim Committee, [Fldr.]
+No. 1 [1942].”
+[?]

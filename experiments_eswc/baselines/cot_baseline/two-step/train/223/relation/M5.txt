@@ -1,0 +1,23 @@
+subject;predicate;object
+Constantine the Great;divided;Roman Empire
+Constantine the Great;made;Christianity
+Constantine the Great;weakened;traditional Roman beliefs
+Constantine the Great;split;empire
+Visigoths;sacked;Rome
+Alaric;led;Visigoths
+Visigoths;marked;invasions
+Constantine's acceptance;weakened;traditional Roman beliefs
+Constantine's acceptance;split;empire
+fall;influenced;economic issues
+fall;influenced;trade deficits
+fall;influenced;inflation
+fall;influenced;military problems
+Germanic tribes;contributed;Empire's decline
+Germanic tribes;led to;fall
+Germanic tribes;contributed;fall
+Germanic tribes;contributed;western half
+Vandals;contributed;Empire's decline
+Franks;contributed;Empire's decline
+Franks;led to;fall
+Franks;contributed;fall
+Franks;contributed;western half

@@ -1,0 +1,16 @@
+California Gold Rush, start time, 1848
+statehood, applies to jurisdiction, California
+Gold Rush of 1849, point in time, 1849
+California, country, American
+American, contains administrative territorial entity, California
+California, located in the administrative territorial entity, American
+Gold Rush, located in the administrative territorial entity, California
+Sutter's Mill, named after, John Sutter
+California Gold Rush, participant, James W. Marshall
+California Gold Rush, located in the administrative territorial entity, California
+California Gold Rush, discoverer or inventor, James W. Marshall
+Sutter's Mill, located in the administrative territorial entity, California
+statehood, facet of, California
+Sacramento Valley, located in the administrative territorial entity, California
+Gold Rush of 1849, located in the administrative territorial entity, California
+American River, located in the administrative territorial entity, California

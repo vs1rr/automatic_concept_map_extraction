@@ -1,0 +1,9 @@
+entity;surface
+Sir William Compton;Sir William Compton, Compton
+Tudor England;Tudor England
+King Henry VIII;King Henry VIII
+Anne Stafford;Anne Stafford
+adultery;accusations of adultery
+Cardinal Wolsey;Cardinal Wolsey
+1528;1528
+sweating sickness;sweating sickness

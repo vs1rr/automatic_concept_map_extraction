@@ -1,0 +1,11 @@
+subject;predicate;object
+California Gold Rush;began in;1848
+gold;discovered at;Sutter's Lumber Mill
+Sutter's Lumber Mill;in;Coloma, California
+prospectors;known as;"forty-niners"
+discovery;occurred before;California
+California;ceded to;United States
+gold;$80 million in;1852
+locations;like;Mormon Island
+locations;like;Bidwell's Bar
+gold strikes;contributing to;frenzy

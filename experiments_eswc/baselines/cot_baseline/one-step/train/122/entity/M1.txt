@@ -1,0 +1,9 @@
+entity;surface
+Bruce Castle Museum;Bruce Castle Museum
+Wood Green Library;Wood Green Library
+Sunday 17 April;Sunday 17 April
+Monday 18 April;Monday 18 April
+Grade I;Grade I
+18th-century;18th-century
+Wednesday to Sunday;Wednesday to Sunday
+1pm to 5pm;1pm to 5pm

@@ -1,0 +1,11 @@
+entity;surface
+Caernarfon Castle;Caernarfon Castle
+Wales;Wales
+castles;castles
+Europe;European
+Neuschwanstein;Neuschwanstein
+Germany;Germany
+medieval towns;medieval towns
+Rothenburg;Rothenburg
+Pontefract Castle;Pontefract Castle
+England;England

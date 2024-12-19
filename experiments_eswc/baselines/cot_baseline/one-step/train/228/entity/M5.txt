@@ -1,0 +1,18 @@
+entity;surface
+Mexico;Mexico
+Texas;Texas
+California;California
+New Mexico;New Mexico
+US;US
+Moses Austin;Moses Austin
+1820;1820
+1823;1823
+Stephen F. Austin;Stephen F. Austin
+Mexico;Mexico
+Anglo;Anglo
+Santa Anna;Santa Anna
+Texas;Texas
+Alamo;Alamo
+Sam Houston;Sam Houston
+Battle of San Jacinto;Battle of San Jacinto
+1837;1837

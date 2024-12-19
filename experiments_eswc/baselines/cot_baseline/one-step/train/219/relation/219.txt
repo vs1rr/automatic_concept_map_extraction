@@ -1,0 +1,10 @@
+subject;predicate;object
+uranium-235;used as;fissile isotope
+Manhattan Project;involved in;development of atomic bomb
+Otto Frisch;involved in;development of atomic bomb
+Klaus Fuchs;involved in;development of atomic bomb
+Winston Churchill;mentioned in;text
+uranium;needed for;atomic bomb
+Manhattan Project;joint effort to build;atomic bomb
+uranium;required in;large quantities
+critical mass;required for;atomic bomb to succeed

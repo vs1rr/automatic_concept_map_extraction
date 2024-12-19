@@ -1,0 +1,70 @@
+entity;predicate;surface
+Book of Kells;housed in;Manuscripts & Archives Research Library at Trinity College Dublin
+Book of Kells;contains;four Gospels in Latin
+Book of Kells;written on;vellum
+Book of Kells;written in;insular majuscule
+Book of Kells;digitally scanned for;online discovery and identification purposes
+Book of Kells;showcasing;intricate Celtic and medieval ornamentation
+Book of Kells;is;a significant work of art and religious text
+Book of Kells;is;medieval illuminated manuscript
+Book of Kells;is;artifact
+Book of Kells;is;religious manuscript
+Book of Kells;is;Gospel book
+Book of Kells;is;Ireland's finest national treasure
+Book of Kells;contains;340 folios
+Book of Kells;contains;various prefaces
+Book of Kells;contains;Gospel passages
+Book of Kells;contains;678 illustrated pages
+Book of Kells;made of;calf vellum
+Book of Kells;colored with;natural dyes
+Book of Kells;represents;Apostles
+Book of Kells;represents;Twelve Tribes of Israel
+Book of Kells;represents;Tribe of Dan
+Book of Kells;represents;four tribal standards
+Book of Kells;contains;emblems
+Book of Kells;contains;symbols
+Book of Kells;contains;Christian iconography
+Book of Kells;contains;Celtic motifs
+Trinity College Dublin;houses;Manuscripts & Archives Research Library
+Trinity College Dublin;houses;Book of Kells
+Trinity College Dublin;houses;Long Room
+Trinity College Dublin;houses;Old Library
+Trinity College Dublin;houses;The Book of Kells
+Trinity College Dublin;houses;The Old Library at Trinity College
+Trinity College Dublin;houses;Book of Armagh
+Trinity College Dublin;houses;Book of Mulling
+Trinity College Dublin;houses;monastery on Iona
+Trinity College Dublin;houses;Kells Monastery
+Trinity College Dublin;houses;Long Room
+Trinity College Dublin;houses;Manuscripts & Archives Research Library
+Trinity College Dublin;houses;Gospel book
+Trinity College Dublin;houses;insular majuscule
+Trinity College Dublin;houses;prefaces
+Trinity College Dublin;houses;Gospel passages
+Trinity College Dublin;houses;340 folios
+Trinity College Dublin;houses;678 illustrated pages
+Trinity College Dublin;houses;emblems
+Trinity College Dublin;houses;symbols
+Trinity College Dublin;houses;Christian iconography
+Trinity College Dublin;houses;Celtic motifs
+Manuscripts & Archives Research Library;located in;Trinity College Dublin
+Manuscripts & Archives Research Library;houses;Book of Kells
+Manuscripts & Archives Research Library;houses;Long Room
+Manuscripts & Archives Research Library;houses;Old Library
+Manuscripts & Archives Research Library;houses;The Book of Kells
+Manuscripts & Archives Research Library;houses;The Old Library at Trinity College
+Manuscripts & Archives Research Library;houses;Book of Armagh
+Manuscripts & Archives Research Library;houses;Book of Mulling
+Manuscripts & Archives Research Library;houses;monastery on Iona
+Manuscripts & Archives Research Library;houses;Kells Monastery
+Manuscripts & Archives Research Library;houses;Long Room
+Manuscripts & Archives Research Library;houses;Gospel book
+Manuscripts & Archives Research Library;houses;insular majuscule
+Manuscripts & Archives Research Library;houses;prefaces
+Manuscripts & Archives Research Library;houses;Gospel passages
+Manuscripts & Archives Research Library;houses;340 folios
+Manuscripts & Archives Research Library;houses;678 illustrated pages
+Manuscripts & Archives Research Library;houses;emblems
+Manuscripts & Archives Research Library;houses;symbols
+Manuscripts & Archives Research Library;houses;Christian iconography
+Manuscripts & Archives Research Library;houses;Celtic motifs

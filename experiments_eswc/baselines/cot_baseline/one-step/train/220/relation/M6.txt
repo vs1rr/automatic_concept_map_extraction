@@ -1,0 +1,11 @@
+subject;predicate;object
+East India Company;played a crucial role in;formation of the British Empire
+East India Company;established;trading posts in India
+East India Company;established;trading posts in Asia
+East India Company;became;a dominant power in the region
+East India Company;led to;cultural changes in Britain
+East India Company;led to;economic changes in Britain
+East India Company;led to;significant changes in Britain
+Indian Rebellion of 1857;marked;a turning point
+Indian Rebellion of 1857;led to;dissolution of the East India Company
+Indian Rebellion of 1857;led to;transfer of India's administration to the British Crown

@@ -1,0 +1,8 @@
+subject;predicate;object
+Los Alamos Historical Society;hosted;viewing
+Los Alamos Historical Society;focused on;British scientists
+episode;explored;reasons why Thin Man bomb was not built
+episode;touched on;events in Minsk during World War II
+episode;included;references to Schrödinger's cat
+episode;included;poem by William Butler Yeats
+episode;included;quote from Virginia Woolf

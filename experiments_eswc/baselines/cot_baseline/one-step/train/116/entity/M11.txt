@@ -1,0 +1,15 @@
+entity;surface
+Bramshill House;Bramshill House
+Jacobean-style building;Jacobean-style building
+17th century;early 17th century
+police staff training college;police staff training college
+symmetrical elevations;symmetrical elevations
+narrow interior court;narrow interior court
+red brick construction;red brick construction
+stone details;stone details
+principal police training college;principal police training college
+UK;UK
+1960;1960
+National Policing Improvement Agency;National Policing Improvement Agency
+refurbishment;refurbishment
+2014;2014

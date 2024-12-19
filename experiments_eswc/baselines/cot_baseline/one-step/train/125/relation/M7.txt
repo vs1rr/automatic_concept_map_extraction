@@ -1,0 +1,7 @@
+subject;predicate;object
+Capon Chapel;led by;Pastor Chris Leatherman
+Capon Chapel;has;Sunday School
+Sunday School;starts at;10:00 AM
+Sunday School;followed by;Worship Service
+Worship Service;starts at;11:00 AM
+Capon Chapel;has contact number;304.492.5838
